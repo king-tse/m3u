@@ -1,0 +1,37 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/yinyin83943108&douyin&logo" group-title="•抖音「娱乐」",不喝可乐
+http://live.iill.top/douyin.php?id=yinyin83943108
+#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/youzhixiaobo_cat&douyin&logo" group-title="•抖音「娱乐」",幼稚小啵
+http://live.iill.top/douyin.php?id=youzhixiaobo_cat
+#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/CHEFOOBAR&douyin&logo" group-title="•抖音「娱乐」",老赵
+http://live.iill.top/douyin.php?id=CHEFOOBAR
+#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/diyinzhaopen&douyin&logo" group-title="•抖音「娱乐」",低音赵鹏
+http://live.iill.top/douyin.php?id=diyinzhaopen
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/YouTube.png" group-title="•YouTube「娱乐」",Chill美股生活
+https://tv.iill.top/youtube/chill.trading
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/YouTube.png" group-title="•YouTube「娱乐」",StockTalkWithJay美股探索者
+https://tv.iill.top/youtube/stocktalkjay
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/YouTube.png" group-title="•YouTube「娱乐」",Federal Reserve美联储
+https://tv.iill.top/youtube/federalreserve
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/YouTube.png" group-title="•YouTube「其他」",鏡新聞
+https://tv.iill.top/youtube/5n0y6b0Q25o
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/YouTube.png" group-title="•YouTube「其他」",三立新聞
+https://tv.iill.top/youtube/CKjSm5ZeehE
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/YouTube.png" group-title="•YouTube「其他」",民視新聞
+https://tv.iill.top/youtube/ylYJSBUgaMA
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/YouTube.png" group-title="•YouTube「其他」",公視新聞
+https://tv.iill.top/youtube/quwqlazU-c8
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/YouTube.png" group-title="•YouTube「其他」",東森新聞
+https://tv.iill.top/youtube/LuQ4S-i5zoE
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/YouTube.png" group-title="•YouTube「其他」",TVBS NEWS
+https://tv.iill.top/youtube/m_dhMSvUCIc
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/YouTube.png" group-title="•YouTube「其他」",寰宇新聞
+https://tv.iill.top/youtube/w87VGpgd90U
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/YouTube.png" group-title="•YouTube「其他」",台視新聞
+https://tv.iill.top/youtube/xL0ch83RAK8
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/YouTube.png" group-title="•YouTube「娱乐」",鳳凰衛視PhoenixTV
+https://tv.iill.top/youtube/phoenixtvhk
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/YouTube.png" group-title="•YouTube「娱乐」",CNBC
+https://tv.iill.top/youtube/CNBC
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/YouTube.png" group-title="•YouTube「娱乐」",Bloomberg Television 
+https://tv.iill.top/youtube/markets
