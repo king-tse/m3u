@@ -37,5 +37,7 @@ https://tv.iill.top/youtube/phoenixtvhk
 https://tv.iill.top/youtube/CNBC
 #EXTINF:-1 tvg-logo="https://github.com/king-tse/m3u/raw/main/logo/youtube.png" group-title="•新闻",Bloomberg Television 「YouTube」
 https://tv.iill.top/youtube/markets
+#EXTINF:-1 tvg-logo="https://github.com/king-tse/m3u/raw/main/logo/douyin.jpg" group-title="•城市直播",上海户外直播「抖音」
+http://live.iill.top/douyin.php?id=tobbs
 #EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/279409474&bilibili&logo" group-title="•直播",魔都纪「B站」
 http://live.iill.top/bilibili.php?id=279409474
