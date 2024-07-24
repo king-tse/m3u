@@ -9,12 +9,12 @@ http://live.iill.top/douyin.php?id=CHEFOOBAR
 http://live.iill.top/douyin.php?id=diyinzhaopen
 #EXTINF:-1 tvg-logo="https://github.com/king-tse/m3u/raw/main/logo/douyin.jpg" group-title="•发布会",雷军「抖音」
 http://live.iill.top/douyin.php?id=xmleijun
+#EXTINF:-1 tvg-logo="https://github.com/king-tse/m3u/raw/main/logo/youtube.png" group-title="•发布会",Federal Reserve美联储「YouTube」
+https://tv.iill.top/youtube/federalreserve
+#EXTINF:-1 tvg-logo="https://github.com/king-tse/m3u/raw/main/logo/youtube.png" group-title="•发布会",StockTalkWithJay美股探索者「YouTube」
+https://tv.iill.top/youtube/stocktalkjay
 #EXTINF:-1 tvg-logo="https://github.com/king-tse/m3u/raw/main/logo/youtube.png" group-title="•新闻",Chill美股生活「YouTube」
 https://tv.iill.top/youtube/chill.trading
-#EXTINF:-1 tvg-logo="https://github.com/king-tse/m3u/raw/main/logo/youtube.png" group-title="•新闻",StockTalkWithJay美股探索者「YouTube」
-https://tv.iill.top/youtube/stocktalkjay
-#EXTINF:-1 tvg-logo="https://github.com/king-tse/m3u/raw/main/logo/youtube.png" group-title="•新闻",Federal Reserve美联储「YouTube」
-https://tv.iill.top/youtube/federalreserve
 #EXTINF:-1 tvg-logo="https://github.com/king-tse/m3u/raw/main/logo/youtube.png" group-title="•新闻",鏡新聞「YouTube」
 https://tv.iill.top/youtube/5n0y6b0Q25o
 #EXTINF:-1 tvg-logo="https://github.com/king-tse/m3u/raw/main/logo/youtube.png" group-title="•新闻",三立新聞「YouTube」
@@ -39,5 +39,5 @@ https://tv.iill.top/youtube/CNBC
 https://tv.iill.top/youtube/markets
 #EXTINF:-1 tvg-logo="https://github.com/king-tse/m3u/raw/main/logo/douyin.jpg" group-title="•城市直播",上海户外直播「抖音」
 http://live.iill.top/douyin.php?id=tobbs
-#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/279409474&bilibili&logo" group-title="•直播",魔都纪「B站」
+#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/279409474&bilibili&logo" group-title="•城市直播",魔都纪「B站」
 http://live.iill.top/bilibili.php?id=279409474
