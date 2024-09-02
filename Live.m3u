@@ -1,8 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://github.com/king-tse/m3u/raw/main/logo/buhekele.jpg" group-title="•MUSIC",不喝可乐「抖音」
-http://live.iill.top/douyin.php?id=yinyin83943108
 #EXTINF:-1 tvg-logo="https://github.com/king-tse/m3u/raw/main/logo/youzhixiaobo.jpg" group-title="•MUSIC",幼稚小啵「抖音」
 http://live.iill.top/douyin.php?id=youzhixiaobo_cat
+#EXTINF:-1 tvg-logo="https://github.com/king-tse/m3u/raw/main/logo/buhekele.jpg" group-title="•MUSIC",不喝可乐「抖音」
+http://live.iill.top/douyin.php?id=yinyin83943108
 #EXTINF:-1 tvg-logo="https://github.com/king-tse/m3u/raw/main/logo/laozhao.jpg" group-title="•MUSIC",老赵「抖音」
 http://live.iill.top/douyin.php?id=CHEFOOBAR
 #EXTINF:-1 tvg-logo="https://github.com/king-tse/m3u/raw/main/logo/zhaopeng.jpg" group-title="•MUSIC",低音赵鹏「抖音」
@@ -51,6 +51,8 @@ http://live.iill.top/douyin.php?id=dym6wqiktadu
 http://live.iill.top/douyin.php?id=LingYunS
 #EXTINF:-1 tvg-logo="https://github.com/king-tse/m3u/raw/main/logo/douyin.jpg" group-title="•MUSIC",苏州知弦社评弹「抖音」
 http://live.iill.top/douyin.php?id=2242459668
+#EXTINF:-1 tvg-logo="https://github.com/king-tse/m3u/raw/main/logo/douyin.jpg" group-title="•MUSIC",宋一宋二「抖音」
+http://live.iill.top/douyin.php?id=71123021098
 #EXTINF:-1 tvg-logo="https://github.com/king-tse/m3u/raw/main/logo/douyin.jpg" group-title="•发布会",雷军「抖音」
 http://live.iill.top/douyin.php?id=xmleijun
 #EXTINF:-1 tvg-logo="https://github.com/king-tse/m3u/raw/main/logo/youtube.png" group-title="•发布会",Federal Reserve美联储「YouTube」
