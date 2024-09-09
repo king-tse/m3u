@@ -97,6 +97,8 @@ http://live.iill.top/douyin.php?id=0204pc
 http://live.iill.top/douyin.php?id=PandoraDuo_FM
 #EXTINF:-1 tvg-logo="https://github.com/king-tse/m3u/raw/main/logo/douyin.jpg" group-title="•发布会",雷军「抖音」
 http://live.iill.top/douyin.php?id=xmleijun
+#EXTINF:-1 tvg-logo="https://github.com/king-tse/m3u/raw/main/logo/douyin.jpg" group-title="•发布会",影视飓风「抖音」
+http://live.iill.top/douyin.php?id=superslow
 #EXTINF:-1 tvg-logo="https://github.com/king-tse/m3u/raw/main/logo/youtube.png" group-title="•发布会",Federal Reserve美联储「YouTube」
 https://tv.iill.top/youtube/federalreserve
 #EXTINF:-1 tvg-logo="https://github.com/king-tse/m3u/raw/main/logo/youtube.png" group-title="•发布会",StockTalkWithJay美股探索者「YouTube」
