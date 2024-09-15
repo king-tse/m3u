@@ -141,5 +141,11 @@ https://tv.iill.top/youtube/markets
 http://live.iill.top/douyin.php?id=tobbs
 #EXTINF:-1 tvg-logo="https://github.com/king-tse/m3u/raw/main/logo/douyin.jpg" group-title="•城市直播",上海奉贤「抖音」
 http://live.iill.top/douyin.php?id=FXrmt001
+#EXTINF:-1 tvg-logo="https://github.com/king-tse/m3u/raw/main/logo/douyin.jpg" group-title="•城市直播",浦东发布「抖音」
+http://live.iill.top/douyin.php?id=pudongfabu
+#EXTINF:-1 tvg-logo="https://github.com/king-tse/m3u/raw/main/logo/douyin.jpg" group-title="•城市直播",国家应急广播「抖音」
+http://live.iill.top/douyin.php?id=906415300
+#EXTINF:-1 tvg-logo="https://github.com/king-tse/m3u/raw/main/logo/douyin.jpg" group-title="•城市直播",澎湃新闻「抖音」
+http://live.iill.top/douyin.php?id=ppxw_thepaper
 #EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/279409474&bilibili&logo" group-title="•城市直播",魔都纪「B站」
 http://live.iill.top/bilibili.php?id=279409474
