@@ -139,6 +139,8 @@ https://tv.iill.top/youtube/CNBC
 https://tv.iill.top/youtube/markets
 #EXTINF:-1 tvg-logo="https://github.com/king-tse/m3u/raw/main/logo/douyin.jpg" group-title="•城市直播",上海户外直播「抖音」
 http://live.iill.top/douyin.php?id=tobbs
+#EXTINF:-1 tvg-logo="https://github.com/king-tse/m3u/raw/main/logo/douyin.jpg" group-title="•城市直播",魔都游记「抖音」
+http://live.iill.top/douyin.php?id=571175773
 #EXTINF:-1 tvg-logo="https://github.com/king-tse/m3u/raw/main/logo/douyin.jpg" group-title="•城市直播",上海奉贤「抖音」
 http://live.iill.top/douyin.php?id=FXrmt001
 #EXTINF:-1 tvg-logo="https://github.com/king-tse/m3u/raw/main/logo/douyin.jpg" group-title="•城市直播",浦东发布「抖音」
