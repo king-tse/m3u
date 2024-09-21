@@ -155,3 +155,5 @@ http://live.iill.top/douyin.php?id=906415300
 http://live.iill.top/douyin.php?id=ppxw_thepaper
 #EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/279409474&bilibili&logo" group-title="•城市直播",魔都纪「B站」
 http://live.iill.top/bilibili.php?id=279409474
+#EXTINF:-1 tvg-logo="https://github.com/king-tse/m3u/raw/main/logo/douyin.jpg" group-title="•城市直播",小阿苏（食外桃源）「抖音」
+http://live.iill.top/douyin.php?id=23100516831
