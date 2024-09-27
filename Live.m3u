@@ -119,6 +119,8 @@ http://live.iill.top/douyin.php?id=superslow
 https://tv.iill.top/youtube/federalreserve
 #EXTINF:-1 tvg-logo="https://github.com/king-tse/m3u/raw/main/logo/youtube.png" group-title="•发布会",StockTalkWithJay美股探索者「YouTube」
 https://tv.iill.top/youtube/stocktalkjay
+#EXTINF:-1 tvg-logo="https://github.com/king-tse/m3u/raw/main/logo/douyin.jpg" group-title="•发布会",老白分析室「抖音」
+http://live.iill.top/douyin.php?id=luge0226
 #EXTINF:-1 tvg-logo="https://github.com/king-tse/m3u/raw/main/logo/youtube.png" group-title="•新闻",Chill美股生活「YouTube」
 https://tv.iill.top/youtube/chill.trading
 #EXTINF:-1 tvg-logo="https://github.com/king-tse/m3u/raw/main/logo/youtube.png" group-title="•新闻",凤凰卫视「抖音」
