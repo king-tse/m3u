@@ -159,6 +159,8 @@ http://live.iill.top/douyin.php?id=tobbs
 http://live.iill.top/douyin.php?id=571175773
 #EXTINF:-1 tvg-logo="https://github.com/king-tse/m3u/raw/main/logo/douyin.jpg" group-title="•城市直播",上海奉贤「抖音」
 http://live.iill.top/douyin.php?id=FXrmt001
+#EXTINF:-1 tvg-logo="https://github.com/king-tse/m3u/raw/main/logo/douyin.jpg" group-title="•城市直播",上海发布「抖音」
+http://live.iill.top/douyin.php?id=shanghaifabu
 #EXTINF:-1 tvg-logo="https://github.com/king-tse/m3u/raw/main/logo/douyin.jpg" group-title="•城市直播",浦东发布「抖音」
 http://live.iill.top/douyin.php?id=pudongfabu
 #EXTINF:-1 tvg-logo="https://github.com/king-tse/m3u/raw/main/logo/douyin.jpg" group-title="•城市直播",国家应急广播「抖音」
