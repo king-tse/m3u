@@ -129,6 +129,8 @@ http://live.iill.top/douyin.php?id=luge0226
 https://tv.iill.top/youtube/chill.trading
 #EXTINF:-1 tvg-logo="https://github.com/king-tse/m3u/raw/main/logo/youtube.png" group-title="•新闻",凤凰卫视「抖音」
 http://live.iill.top/douyin.php?id=876955174
+#EXTINF:-1 tvg-logo="https://github.com/king-tse/m3u/raw/main/logo/youtube.png" group-title="•新闻",央视新闻「抖音」
+http://live.iill.top/douyin.php?id=cctvnews
 #EXTINF:-1 tvg-logo="https://github.com/king-tse/m3u/raw/main/logo/youtube.png" group-title="•新闻",凤凰WEEKLY「抖音」
 http://live.iill.top/douyin.php?id=phoenixweekly
 #EXTINF:-1 tvg-logo="https://github.com/king-tse/m3u/raw/main/logo/youtube.png" group-title="•新闻",鏡新聞「YouTube」
