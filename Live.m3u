@@ -155,6 +155,10 @@ https://live.iill.top/youtube/m_dhMSvUCIc
 https://live.iill.top/youtube/globalnewstw
 #EXTINF:-1 tvg-logo="https://github.com/king-tse/m3u/raw/main/logo/youtube.png" group-title="•新闻",中天電視CtiTv「YouTube」
 https://live.iill.top/youtube/中天電視CtiTv
+#EXTINF:-1 tvg-logo="https://github.com/king-tse/m3u/raw/main/logo/youtube.png" group-title="•新闻",中天新聞CtiNews「YouTube」
+https://live.iill.top/youtube/中天新聞CtiNews
+#EXTINF:-1 tvg-logo="https://github.com/king-tse/m3u/raw/main/logo/youtube.png" group-title="•新闻",USTV 非凡電視「YouTube」
+https://live.iill.top/youtube/ustv
 #EXTINF:-1 tvg-logo="https://github.com/king-tse/m3u/raw/main/logo/youtube.png" group-title="•新闻",台視新聞「YouTube」
 https://live.iill.top/youtube/xL0ch83RAK8
 #EXTINF:-1 tvg-logo="https://github.com/king-tse/m3u/raw/main/logo/youtube.png" group-title="•新闻",鳳凰衛視PhoenixTV「YouTube」
