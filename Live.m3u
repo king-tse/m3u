@@ -157,6 +157,8 @@ https://live.iill.top/youtube/globalnewstw
 https://live.iill.top/youtube/中天電視CtiTv
 #EXTINF:-1 tvg-logo="https://github.com/king-tse/m3u/raw/main/logo/youtube.png" group-title="•新闻",中天新聞CtiNews「YouTube」
 https://live.iill.top/youtube/中天新聞CtiNews
+#EXTINF:-1 tvg-logo="https://github.com/king-tse/m3u/raw/main/logo/youtube.png" group-title="•新闻",中視新聞「YouTube」
+https://live.iill.top/youtube/chinatvnews
 #EXTINF:-1 tvg-logo="https://github.com/king-tse/m3u/raw/main/logo/youtube.png" group-title="•新闻",USTV 非凡電視「YouTube」
 https://live.iill.top/youtube/ustv
 #EXTINF:-1 tvg-logo="https://github.com/king-tse/m3u/raw/main/logo/youtube.png" group-title="•新闻",台視新聞「YouTube」
