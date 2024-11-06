@@ -165,6 +165,8 @@ https://live.iill.top/youtube/xL0ch83RAK8
 https://live.iill.top/youtube/phoenixtvhk
 #EXTINF:-1 tvg-logo="https://github.com/king-tse/m3u/raw/main/logo/youtube.png" group-title="•新闻",CNBC「YouTube」
 https://live.iill.top/youtube/CNBC
+#EXTINF:-1 tvg-logo="https://github.com/king-tse/m3u/raw/main/logo/youtube.png" group-title="•新闻",FoxNews「YouTube」
+https://live.iill.top/youtube/FoxNews
 #EXTINF:-1 tvg-logo="https://github.com/king-tse/m3u/raw/main/logo/youtube.png" group-title="•新闻",ABCNews「YouTube」
 https://live.iill.top/youtube/ABCNews
 #EXTINF:-1 tvg-logo="https://github.com/king-tse/m3u/raw/main/logo/youtube.png" group-title="•新闻",Bloomberg Television 「YouTube」
