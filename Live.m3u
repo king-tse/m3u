@@ -179,6 +179,8 @@ https://live.iill.top/youtube/FoxNews
 https://live.iill.top/youtube/ABCNews
 #EXTINF:-1 tvg-logo="https://github.com/king-tse/m3u/raw/main/logo/youtube.png" group-title="•新闻",Bloomberg Television 「YouTube」
 https://live.iill.top/youtube/markets
+#EXTINF:-1 tvg-logo="https://github.com/king-tse/m3u/raw/main/logo/youtube.png" group-title="•新闻",日本地震TEEFIVE「YouTube」
+https://live.iill.top/youtube/teefive
 #EXTINF:-1 tvg-logo="https://github.com/king-tse/m3u/raw/main/logo/douyin.jpg" group-title="•城市直播",上海户外直播「抖音」
 http://live.iill.top/douyin.php?id=tobbs
 #EXTINF:-1 tvg-logo="https://github.com/king-tse/m3u/raw/main/logo/douyin.jpg" group-title="•城市直播",魔都游记「抖音」
