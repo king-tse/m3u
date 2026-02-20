@@ -19,9 +19,9 @@ https://live.iill.top/douyin/7.7.7G
 https://live.iill.top/douyin/CHEFOOBAR
 #EXTINF:-1 tvg-logo="https://github.com/king-tse/m3u/raw/main/logo/douyin.jpg" group-title="•MUSIC",瑶瑶FM Foxy（爵士风）「抖音」
 https://live.iill.top/douyin/52198328244
-EXTINF:-1 tvg-logo="https://github.com/king-tse/m3u/raw/main/logo/douyin.jpg" group-title="•MUSIC",爵小爵（爵士风）「抖音」
+#EXTINF:-1 tvg-logo="https://github.com/king-tse/m3u/raw/main/logo/douyin.jpg" group-title="•MUSIC",爵小爵（爵士风）「抖音」
 https://live.iill.top/douyin/JM2728
-EXTINF:-1 tvg-logo="https://github.com/king-tse/m3u/raw/main/logo/douyin.jpg" group-title="•MUSIC",小梅子爱唱歌（爵士风）「抖音」
+#EXTINF:-1 tvg-logo="https://github.com/king-tse/m3u/raw/main/logo/douyin.jpg" group-title="•MUSIC",小梅子爱唱歌（爵士风）「抖音」
 https://live.iill.top/douyin/56241635423
 #EXTINF:-1 tvg-logo="https://github.com/king-tse/m3u/raw/main/logo/douyin.jpg" group-title="•MUSIC",低音赵鹏「抖音」
 https://live.iill.top/douyin/diyinzhaopen
