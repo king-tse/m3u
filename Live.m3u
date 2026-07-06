@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://github.com/king-tse/m3u/raw/main/logo/youzhixiaobo.jpg" group-title="•MUSIC",幼稚小啵「抖音」
 https://cdn-3.ttvb.eu.org/douyin/youzhixiaobo_cat
+#EXTINF:-1 tvg-logo="https://github.com/king-tse/m3u/raw/main/logo/youzhixiaobo.jpg" group-title="•MUSIC",罗大头「抖音」
+https://cdn-3.ttvb.eu.org/douyin/xjglymy
 #EXTINF:-1 tvg-logo="https://github.com/king-tse/m3u/raw/main/logo/douyin.jpg" group-title="•MUSIC",脸一点也不圆（戏曲）「抖音」
 https://cdn-3.ttvb.eu.org/douyin/36862462986
 #EXTINF:-1 tvg-logo="https://github.com/king-tse/m3u/raw/main/logo/douyin.jpg" group-title="•MUSIC",黄梅戏宋庆（黄梅戏）「抖音」
