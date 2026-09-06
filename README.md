@@ -14,7 +14,8 @@ my-iptv-repo/
 │   └── filter_epg.py           # 自动化拉取与过滤脚本
 ├── .gitignore
 ├── README.md                   # 项目说明文档
-└── Gather.m3u                # 主列表（直接放在根目录方便对外提供 URL）
+└── Gather.m3u                  # 频道源
+└── Gather_epg.xml.gz           # 频道源epg节目单
 ```
 
 ### 推荐软件
