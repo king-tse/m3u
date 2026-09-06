@@ -1,38 +1,44 @@
 {
   "upstream_urls": [
     "https://iptv.yang-1989.xyz/playlist.m3u",
-    "https://iptv-org.github.io/iptv/countries/cn.m3u"
+    "https://iptv-org.github.io/iptv/index.m3u"
   ],
   "keep_channels": [
     {
       "name": "CCTV-1 综合",
       "group": "央视频道",
-      "keywords": ["CCTV1", "CCTV-1", "CCTV1综合"]
+      "keywords": ["CCTV1", "CCTV-1", "CCTV1综合"],
+      "xml_url": "http://epg.51zmt.top:8000/api/diyp/cctv1.xml"
     },
     {
       "name": "CCTV-5 体育",
       "group": "央视频道",
-      "keywords": ["CCTV5", "CCTV-5", "CCTV5体育"]
+      "keywords": ["CCTV5", "CCTV-5", "CCTV5体育"],
+      "xml_url": "http://epg.51zmt.top:8000/api/diyp/cctv5.xml"
     },
     {
       "name": "CCTV-13 新闻",
       "group": "央视频道",
-      "keywords": ["CCTV13", "CCTV-13", "CCTV13新闻"]
+      "keywords": ["CCTV13", "CCTV-13", "CCTV13新闻"],
+      "xml_url": "http://epg.51zmt.top:8000/api/diyp/cctv13.xml"
     },
     {
       "name": "湖南卫视",
       "group": "地方卫视",
-      "keywords": ["湖南卫视", "湖南高清"]
+      "keywords": ["湖南卫视", "湖南高清"],
+      "xml_url": "http://epg.51zmt.top:8000/api/diyp/hunan.xml"
     },
     {
       "name": "浙江卫视",
       "group": "地方卫视",
-      "keywords": ["浙江卫视", "浙江高清"]
+      "keywords": ["浙江卫视", "浙江高清"],
+      "xml_url": "http://epg.51zmt.top:8000/api/diyp/zhejiang.xml"
     },
     {
       "name": "凤凰卫视资讯台",
       "group": "港澳台/境外",
-      "keywords": ["凤凰资讯", "凤凰卫视资讯", "Phoenix InfoNews"]
+      "keywords": ["凤凰资讯", "凤凰卫视资讯", "Phoenix InfoNews"],
+      "xml_url": "http://epg.51zmt.top:8000/api/diyp/fenghuangzixun.xml"
     }
   ]
 }
