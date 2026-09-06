@@ -14,7 +14,7 @@ my-iptv-repo/
 │   └── filter_epg.py           # 自动化拉取与过滤脚本
 ├── .gitignore
 ├── README.md                   # 项目说明文档
-└── Gather.m3u                  # 频道源
+├── Gather.m3u                  # 频道源
 └── Gather_epg.xml.gz           # 频道源epg节目单
 ```
 
