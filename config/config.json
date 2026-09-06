@@ -4,41 +4,107 @@
     "https://iptv-org.github.io/iptv/index.m3u"
   ],
   "keep_channels": [
-    {
-      "name": "CCTV-1 综合",
-      "group": "央视频道",
-      "keywords": ["CCTV1", "CCTV-1", "CCTV1综合"],
-      "xml_url": "http://epg.51zmt.top:8000/api/diyp/cctv1.xml"
+{
+      "name": "BBC News",
+      "group": "NEWS",
+      "keywords": ["bbc news"],
+      "xml_url": "https://epg.pw/xmltv/epg_GB.xml"
     },
     {
-      "name": "CCTV-5 体育",
-      "group": "央视频道",
-      "keywords": ["CCTV5", "CCTV-5", "CCTV5体育"],
-      "xml_url": "http://epg.51zmt.top:8000/api/diyp/cctv5.xml"
+      "name": "BBC World News",
+      "group": "NEWS",
+      "keywords": ["bbc world news", "bbc world"],
+      "xml_url": "https://epg.pw/xmltv/epg_GB.xml"
     },
     {
-      "name": "CCTV-13 新闻",
-      "group": "央视频道",
-      "keywords": ["CCTV13", "CCTV-13", "CCTV13新闻"],
-      "xml_url": "http://epg.51zmt.top:8000/api/diyp/cctv13.xml"
+      "name": "CNN",
+      "group": "NEWS",
+      "keywords": ["cnn"],
+      "xml_url": "https://epg.pw/xmltv/epg_US.xml"
     },
     {
-      "name": "湖南卫视",
-      "group": "地方卫视",
-      "keywords": ["湖南卫视", "湖南高清"],
-      "xml_url": "http://epg.51zmt.top:8000/api/diyp/hunan.xml"
+      "name": "CNN International",
+      "group": "NEWS",
+      "keywords": ["cnn international", "cnn int"],
+      "xml_url": "https://epg.pw/xmltv/epg_US.xml"
     },
     {
-      "name": "浙江卫视",
-      "group": "地方卫视",
-      "keywords": ["浙江卫视", "浙江高清"],
-      "xml_url": "http://epg.51zmt.top:8000/api/diyp/zhejiang.xml"
+      "name": "Fox News Channel",
+      "group": "NEWS",
+      "keywords": ["fox news channel", "fox news", "foxnews"],
+      "xml_url": "https://epg.pw/xmltv/epg_US.xml"
+    },
+    {
+      "name": "MSNBC",
+      "group": "NEWS",
+      "keywords": ["msnbc", "msnbc news"],
+      "xml_url": "https://epg.pw/xmltv/epg_US.xml"
+    },
+    {
+      "name": "CGTN",
+      "group": "NEWS",
+      "keywords": ["cgtn", "cgtn english", "cgtn news"],
+      "xml_url": "https://epg.pw/xmltv/epg_CN.xml"
+    },
+    {
+      "name": "NHK World-Japan",
+      "group": "NEWS",
+      "keywords": ["nhk world-japan", "nhk world japan", "nhk world", "nhk japan"],
+      "xml_url": "https://epg.pw/xmltv/epg_JP.xml"
+    },
+    {
+      "name": "France 24",
+      "group": "NEWS",
+      "keywords": ["france 24", "france24", "france 24 english"],
+      "xml_url": "https://epg.pw/xmltv/epg_FR.xml"
+    },
+    {
+      "name": "DW",
+      "group": "NEWS",
+      "keywords": ["dw", "dw english"],
+      "xml_url": "https://epg.pw/xmltv/epg_DE.xml"
+    },
+    {
+      "name": "Deutsche Welle",
+      "group": "NEWS",
+      "keywords": ["deutsche welle"],
+      "xml_url": "https://epg.pw/xmltv/epg_DE.xml"
+    },
+    {
+      "name": "RT",
+      "group": "NEWS",
+      "keywords": ["rt", "russia today"],
+      "xml_url": "https://epg.pw/xmltv/epg_RU.xml"
+    },
+    {
+      "name": "Al Jazeera",
+      "group": "NEWS",
+      "keywords": ["al jazeera", "aljazeera"],
+      "xml_url": "https://epg.pw/xmltv/epg_US.xml"
+    },
+    {
+      "name": "Al Jazeera English",
+      "group": "NEWS",
+      "keywords": ["al jazeera english", "aljazeera english"],
+      "xml_url": "https://epg.pw/xmltv/epg_US.xml"
+    },
+    {
+      "name": "CNBC",
+      "group": "NEWS",
+      "keywords": ["cnbc", "cnbc us", "cnbc asia"],
+      "xml_url": "https://epg.pw/xmltv/epg_US.xml"
+    },
+    {
+      "name": "Bloomberg TV",
+      "group": "NEWS",
+      "keywords": ["bloomberg tv", "bloomberg", "bloomberg us"],
+      "xml_url": "https://epg.pw/xmltv/epg_US.xml"
     },
     {
       "name": "凤凰卫视资讯台",
       "group": "港澳台/境外",
       "keywords": ["凤凰资讯", "凤凰卫视资讯", "Phoenix InfoNews"],
-      "xml_url": "http://epg.51zmt.top:8000/api/diyp/fenghuangzixun.xml"
+      "xml_url": "https://epg.pw/api/epg.xml?lang=zh-hant&date=20260906&channel_id=410355"
     }
   ]
 }
