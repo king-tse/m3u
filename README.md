@@ -4,7 +4,7 @@
 ---
 ### 目录结构
 ```
-my-iptv-repo/
+m3u/
 ├── .github/
 │   └── workflows/
 │       └── update.yml          # GitHub Actions 自动化脚本
