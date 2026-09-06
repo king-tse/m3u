@@ -4,9 +4,35 @@
     "https://iptv-org.github.io/iptv/countries/cn.m3u"
   ],
   "keep_channels": [
-    {"name": "CCTV-1 综合", "keywords": ["CCTV1", "CCTV-1"]},
-    {"name": "CCTV-13 新闻", "keywords": ["CCTV13", "CCTV-13"]},
-    {"name": "湖南卫视", "keywords": ["湖南卫视", "湖南高清"]},
-    {"name": "凤凰卫视资讯台", "keywords": ["凤凰资讯", "凤凰卫视资讯"]}
+    {
+      "name": "CCTV-1 综合",
+      "group": "央视频道",
+      "keywords": ["CCTV1", "CCTV-1", "CCTV1综合"]
+    },
+    {
+      "name": "CCTV-5 体育",
+      "group": "央视频道",
+      "keywords": ["CCTV5", "CCTV-5", "CCTV5体育"]
+    },
+    {
+      "name": "CCTV-13 新闻",
+      "group": "央视频道",
+      "keywords": ["CCTV13", "CCTV-13", "CCTV13新闻"]
+    },
+    {
+      "name": "湖南卫视",
+      "group": "地方卫视",
+      "keywords": ["湖南卫视", "湖南高清"]
+    },
+    {
+      "name": "浙江卫视",
+      "group": "地方卫视",
+      "keywords": ["浙江卫视", "浙江高清"]
+    },
+    {
+      "name": "凤凰卫视资讯台",
+      "group": "港澳台/境外",
+      "keywords": ["凤凰资讯", "凤凰卫视资讯", "Phoenix InfoNews"]
+    }
   ]
 }
