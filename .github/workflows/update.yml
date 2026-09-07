@@ -98,7 +98,7 @@ jobs:
 
           print(f"\n📡 上游合并完成，总计 {len(all_raw)} 条线路，开始频道筛选与测速...\n")
 
-          # 3. 匹配并测速筛选（增加 tvg-id 标签）
+          # 3. 匹配并测速筛选
           final_items = []
           for target in config.get('keep_channels', []):
               t_name = target.get('name')
@@ -118,7 +118,6 @@ jobs:
                   if valid_urls:
                       print(f"🎯 [{t_name}] 匹配到 {len(matched_urls)} 条，测速通过 {len(valid_urls)} 条有效线路")
                       for idx, url in enumerate(valid_urls, 1):
-                          # 关键点：显式注入 tvg-id="{t_name}" 参数
                           final_items.append(f'#EXTINF:-1 tvg-id="{t_name}" tvg-name="{t_name}" group-title="{t_group}",{t_name} (线路{idx})\n{url}')
                   else:
                       print(f"❌ [{t_name}] 匹配到 {len(matched_urls)} 条，但测速后均不可用")
@@ -128,23 +127,35 @@ jobs:
           # 4. 写入 Gather.m3u
           with open('Gather.m3u', 'w', encoding='utf-8') as f:
               f.write("#EXTM3U\n" + "\n".join(final_items))
-          print(f"\n🎉 Gather.m3u 生成成功！包含 tvg-id 参数，精简测速后共 {len(final_items)} 条高可用线路。")
+          print(f"\n🎉 Gather.m3u 生成成功！共 {len(final_items)} 条高可用线路。")
 
-          # 5. 拼接 EPG XML 数据
+          # 5. 拼接 EPG XML 数据（强行修改 channel id 与 json 中的 name 保持一致）
           today_str = datetime.now().strftime("%Y%m%d")
           root_epg = ET.Element("tv")
-          print("\n📺 开始拼接 EPG 数据...")
+          print("\n📺 开始拼接并修正 EPG 数据...")
           for target in config.get('keep_channels', []):
+              t_name = target.get('name')
               xml_url = target.get('xml_url')
               if not xml_url: continue
               xml_url = re.sub(r'date=\d{8}', f'date={today_str}', xml_url)
               try:
                   resp = requests.get(xml_url, timeout=10)
                   if resp.status_code == 200:
-                      for elem in ET.fromstring(resp.content): root_epg.append(elem)
-                      print(f"  └─ ✅ 拼接 EPG [{target['name']}]")
+                      sub_tree = ET.fromstring(resp.content)
+                      for elem in sub_tree:
+                          # 强行将 XML 里的 channel id 修正为 config.json 中的 t_name
+                          if elem.tag == 'channel':
+                              elem.set('id', t_name)
+                              # 同时修改 display-name
+                              for d_name in elem.findall('display-name'):
+                                  d_name.text = t_name
+                          elif elem.tag == 'programme':
+                              elem.set('channel', t_name)
+                          
+                          root_epg.append(elem)
+                      print(f"  └─ ✅ 拼接与对齐 EPG [{t_name}]")
               except Exception as e:
-                  print(f"  └─ ❌ 拼接 EPG [{target['name']}] 失败: {e}")
+                  print(f"  └─ ❌ 拼接 EPG [{t_name}] 失败: {e}")
 
           # 6. 打包 EPG
           with gzip.open("Gather_epg.xml.gz", "wb") as f:
@@ -167,7 +178,7 @@ jobs:
         with:
           tag_name: epg
           name: "Latest EPG Data"
-          body: "自动更新的最新精简版 EPG 节目单文件"
+          body: "自动更新的最新精炼版 EPG 节目单文件"
           files: Gather_epg.xml.gz
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
