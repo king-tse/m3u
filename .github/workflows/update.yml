@@ -6,16 +6,20 @@ on:
     - cron: '0 20 * * *'
   workflow_dispatch: # 允许在 GitHub 网页界面手动点击触发
 
+# 赋予自动推送代码的写入权限
+permissions:
+  contents: write
+
 jobs:
   update-iptv:
     runs-on: ubuntu-latest
 
     steps:
       - name: 检出仓库代码
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: 配置 Python 环境
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
           python-version: '3.10'
 
@@ -23,6 +27,14 @@ jobs:
         run: |
           python -m pip install --upgrade pip
           pip install requests
+
+      - name: 检查并打印当前文件结构
+        run: |
+          echo "=== 正在检查仓库文件结构 ==="
+          pwd
+          ls -la
+          echo "=== 正在检查 scripts 目录 ==="
+          ls -la scripts || echo "❌ 警告：未找到 scripts 目录，请检查文件位置！"
 
       - name: 执行筛选、测速与 EPG 合成脚本
         run: python scripts/filter_epg.py
@@ -32,4 +44,5 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add Gather.m3u Gather_epg.xml.gz
-          git diff --quiet && git diff --staged --quiet || (git commit -m "chore: auto update Gather.m3u and Gather_epg.xml.gz [skip ci]" && git push)
+          git commit -m "chore: auto update Gather.m3u and Gather_epg.xml.gz [skip ci]" || echo "没有检测到更新"
+          git push
