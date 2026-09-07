@@ -73,7 +73,7 @@
     {
       "name": "Russia Today",
       "group": "NEWS",
-      "keywords": ["rt", "russia today"],
+      "keywords": ["russia today"],
       "xml_url": "https://epg.pw/api/epg.xml?lang=zh-hant&date=20260907&channel_id=449954"
     },
     {
