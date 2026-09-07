@@ -110,6 +110,7 @@ jobs:
           print("📦 Gather_epg.xml.gz 打包完成！")
           EOF
           python filter_runner.py
+          rm -f filter_runner.py
 
       - name: 提交并推送 m3u 文件到仓库
         run: |
@@ -117,7 +118,7 @@ jobs:
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add Gather.m3u
           git commit -m "chore: auto update Gather.m3u [skip ci]" || echo "没有检测到 M3U 更新"
-          git push origin main
+          git push origin main --force
 
       - name: 将 EPG 文件发布到 Release
         uses: softprops/action-gh-release@v1
