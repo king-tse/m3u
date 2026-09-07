@@ -10,8 +10,6 @@ m3u/
 │       └── update.yml          # GitHub Actions 自动化脚本
 ├── config/                     # 存放配置文件
 │   └── config.json             # 你的频道精选与匹配规则
-├── scripts/                    # 存放 Python 处理脚本
-│   └── filter_epg.py           # 自动化拉取与过滤脚本
 ├── .gitignore
 ├── README.md                   # 项目说明文档
 ├── Gather.m3u                  # 频道源
@@ -30,8 +28,21 @@ m3u/
 >QMPlay2 「电脑端」  
 ---
 ### 文件列表
-* M3U文件
+* TV M3U订阅地址
+>```
+>https://raw.githubusercontent.com/你的GitHub用户名/m3u/main/Gather.m3u
+>```
+>* TV EPG节目单地址
+>```
+>https://github.com/king-tse/m3u/releases/download/epg/Gather_epg.xml.gz
+>```
+
+* Live M3U订阅地址
+>```
 >https://github.com/king-tse/m3u/raw/main/live.m3u
+>```
+
+
 
 ---
 ### 历史记录
