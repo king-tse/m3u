@@ -30,7 +30,7 @@ jobs:
       - name: 执行筛选、测速与 EPG 合成脚本
         run: |
           cat << 'EOF' > filter_runner.py
-          import json, re, requests, gzip
+          import json, re, requests, gzip, time
           from datetime import datetime
           import xml.etree.ElementTree as ET
           from concurrent.futures import ThreadPoolExecutor, as_completed
@@ -41,7 +41,7 @@ jobs:
           def fetch_m3u(url):
               channels = []
               try:
-                  resp = requests.get(url, timeout=15)
+                  resp = requests.get(url, timeout=15, headers={'User-Agent': 'Mozilla/5.0'})
                   if resp.status_code == 200:
                       lines = resp.text.splitlines()
                       current_title = ""
@@ -129,38 +129,48 @@ jobs:
               f.write("#EXTM3U\n" + "\n".join(final_items))
           print(f"\n🎉 Gather.m3u 生成成功！共 {len(final_items)} 条高可用线路。")
 
-          # 5. 拼接 EPG XML 数据（强行修改 channel id 与 json 中的 name 保持一致）
+          # 5. 拼接 EPG XML 数据（防频控：带伪装 Header、延长超时至20秒、自动重试3次）
           today_str = datetime.now().strftime("%Y%m%d")
           root_epg = ET.Element("tv")
           print("\n📺 开始拼接并修正 EPG 数据...")
+          headers = {
+              'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
+          }
+
           for target in config.get('keep_channels', []):
               t_name = target.get('name')
               xml_url = target.get('xml_url')
               if not xml_url: continue
               xml_url = re.sub(r'date=\d{8}', f'date={today_str}', xml_url)
-              try:
-                  resp = requests.get(xml_url, timeout=10)
-                  if resp.status_code == 200:
-                      sub_tree = ET.fromstring(resp.content)
-                      for elem in sub_tree:
-                          # 强行将 XML 里的 channel id 修正为 config.json 中的 t_name
-                          if elem.tag == 'channel':
-                              elem.set('id', t_name)
-                              # 同时修改 display-name
-                              for d_name in elem.findall('display-name'):
-                                  d_name.text = t_name
-                          elif elem.tag == 'programme':
-                              elem.set('channel', t_name)
-                          
-                          root_epg.append(elem)
-                      print(f"  └─ ✅ 拼接与对齐 EPG [{t_name}]")
-              except Exception as e:
-                  print(f"  └─ ❌ 拼接 EPG [{t_name}] 失败: {e}")
+              
+              success = False
+              for attempt in range(1, 4):  # 重试 3 次
+                  try:
+                      resp = requests.get(xml_url, timeout=20, headers=headers)
+                      if resp.status_code == 200:
+                          sub_tree = ET.fromstring(resp.content)
+                          for elem in sub_tree:
+                              if elem.tag == 'channel':
+                                  elem.set('id', t_name)
+                                  for d_name in elem.findall('display-name'):
+                                      d_name.text = t_name
+                              elif elem.tag == 'programme':
+                                  elem.set('channel', t_name)
+                              root_epg.append(elem)
+                          print(f"  └─ ✅ 拼接与对齐 EPG [{t_name}]")
+                          success = True
+                          break
+                  except Exception as e:
+                      if attempt < 3:
+                          time.sleep(1.5)  # 间隔 1.5 秒重试
+              
+              if not success:
+                  print(f"  └─ ❌ 拼接 EPG [{t_name}] 失败: 连续重试3次均超时或连接失败")
 
           # 6. 打包 EPG
           with gzip.open("Gather_epg.xml.gz", "wb") as f:
               f.write(ET.tostring(root_epg, encoding='utf-8', xml_declaration=True))
-          print("📦 Gather_epg.xml.gz 打包完成！")
+          print("\n📦 Gather_epg.xml.gz 打包完成！")
           EOF
           python filter_runner.py
           rm -f filter_runner.py
