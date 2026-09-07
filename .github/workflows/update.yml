@@ -117,7 +117,9 @@ jobs:
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add Gather.m3u
           git commit -m "chore: auto update Gather.m3u [skip ci]" || echo "没有检测到 M3U 更新"
-          git pull origin main --rebase -X ours || true
+          git stash
+          git pull origin main --rebase
+          git stash pop || true
           git push origin main
 
       - name: 将 EPG 文件发布到 Release
