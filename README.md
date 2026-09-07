@@ -30,7 +30,7 @@ m3u/
 ### 文件列表
 * TV M3U订阅地址
 >```
->https://raw.githubusercontent.com/你的GitHub用户名/m3u/main/Gather.m3u
+>https://raw.githubusercontent.com/king-tse/m3u/main/Gather.m3u
 >```
 >* TV EPG节目单地址
 >```
