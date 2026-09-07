@@ -34,7 +34,10 @@ m3u/
 >```
 >* TV EPG节目单地址
 >```
->https://github.com/king-tse/m3u/releases/download/epg/Gather_epg.xml.gz
+>https://cdn.jsdelivr.net/gh/king-tse/m3u@main/epg/Gather_epg.xml
+>```
+>```
+>https://cdn.jsdelivr.net/gh/king-tse/m3u@main/epg/Gather_epg.xml.gz
 >```
 
 * Live M3U订阅地址
