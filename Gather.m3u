@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="BBC News" tvg-name="BBC News" group-title="NEWS",BBC News (线路1)
+#EXTINF:-1 tvg-id="BBC News" tvg-name="BBC News" group-title="NEWS",BBC News
 http://23.237.104.106:8080/USA_BBC_NEWS/index.m3u8
-#EXTINF:-1 tvg-id="BBC News" tvg-name="BBC News" group-title="NEWS",BBC News (线路2)
+#EXTINF:-1 tvg-id="BBC News" tvg-name="BBC News" group-title="NEWS",BBC News
 http://138.121.15.230:9002/BBC-NEWS/index.m3u8
-#EXTINF:-1 tvg-id="CNN" tvg-name="CNN" group-title="NEWS",CNN (线路1)
+#EXTINF:-1 tvg-id="CNN" tvg-name="CNN" group-title="NEWS",CNN
 https://cdnlive.klicgo.net/rcnnovelas/live/playlist.m3u8
 #EXTINF:-1 tvg-id="CNN" tvg-name="CNN" group-title="NEWS",CNN (线路2)
 http://88.212.15.19/live/test_cnn_pirma_news/playlist.m3u8
