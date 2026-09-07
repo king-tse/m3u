@@ -61,11 +61,9 @@ jobs:
           def test_url(url):
               """验证线路可用性，限时 3 秒"""
               try:
-                  # 优先用 HEAD 请求快速验证
                   resp = requests.head(url, timeout=3, allow_redirects=True, headers={'User-Agent': 'VLC/3.0.18'})
                   if resp.status_code in [200, 206, 301, 302]:
                       return url
-                  # 如果 HEAD 被拒绝，尝试 GET 探测流头部
                   resp = requests.get(url, timeout=3, stream=True, headers={'User-Agent': 'VLC/3.0.18'})
                   if resp.status_code in [200, 206, 301, 302]:
                       return url
@@ -76,7 +74,6 @@ jobs:
           def filter_and_test_urls(urls, max_keep=2):
               """多线程并发测试线路，只保留前 max_keep 条可用线路"""
               valid_urls = []
-              # 去重
               unique_urls = list(dict.fromkeys(urls))
               
               with ThreadPoolExecutor(max_workers=15) as executor:
@@ -86,7 +83,6 @@ jobs:
                       if res:
                           valid_urls.append(res)
                           if len(valid_urls) >= max_keep:
-                              # 达到上限提前结束其他任务
                               executor.shutdown(wait=False, cancel_futures=True)
                               break
               return valid_urls
@@ -102,7 +98,7 @@ jobs:
 
           print(f"\n📡 上游合并完成，总计 {len(all_raw)} 条线路，开始频道筛选与测速...\n")
 
-          # 3. 匹配并测速筛选
+          # 3. 匹配并测速筛选（增加 tvg-id 标签）
           final_items = []
           for target in config.get('keep_channels', []):
               t_name = target.get('name')
@@ -118,12 +114,12 @@ jobs:
                           break
               
               if matched_urls:
-                  # 进行多线程测速，限制最多保存 2 条可用线路
                   valid_urls = filter_and_test_urls(matched_urls, max_keep=2)
                   if valid_urls:
                       print(f"🎯 [{t_name}] 匹配到 {len(matched_urls)} 条，测速通过 {len(valid_urls)} 条有效线路")
                       for idx, url in enumerate(valid_urls, 1):
-                          final_items.append(f'#EXTINF:-1 tvg-name="{t_name}" group-title="{t_group}",{t_name} (线路{idx})\n{url}')
+                          # 关键点：显式注入 tvg-id="{t_name}" 参数
+                          final_items.append(f'#EXTINF:-1 tvg-id="{t_name}" tvg-name="{t_name}" group-title="{t_group}",{t_name} (线路{idx})\n{url}')
                   else:
                       print(f"❌ [{t_name}] 匹配到 {len(matched_urls)} 条，但测速后均不可用")
               else:
@@ -132,7 +128,7 @@ jobs:
           # 4. 写入 Gather.m3u
           with open('Gather.m3u', 'w', encoding='utf-8') as f:
               f.write("#EXTM3U\n" + "\n".join(final_items))
-          print(f"\n🎉 Gather.m3u 生成成功！精简测速后共包含 {len(final_items)} 条高可用线路。")
+          print(f"\n🎉 Gather.m3u 生成成功！包含 tvg-id 参数，精简测速后共 {len(final_items)} 条高可用线路。")
 
           # 5. 拼接 EPG XML 数据
           today_str = datetime.now().strftime("%Y%m%d")
