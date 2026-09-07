@@ -1,51 +1,83 @@
-name: Auto Update IPTV Gather Playlist and EPG
-
-on:
-  schedule:
-    # 每天 UTC 20:00 (北京时间凌晨 04:00) 自动执行
-    - cron: '0 20 * * *'
-  workflow_dispatch:
-
-permissions:
-  contents: write
-
-jobs:
-  update-iptv:
-    runs-on: ubuntu-latest
-
-    steps:
-      - name: 检出仓库代码
-        uses: actions/checkout@v4
-
-      - name: 配置 Python 环境
-        uses: actions/setup-python@v5
-        with:
-          python-version: '3.10'
-
-      - name: 安装 Python 依赖
+- name: 执行筛选、测速与 EPG 合成脚本
         run: |
-          python -m pip install --upgrade pip
-          pip install requests
+          cat << 'EOF' > filter_runner.py
+          import json, re, requests, gzip
+          from datetime import datetime
+          import xml.etree.ElementTree as ET
 
-      - name: 执行筛选、测速与 EPG 合成脚本
-        run: python scripts/filter_epg.py
+          def clean_str(s):
+              return re.sub(r'[^a-zA-Z0-9\u4e00-\u9fa5]', '', s).lower()
 
-      - name: 提交并推送 m3u 文件到仓库
-        run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add Gather.m3u
-          # 先拉取远程最新提交，避免冲突
-          git pull origin main --rebase
-          git commit -m "chore: auto update Gather.m3u [skip ci]" || echo "没有检测到 M3U 更新"
-          git push origin main
+          def fetch_m3u(url):
+              channels = []
+              try:
+                  resp = requests.get(url, timeout=15)
+                  if resp.status_code == 200:
+                      lines = resp.text.splitlines()
+                      current_title = ""
+                      for line in lines:
+                          line = line.strip()
+                          if line.startswith("#EXTINF:"):
+                              parts = line.split(",")
+                              current_title = parts[-1].strip() if len(parts) > 1 else ""
+                          elif line and not line.startswith("#") and current_title:
+                              channels.append((current_title, line))
+                              current_title = ""
+                      print(f"✅ 从 [{url}] 成功拉取到 {len(channels)} 条原始线路")
+              except Exception as e:
+                  print(f"❌ 拉取 [{url}] 失败: {e}")
+              return channels
 
-      - name: 将 EPG 文件发布到 Release
-        uses: softprops/action-gh-release@v1
-        with:
-          tag_name: epg
-          name: "Latest EPG Data"
-          body: "自动更新的最新 EPG 节目单文件"
-          files: Gather_epg.xml.gz
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          with open('config/config.json', 'r', encoding='utf-8') as f:
+              config = json.load(f)
+
+          all_raw = []
+          for upstream in config.get('upstream_urls', []):
+              all_raw.extend(fetch_m3u(upstream))
+
+          print(f"\n📡 上游合并完成，总计 {len(all_raw)} 条线路")
+
+          final_items = []
+          for target in config.get('keep_channels', []):
+              t_name = target.get('name')
+              t_group = target.get('group', 'NEWS')
+              keywords = target.get('keywords', [])
+              
+              matched = []
+              for raw_title, raw_url in all_raw:
+                  clean_t = clean_str(raw_title)
+                  for kw in keywords:
+                      if clean_str(kw) in clean_t:
+                          matched.append(raw_url)
+                          break
+              
+              if matched:
+                  print(f"🎯 [{t_name}] 成功匹配到 {len(matched)} 条线路")
+                  for url in matched:
+                      final_items.append(f'#EXTINF:-1 tvg-name="{t_name}" group-title="{t_group}",{t_name}\n{url}')
+              else:
+                  print(f"⚠️ [{t_name}] 未匹配到线路")
+
+          with open('Gather.m3u', 'w', encoding='utf-8') as f:
+              f.write("#EXTM3U\n" + "\n".join(final_items))
+          print(f"\n🎉 Gather.m3u 生成成功！包含 {len(final_items)} 条线路。")
+
+          today_str = datetime.now().strftime("%Y%m%d")
+          root_epg = ET.Element("tv")
+          for target in config.get('keep_channels', []):
+              xml_url = target.get('xml_url')
+              if not xml_url: continue
+              xml_url = re.sub(r'date=\d{8}', f'date={today_str}', xml_url)
+              try:
+                  resp = requests.get(xml_url, timeout=10)
+                  if resp.status_code == 200:
+                      for elem in ET.fromstring(resp.content): root_epg.append(elem)
+                      print(f"  └─ ✅ 拼接 EPG [{target['name']}]")
+              except Exception as e:
+                  print(f"  └─ ❌ 拼接 EPG [{target['name']}] 失败: {e}")
+
+          with gzip.open("Gather_epg.xml.gz", "wb") as f:
+              f.write(ET.tostring(root_epg, encoding='utf-8', xml_declaration=True))
+          print("📦 Gather_epg.xml.gz 打包完成！")
+          EOF
+          python filter_runner.py
