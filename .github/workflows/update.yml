@@ -2,11 +2,9 @@ name: Auto Update IPTV Gather Playlist and EPG
 
 on:
   schedule:
-    # 每天 UTC 20:00 (北京时间凌晨 04:00) 自动执行
     - cron: '0 20 * * *'
-  workflow_dispatch: # 允许在 GitHub 网页界面手动点击触发
+  workflow_dispatch:
 
-# 赋予自动推送代码的写入权限
 permissions:
   contents: write
 
@@ -28,18 +26,19 @@ jobs:
           python -m pip install --upgrade pip
           pip install requests
 
-      - name: 检查并打印当前文件结构
+      - name: 排查脚本文件位置
         run: |
-          echo "=== 正在检查仓库文件结构 ==="
+          echo "=== 当前工作目录 ==="
           pwd
+          echo "=== 根目录文件列表 ==="
           ls -la
-          echo "=== 正在检查 scripts 目录 ==="
-          ls -la scripts || echo "❌ 警告：未找到 scripts 目录，请检查文件位置！"
+          echo "=== scripts 目录文件列表 ==="
+          ls -la scripts/
 
       - name: 执行筛选、测速与 EPG 合成脚本
         run: python scripts/filter_epg.py
 
-      - name: 提交并推送更新到仓库根目录
+      - name: 提交并推送更新
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
