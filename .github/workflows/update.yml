@@ -129,7 +129,7 @@ jobs:
               f.write("#EXTM3U\n" + "\n".join(final_items))
           print(f"\n🎉 Gather.m3u 生成成功！共 {len(final_items)} 条高可用线路。")
 
-          # 5. 拼接 EPG XML 数据（防频控：带伪装 Header、延长超时至20秒、自动重试3次）
+          # 5. 拼接 EPG XML 数据
           today_str = datetime.now().strftime("%Y%m%d")
           root_epg = ET.Element("tv")
           print("\n📺 开始拼接并修正 EPG 数据...")
@@ -144,7 +144,7 @@ jobs:
               xml_url = re.sub(r'date=\d{8}', f'date={today_str}', xml_url)
               
               success = False
-              for attempt in range(1, 4):  # 重试 3 次
+              for attempt in range(1, 4):
                   try:
                       resp = requests.get(xml_url, timeout=20, headers=headers)
                       if resp.status_code == 200:
@@ -162,15 +162,23 @@ jobs:
                           break
                   except Exception as e:
                       if attempt < 3:
-                          time.sleep(1.5)  # 间隔 1.5 秒重试
+                          time.sleep(1.5)
               
               if not success:
                   print(f"  └─ ❌ 拼接 EPG [{t_name}] 失败: 连续重试3次均超时或连接失败")
 
-          # 6. 打包 EPG
+          # 6. 同时保存为未压缩的 .xml 和压缩的 .xml.gz
+          xml_data = ET.tostring(root_epg, encoding='utf-8', xml_declaration=True)
+          
+          # 保存原始未压缩的 XML 文件
+          with open("Gather_epg.xml", "wb") as f:
+              f.write(xml_data)
+          print("\n📄 Gather_epg.xml 生成完成！")
+
+          # 保存 Gzip 压缩版文件
           with gzip.open("Gather_epg.xml.gz", "wb") as f:
-              f.write(ET.tostring(root_epg, encoding='utf-8', xml_declaration=True))
-          print("\n📦 Gather_epg.xml.gz 打包完成！")
+              f.write(xml_data)
+          print("📦 Gather_epg.xml.gz 打包完成！")
           EOF
           python filter_runner.py
           rm -f filter_runner.py
@@ -188,7 +196,9 @@ jobs:
         with:
           tag_name: epg
           name: "Latest EPG Data"
-          body: "自动更新的最新精炼版 EPG 节目单文件"
-          files: Gather_epg.xml.gz
+          body: "自动更新的最新精炼版 EPG 节目单文件（包含未压缩 .xml 及压缩 .xml.gz 两个版本）"
+          files: |
+            Gather_epg.xml
+            Gather_epg.xml.gz
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
