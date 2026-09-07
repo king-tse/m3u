@@ -189,8 +189,10 @@ def main():
             cand = res['cand']
             latency = res['latency']
 
+            # 区分主线路与备用线路名称
             line_title = display_name if idx == 0 else f"{display_name} (线路{idx+1})"
             
+            # 关键：tvg-id 与 tvg-name 保持统一，确保都能加载同一个 EPG 数据
             tvg_id_attr = f'tvg-id="{display_name}"'
             tvg_name_attr = f'tvg-name="{display_name}"'
             tvg_logo_attr = f'tvg-logo="{cand["tvg_logo"]}"' if cand["tvg_logo"] else ''
