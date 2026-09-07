@@ -8,97 +8,97 @@
       "name": "BBC News",
       "group": "NEWS",
       "keywords": ["bbc news"],
-      "xml_url": "https://epg.pw/xmltv/epg_GB.xml"
+      "xml_url": "https://epg.pw/api/epg.xml?lang=zh-hant&date=20260907&channel_id=410307"
     },
     {
       "name": "BBC World News",
       "group": "NEWS",
       "keywords": ["bbc world news", "bbc world"],
-      "xml_url": "https://epg.pw/xmltv/epg_GB.xml"
+      "xml_url": "https://epg.pw/api/epg.xml?lang=zh-hant&date=20260907&channel_id=76771"
     },
     {
       "name": "CNN",
       "group": "NEWS",
       "keywords": ["cnn"],
-      "xml_url": "https://epg.pw/xmltv/epg_US.xml"
+      "xml_url": "https://epg.pw/api/epg.xml?lang=zh-hant&date=20260907&channel_id=464857"
     },
     {
       "name": "CNN International",
       "group": "NEWS",
       "keywords": ["cnn international", "cnn int"],
-      "xml_url": "https://epg.pw/xmltv/epg_US.xml"
+      "xml_url": "https://epg.pw/api/epg.xml?lang=zh-hant&date=20260907&channel_id=465021"
     },
     {
       "name": "Fox News Channel",
       "group": "NEWS",
       "keywords": ["fox news channel", "fox news", "foxnews"],
-      "xml_url": "https://epg.pw/xmltv/epg_US.xml"
+      "xml_url": "https://epg.pw/api/epg.xml?lang=zh-hans&date=20260907&channel_id=369713"
     },
     {
       "name": "MSNBC",
       "group": "NEWS",
       "keywords": ["msnbc", "msnbc news"],
-      "xml_url": "https://epg.pw/xmltv/epg_US.xml"
+      "xml_url": "https://epg.pw/api/epg.xml?lang=zh-hant&date=20260907&channel_id=465087"
     },
     {
       "name": "CGTN",
       "group": "NEWS",
       "keywords": ["cgtn", "cgtn english", "cgtn news"],
-      "xml_url": "https://epg.pw/xmltv/epg_CN.xml"
+      "xml_url": "https://epg.pw/api/epg.xml?lang=zh-hant&date=20260907&channel_id=540038"
     },
     {
       "name": "NHK World-Japan",
       "group": "NEWS",
       "keywords": ["nhk world-japan", "nhk world japan", "nhk world", "nhk japan"],
-      "xml_url": "https://epg.pw/xmltv/epg_JP.xml"
+      "xml_url": "https://epg.pw/api/epg.xml?lang=zh-hant&date=20260907&channel_id=368337"
     },
     {
       "name": "France 24",
       "group": "NEWS",
       "keywords": ["france 24", "france24", "france 24 english"],
-      "xml_url": "https://epg.pw/xmltv/epg_FR.xml"
+      "xml_url": "https://epg.pw/api/epg.xml?lang=zh-hant&date=20260907&channel_id=55716"
     },
     {
       "name": "DW",
       "group": "NEWS",
       "keywords": ["dw", "dw english"],
-      "xml_url": "https://epg.pw/xmltv/epg_DE.xml"
+      "xml_url": "https://epg.pw/api/epg.xml?lang=zh-hant&date=20260907&channel_id=368373"
     },
     {
       "name": "Deutsche Welle",
       "group": "NEWS",
       "keywords": ["deutsche welle"],
-      "xml_url": "https://epg.pw/xmltv/epg_DE.xml"
+      "xml_url": "https://epg.pw/api/epg.xml?lang=zh-hant&date=20260907&channel_id=369766"
     },
     {
-      "name": "RT",
+      "name": "Russia Today",
       "group": "NEWS",
       "keywords": ["rt", "russia today"],
-      "xml_url": "https://epg.pw/xmltv/epg_RU.xml"
+      "xml_url": "https://epg.pw/api/epg.xml?lang=zh-hant&date=20260907&channel_id=449954"
     },
     {
       "name": "Al Jazeera",
       "group": "NEWS",
       "keywords": ["al jazeera", "aljazeera"],
-      "xml_url": "https://epg.pw/xmltv/epg_US.xml"
+      "xml_url": "https://epg.pw/api/epg.xml?lang=zh-hant&date=20260907&channel_id=76735"
     },
     {
       "name": "Al Jazeera English",
       "group": "NEWS",
       "keywords": ["al jazeera english", "aljazeera english"],
-      "xml_url": "https://epg.pw/xmltv/epg_US.xml"
+      "xml_url": "https://epg.pw/api/epg.xml?lang=zh-hant&date=20260907&channel_id=443134"
     },
     {
       "name": "CNBC",
       "group": "NEWS",
       "keywords": ["cnbc", "cnbc us", "cnbc asia"],
-      "xml_url": "https://epg.pw/xmltv/epg_US.xml"
+      "xml_url": "https://epg.pw/api/epg.xml?lang=zh-hant&date=20260907&channel_id=410306"
     },
     {
       "name": "Bloomberg TV",
       "group": "NEWS",
       "keywords": ["bloomberg tv", "bloomberg", "bloomberg us"],
-      "xml_url": "https://epg.pw/xmltv/epg_US.xml"
+      "xml_url": "https://epg.pw/api/epg.xml?lang=zh-hant&date=20260907&channel_id=370178"
     },
     {
       "name": "凤凰卫视资讯台",
