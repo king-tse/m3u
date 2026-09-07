@@ -27,12 +27,13 @@ jobs:
           python -m pip install --upgrade pip
           pip install requests
 
-      - name: 执行筛选与 EPG 合成脚本
+      - name: 执行筛选、测速与 EPG 合成脚本
         run: |
           cat << 'EOF' > filter_runner.py
           import json, re, requests, gzip
           from datetime import datetime
           import xml.etree.ElementTree as ET
+          from concurrent.futures import ThreadPoolExecutor, as_completed
 
           def clean_str(s):
               return re.sub(r'[^a-zA-Z0-9\u4e00-\u9fa5]', '', s).lower()
@@ -57,42 +58,86 @@ jobs:
                   print(f"❌ 拉取 [{url}] 失败: {e}")
               return channels
 
+          def test_url(url):
+              """验证线路可用性，限时 3 秒"""
+              try:
+                  # 优先用 HEAD 请求快速验证
+                  resp = requests.head(url, timeout=3, allow_redirects=True, headers={'User-Agent': 'VLC/3.0.18'})
+                  if resp.status_code in [200, 206, 301, 302]:
+                      return url
+                  # 如果 HEAD 被拒绝，尝试 GET 探测流头部
+                  resp = requests.get(url, timeout=3, stream=True, headers={'User-Agent': 'VLC/3.0.18'})
+                  if resp.status_code in [200, 206, 301, 302]:
+                      return url
+              except Exception:
+                  pass
+              return None
+
+          def filter_and_test_urls(urls, max_keep=2):
+              """多线程并发测试线路，只保留前 max_keep 条可用线路"""
+              valid_urls = []
+              # 去重
+              unique_urls = list(dict.fromkeys(urls))
+              
+              with ThreadPoolExecutor(max_workers=15) as executor:
+                  future_to_url = {executor.submit(test_url, url): url for url in unique_urls}
+                  for future in as_completed(future_to_url):
+                      res = future.result()
+                      if res:
+                          valid_urls.append(res)
+                          if len(valid_urls) >= max_keep:
+                              # 达到上限提前结束其他任务
+                              executor.shutdown(wait=False, cancel_futures=True)
+                              break
+              return valid_urls
+
+          # 1. 加载配置
           with open('config/config.json', 'r', encoding='utf-8') as f:
               config = json.load(f)
 
+          # 2. 获取所有原始线路
           all_raw = []
           for upstream in config.get('upstream_urls', []):
               all_raw.extend(fetch_m3u(upstream))
 
-          print(f"\n📡 上游合并完成，总计 {len(all_raw)} 条线路")
+          print(f"\n📡 上游合并完成，总计 {len(all_raw)} 条线路，开始频道筛选与测速...\n")
 
+          # 3. 匹配并测速筛选
           final_items = []
           for target in config.get('keep_channels', []):
               t_name = target.get('name')
               t_group = target.get('group', 'NEWS')
               keywords = target.get('keywords', [])
               
-              matched = []
+              matched_urls = []
               for raw_title, raw_url in all_raw:
                   clean_t = clean_str(raw_title)
                   for kw in keywords:
                       if clean_str(kw) in clean_t:
-                          matched.append(raw_url)
+                          matched_urls.append(raw_url)
                           break
               
-              if matched:
-                  print(f"🎯 [{t_name}] 成功匹配到 {len(matched)} 条线路")
-                  for url in matched:
-                      final_items.append(f'#EXTINF:-1 tvg-name="{t_name}" group-title="{t_group}",{t_name}\n{url}')
+              if matched_urls:
+                  # 进行多线程测速，限制最多保存 2 条可用线路
+                  valid_urls = filter_and_test_urls(matched_urls, max_keep=2)
+                  if valid_urls:
+                      print(f"🎯 [{t_name}] 匹配到 {len(matched_urls)} 条，测速通过 {len(valid_urls)} 条有效线路")
+                      for idx, url in enumerate(valid_urls, 1):
+                          final_items.append(f'#EXTINF:-1 tvg-name="{t_name}" group-title="{t_group}",{t_name} (线路{idx})\n{url}')
+                  else:
+                      print(f"❌ [{t_name}] 匹配到 {len(matched_urls)} 条，但测速后均不可用")
               else:
                   print(f"⚠️ [{t_name}] 未匹配到线路")
 
+          # 4. 写入 Gather.m3u
           with open('Gather.m3u', 'w', encoding='utf-8') as f:
               f.write("#EXTM3U\n" + "\n".join(final_items))
-          print(f"\n🎉 Gather.m3u 生成成功！包含 {len(final_items)} 条线路。")
+          print(f"\n🎉 Gather.m3u 生成成功！精简测速后共包含 {len(final_items)} 条高可用线路。")
 
+          # 5. 拼接 EPG XML 数据
           today_str = datetime.now().strftime("%Y%m%d")
           root_epg = ET.Element("tv")
+          print("\n📺 开始拼接 EPG 数据...")
           for target in config.get('keep_channels', []):
               xml_url = target.get('xml_url')
               if not xml_url: continue
@@ -105,6 +150,7 @@ jobs:
               except Exception as e:
                   print(f"  └─ ❌ 拼接 EPG [{target['name']}] 失败: {e}")
 
+          # 6. 打包 EPG
           with gzip.open("Gather_epg.xml.gz", "wb") as f:
               f.write(ET.tostring(root_epg, encoding='utf-8', xml_declaration=True))
           print("📦 Gather_epg.xml.gz 打包完成！")
@@ -118,7 +164,7 @@ jobs:
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add Gather.m3u
           git commit -m "chore: auto update Gather.m3u [skip ci]" || echo "没有检测到 M3U 更新"
-          git push origin main --force
+          git push origin HEAD:${{ github.ref_name }} --force
 
       - name: 将 EPG 文件发布到 Release
         uses: softprops/action-gh-release@v1
