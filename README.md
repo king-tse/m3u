@@ -51,8 +51,10 @@ m3u/
 
 ---
 ### 历史记录
-* 2026.09.07
->将大文件(Gather_epg.xml.gz)发布到 Releases 避开限制
+* 2026-09-09
+>精简epg文件大小，精准定位，弃用Releases，防止域外限制
+* ~~2026.09.07~~
+>~~将大文件(Gather_epg.xml.gz)发布到 Releases 避开限制~~
 >节目单epg地址
 >```
 >https://github.com/king-tse/m3u/releases/download/epg/Gather_epg.xml.gz
