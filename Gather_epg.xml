@@ -2312,10 +2312,245 @@
     <desc />
     <date>2026-09-15</date>
   </programme>
-  <programme channel="CGTN" start="20260915153000 +0000" stop="20260916000000 +0000">
+  <programme channel="CGTN" start="20260915153000 +0000" stop="20260915160000 +0000">
     <title lang="zh">生财有道(俄)-2026-258</title>
     <desc />
     <date>2026-09-15</date>
+  </programme>
+  <programme channel="CGTN" start="20260915160000 +0000" stop="20260915164500 +0000">
+    <title lang="zh">放映厅(俄)-幸福二重奏(俄)(精编版)-6/31</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="CGTN" start="20260915164500 +0000" stop="20260915173000 +0000">
+    <title lang="zh">放映厅(俄)-幸福二重奏(俄)(精编版)-7/31</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="CGTN" start="20260915173000 +0000" stop="20260915180000 +0000">
+    <title lang="zh">缤纷中国(俄)-2026-258</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="CGTN" start="20260915180000 +0000" stop="20260915183000 +0000">
+    <title lang="zh">欧亚时间(俄)-2026-258</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="CGTN" start="20260915183000 +0000" stop="20260915184500 +0000">
+    <title lang="zh">健身动起来(俄)-2026-258</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="CGTN" start="20260915184500 +0000" stop="20260915190000 +0000">
+    <title lang="zh">中国厨艺(俄)-2026-258</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="CGTN" start="20260915190000 +0000" stop="20260915193000 +0000">
+    <title lang="zh">生财有道(俄)-2026-258</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="CGTN" start="20260915193000 +0000" stop="20260915200000 +0000">
+    <title lang="zh">旅游指南(俄)-2026-258</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="CGTN" start="20260915200000 +0000" stop="20260915204500 +0000">
+    <title lang="zh">放映厅(俄)-幸福二重奏(俄)(精编版)-6/31</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="CGTN" start="20260915204500 +0000" stop="20260915213000 +0000">
+    <title lang="zh">放映厅(俄)-幸福二重奏(俄)(精编版)-7/31</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="CGTN" start="20260915213000 +0000" stop="20260915220000 +0000">
+    <title lang="zh">生财有道(俄)-2026-258</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="CGTN" start="20260915220000 +0000" stop="20260915223000 +0000">
+    <title lang="zh">纪录片(俄)-2026-515</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="CGTN" start="20260915223000 +0000" stop="20260915230000 +0000">
+    <title lang="zh">纪录片(俄)-2026-516</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="CGTN" start="20260915230000 +0000" stop="20260915233000 +0000">
+    <title lang="zh">旅游指南(俄)-2026-258</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="CGTN" start="20260915233000 +0000" stop="20260916000000 +0000">
+    <title lang="zh">缤纷中国(俄)-2026-258</title>
+    <desc />
+    <date>2026-09-15</date>
+  </programme>
+  <programme channel="CGTN" start="20260916000000 +0000" stop="20260916003000 +0000">
+    <title lang="zh">欧亚时间(俄)-2026-259</title>
+    <desc />
+    <date>2026-09-16</date>
+  </programme>
+  <programme channel="CGTN" start="20260916003000 +0000" stop="20260916004500 +0000">
+    <title lang="zh">中国厨艺(俄)-2026-259</title>
+    <desc />
+    <date>2026-09-16</date>
+  </programme>
+  <programme channel="CGTN" start="20260916004500 +0000" stop="20260916013000 +0000">
+    <title lang="zh">放映厅(俄)-幸福二重奏(俄)(精编版)-8/31</title>
+    <desc />
+    <date>2026-09-16</date>
+  </programme>
+  <programme channel="CGTN" start="20260916013000 +0000" stop="20260916021500 +0000">
+    <title lang="zh">放映厅(俄)-幸福二重奏(俄)(精编版)-9/31</title>
+    <desc />
+    <date>2026-09-16</date>
+  </programme>
+  <programme channel="CGTN" start="20260916021500 +0000" stop="20260916023000 +0000">
+    <title lang="zh">健身动起来(俄)-2026-259</title>
+    <desc />
+    <date>2026-09-16</date>
+  </programme>
+  <programme channel="CGTN" start="20260916023000 +0000" stop="20260916030000 +0000">
+    <title lang="zh">生财有道(俄)-2026-259</title>
+    <desc />
+    <date>2026-09-16</date>
+  </programme>
+  <programme channel="CGTN" start="20260916030000 +0000" stop="20260916033000 +0000">
+    <title lang="zh">纪录片(俄)-2026-517</title>
+    <desc />
+    <date>2026-09-16</date>
+  </programme>
+  <programme channel="CGTN" start="20260916033000 +0000" stop="20260916040000 +0000">
+    <title lang="zh">纪录片(俄)-2026-518</title>
+    <desc />
+    <date>2026-09-16</date>
+  </programme>
+  <programme channel="CGTN" start="20260916040000 +0000" stop="20260916043000 +0000">
+    <title lang="zh">综合新闻(俄)-20260916(</title>
+    <desc />
+    <date>2026-09-16</date>
+  </programme>
+  <programme channel="CGTN" start="20260916043000 +0000" stop="20260916050000 +0000">
+    <title lang="zh">对话(俄)-2026-148</title>
+    <desc />
+    <date>2026-09-16</date>
+  </programme>
+  <programme channel="CGTN" start="20260916050000 +0000" stop="20260916053000 +0000">
+    <title lang="zh">旅游指南(俄)-2026-259</title>
+    <desc />
+    <date>2026-09-16</date>
+  </programme>
+  <programme channel="CGTN" start="20260916053000 +0000" stop="20260916060000 +0000">
+    <title lang="zh">缤纷中国(俄)-2026-259</title>
+    <desc />
+    <date>2026-09-16</date>
+  </programme>
+  <programme channel="CGTN" start="20260916060000 +0000" stop="20260916063000 +0000">
+    <title lang="zh">综合新闻(俄)-20260916(</title>
+    <desc />
+    <date>2026-09-16</date>
+  </programme>
+  <programme channel="CGTN" start="20260916063000 +0000" stop="20260916071500 +0000">
+    <title lang="zh">放映厅(俄)-幸福二重奏(俄)(精编版)-8/31</title>
+    <desc />
+    <date>2026-09-16</date>
+  </programme>
+  <programme channel="CGTN" start="20260916071500 +0000" stop="20260916080000 +0000">
+    <title lang="zh">放映厅(俄)-幸福二重奏(俄)(精编版)-9/31</title>
+    <desc />
+    <date>2026-09-16</date>
+  </programme>
+  <programme channel="CGTN" start="20260916080000 +0000" stop="20260916083000 +0000">
+    <title lang="zh">综合新闻(俄)-20260916(</title>
+    <desc />
+    <date>2026-09-16</date>
+  </programme>
+  <programme channel="CGTN" start="20260916083000 +0000" stop="20260916090000 +0000">
+    <title lang="zh">欧亚时间(俄)-2026-259</title>
+    <desc />
+    <date>2026-09-16</date>
+  </programme>
+  <programme channel="CGTN" start="20260916090000 +0000" stop="20260916093000 +0000">
+    <title lang="zh">纪录片(俄)-2026-517</title>
+    <desc />
+    <date>2026-09-16</date>
+  </programme>
+  <programme channel="CGTN" start="20260916093000 +0000" stop="20260916100000 +0000">
+    <title lang="zh">纪录片(俄)-2026-518</title>
+    <desc />
+    <date>2026-09-16</date>
+  </programme>
+  <programme channel="CGTN" start="20260916100000 +0000" stop="20260916103000 +0000">
+    <title lang="zh">综合新闻(俄)-20260916(</title>
+    <desc />
+    <date>2026-09-16</date>
+  </programme>
+  <programme channel="CGTN" start="20260916103000 +0000" stop="20260916110000 +0000">
+    <title lang="zh">对话(俄)-2026-148</title>
+    <desc />
+    <date>2026-09-16</date>
+  </programme>
+  <programme channel="CGTN" start="20260916110000 +0000" stop="20260916113000 +0000">
+    <title lang="zh">缤纷中国(俄)-2026-259</title>
+    <desc />
+    <date>2026-09-16</date>
+  </programme>
+  <programme channel="CGTN" start="20260916113000 +0000" stop="20260916120000 +0000">
+    <title lang="zh">旅游指南(俄)-2026-259</title>
+    <desc />
+    <date>2026-09-16</date>
+  </programme>
+  <programme channel="CGTN" start="20260916120000 +0000" stop="20260916123000 +0000">
+    <title lang="zh">综合新闻(俄)-20260916(</title>
+    <desc />
+    <date>2026-09-16</date>
+  </programme>
+  <programme channel="CGTN" start="20260916123000 +0000" stop="20260916130000 +0000">
+    <title lang="zh">欧亚时间(俄)-2026-259</title>
+    <desc />
+    <date>2026-09-16</date>
+  </programme>
+  <programme channel="CGTN" start="20260916130000 +0000" stop="20260916133000 +0000">
+    <title lang="zh">纪录片(俄)-2026-517</title>
+    <desc />
+    <date>2026-09-16</date>
+  </programme>
+  <programme channel="CGTN" start="20260916133000 +0000" stop="20260916140000 +0000">
+    <title lang="zh">纪录片(俄)-2026-518</title>
+    <desc />
+    <date>2026-09-16</date>
+  </programme>
+  <programme channel="CGTN" start="20260916140000 +0000" stop="20260916143000 +0000">
+    <title lang="zh">综合新闻(俄)-20260916(</title>
+    <desc />
+    <date>2026-09-16</date>
+  </programme>
+  <programme channel="CGTN" start="20260916143000 +0000" stop="20260916150000 +0000">
+    <title lang="zh">对话(俄)-2026-148</title>
+    <desc />
+    <date>2026-09-16</date>
+  </programme>
+  <programme channel="CGTN" start="20260916150000 +0000" stop="20260916151500 +0000">
+    <title lang="zh">健身动起来(俄)-2026-259</title>
+    <desc />
+    <date>2026-09-16</date>
+  </programme>
+  <programme channel="CGTN" start="20260916151500 +0000" stop="20260916153000 +0000">
+    <title lang="zh">中国厨艺(俄)-2026-259</title>
+    <desc />
+    <date>2026-09-16</date>
+  </programme>
+  <programme channel="CGTN" start="20260916153000 +0000" stop="20260917000000 +0000">
+    <title lang="zh">生财有道(俄)-2026-259</title>
+    <desc />
+    <date>2026-09-16</date>
   </programme>
 <channel id="NHK World-Japan">
     <display-name lang="Hong Kong">NHK World-Japan</display-name>
@@ -5467,7 +5702,12 @@
     <desc>The feed for this channel is not available from the international supplier. We apologise that the broadcast feed was abruptly stopped</desc>
     <date>2026-09-16</date>
   </programme>
-  <programme channel="Russia Today" start="20260916160000 +0000" stop="20260917000000 +0000">
+  <programme channel="Russia Today" start="20260916160000 +0000" stop="20260916220000 +0000">
+    <title lang="zh">Russia Today</title>
+    <desc>The feed for this channel is not available from the international supplier. We apologise that the broadcast feed was abruptly stopped</desc>
+    <date>2026-09-16</date>
+  </programme>
+  <programme channel="Russia Today" start="20260916220000 +0000" stop="20260917000000 +0000">
     <title lang="zh">Russia Today</title>
     <desc>The feed for this channel is not available from the international supplier. We apologise that the broadcast feed was abruptly stopped</desc>
     <date>2026-09-16</date>
@@ -6224,6 +6464,11 @@
     <title lang="zh">Inside Story</title>
     <desc>Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds from around the globe.</desc>
     <date>2026-09-16</date>
+  </programme>
+  <programme channel="Al Jazeera English" start="20260917000000 +0000" stop="20260918000000 +0000">
+    <title lang="zh">Newshour</title>
+    <desc />
+    <date>2026-09-17</date>
   </programme>
 <channel id="CNBC">
     <display-name lang="Hong Kong">CNBC</display-name>
