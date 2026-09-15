@@ -118,7 +118,7 @@ jobs:
                   if valid_urls:
                       print(f"🎯 [{t_name}] 匹配到 {len(matched_urls)} 条，测速通过 {len(valid_urls)} 条有效线路")
                       for idx, url in enumerate(valid_urls, 1):
-                          final_items.append(f'#EXTINF:-1 tvg-id="{t_name}" tvg-name="{t_name}" group-title="{t_group}",{t_name} (线路{idx})\n{url}')
+                          final_items.append(f'#EXTINF:-1 tvg-id="{t_name}" tvg-name="{t_name}" tvg-logo="logo/{t_name}.png" group-title="{t_group}",{t_name} (线路{idx})\n{url}')
                   else:
                       print(f"❌ [{t_name}] 匹配到 {len(matched_urls)} 条，但测速后均不可用")
               else:
