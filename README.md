@@ -13,9 +13,10 @@ m3u/
 ├── .gitignore
 ├── README.md                   # 项目说明文档
 ├── Gather.m3u                  # 频道源
-└── epg/                        # 频道源节目单文件
-     ├── Gather_epg.xml          # 频道源epg节目单文件 
-     └── Gather_epg.xml.gz       # 频道源epg节目单文件压缩包
+├── epg/                        # 频道源节目单文件
+│    ├── Gather_epg.xml         # 频道源epg节目单文件 
+│    └── Gather_epg.xml.gz      # 频道源epg节目单文件压缩包
+└── iptv-source-tester.html     # 频道源本地链接质量测试
 ```
 
 ### 推荐软件
