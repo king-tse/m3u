@@ -287,6 +287,26 @@
       "group": "港澳台/境外",
       "keywords": ["凤凰资讯", "凤凰卫视资讯", "Phoenix InfoNews"],
       "xml_url": "https://epg.pw/api/epg.xml?lang=zh-hant&date=20260906&channel_id=410355"
+    },
+        {
+      "name": "MTV Biggest Pop",
+      "group": "Music",
+      "keywords": ["MTVBiggestPop.us"],
+    },
+    {
+      "name": "Stingray DJAZZ",
+      "group": "Music",
+      "keywords": ["StingrayDJAZZ.ca"],
+    },
+    {
+      "name": "Qwest TV Jazz & Beyond",
+      "group": "Music",
+      "keywords": ["QwestTVJazzBeyond.fr"],
+    },
+    {
+      "name": "Stingray Smooth Jazz",
+      "group": "Music",
+      "keywords": ["StingraySmoothJazz.ca"],
     }
   ]
 }
