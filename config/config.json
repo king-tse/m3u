@@ -4,101 +4,149 @@
     "https://iptv-org.github.io/iptv/index.m3u"
   ],
   "keep_channels": [
-{
-      "name": "BBC News",
-      "group": "NEWS",
-      "keywords": ["bbc news"],
-      "xml_url": "https://epg.pw/api/epg.xml?lang=zh-hant&date=20260907&channel_id=410307"
-    },
-    {
-      "name": "BBC World News",
-      "group": "NEWS",
-      "keywords": ["bbc world news", "bbc world"],
-      "xml_url": "https://epg.pw/api/epg.xml?lang=zh-hant&date=20260907&channel_id=76771"
-    },
-    {
-      "name": "CNN",
-      "group": "NEWS",
-      "keywords": ["cnn"],
-      "xml_url": "https://epg.pw/api/epg.xml?lang=zh-hant&date=20260907&channel_id=464857"
-    },
-    {
-      "name": "CNN International",
-      "group": "NEWS",
-      "keywords": ["cnn international", "cnn int"],
-      "xml_url": "https://epg.pw/api/epg.xml?lang=zh-hant&date=20260907&channel_id=465021"
-    },
-    {
-      "name": "Fox News Channel",
-      "group": "NEWS",
-      "keywords": ["fox news channel", "fox news", "foxnews"],
-      "xml_url": "https://epg.pw/api/epg.xml?lang=zh-hans&date=20260907&channel_id=369713"
-    },
-    {
-      "name": "MSNBC",
-      "group": "NEWS",
-      "keywords": ["msnbc", "msnbc news"],
-      "xml_url": "https://epg.pw/api/epg.xml?lang=zh-hant&date=20260907&channel_id=465087"
-    },
-    {
-      "name": "CGTN",
-      "group": "NEWS",
-      "keywords": ["cgtn", "cgtn english", "cgtn news"],
-      "xml_url": "https://epg.pw/api/epg.xml?lang=zh-hant&date=20260907&channel_id=540038"
-    },
-    {
-      "name": "NHK World-Japan",
-      "group": "NEWS",
-      "keywords": ["nhk world-japan", "nhk world japan", "nhk world", "nhk japan"],
-      "xml_url": "https://epg.pw/api/epg.xml?lang=zh-hant&date=20260907&channel_id=368337"
-    },
-    {
-      "name": "France 24",
-      "group": "NEWS",
-      "keywords": ["france 24", "france24", "france 24 english"],
-      "xml_url": "https://epg.pw/api/epg.xml?lang=zh-hant&date=20260907&channel_id=55716"
-    },
-    {
-      "name": "DW",
-      "group": "NEWS",
-      "keywords": ["dw", "dw english"],
-      "xml_url": "https://epg.pw/api/epg.xml?lang=zh-hant&date=20260907&channel_id=368373"
-    },
-    {
-      "name": "Deutsche Welle",
-      "group": "NEWS",
-      "keywords": ["deutsche welle"],
-      "xml_url": "https://epg.pw/api/epg.xml?lang=zh-hant&date=20260907&channel_id=369766"
-    },
-    {
-      "name": "Russia Today",
-      "group": "NEWS",
-      "keywords": ["russia today"],
-      "xml_url": "https://epg.pw/api/epg.xml?lang=zh-hant&date=20260907&channel_id=449954"
-    },
     {
       "name": "Al Jazeera",
       "group": "NEWS",
-      "keywords": ["al jazeera", "aljazeera"],
-      "xml_url": "https://epg.pw/api/epg.xml?lang=zh-hant&date=20260907&channel_id=76735"
+      "keywords": ["AlJazeera.qa@Arabic"],
+      "xml_url": "https://epg.pw/api/epg.xml?channel_id=539726"
     },
     {
-      "name": "Al Jazeera English",
+      "name": "Al Jazeera 2",
       "group": "NEWS",
-      "keywords": ["al jazeera english", "aljazeera english"],
-      "xml_url": "https://epg.pw/api/epg.xml?lang=zh-hant&date=20260907&channel_id=443134"
+      "keywords": ["AlJazeera2.qa@HD"],
+      "xml_url": "https://epg.pw/api/epg.xml?channel_id=539726"
+    },
+    {
+      "name": "Al Jazeera 2",
+      "group": "NEWS",
+      "keywords": ["AlJazeera2.qa@HD"],
+      "xml_url": "https://epg.pw/api/epg.xml?channel_id=539726"
+    },
+    {
+      "name": "Al Jazeera English HD",
+      "group": "NEWS",
+      "keywords": ["AlJazeera.qa@EnglishHD"],
+      "xml_url": "https://epg.pw/api/epg.xml?channel_id=539726"
+    },
+    {
+      "name": "Al Jazeera Mubasher",
+      "group": "NEWS",
+      "keywords": ["AlJazeeraMubasher.qa@SD"],
+      "xml_url": "https://epg.pw/api/epg.xml?channel_id=539726"
+    },
+    {
+      "name": "Al Jazeera Mubasher",
+      "group": "NEWS",
+      "keywords": ["AlJazeeraMubasher.qa@SD"],
+      "xml_url": "https://epg.pw/api/epg.xml?channel_id=539726"
+    },
+    {
+      "name": "BBC News",
+      "group": "NEWS",
+      "keywords": ["BBCNews.uk@UK"],
+      "xml_url": "https://epg.pw/api/epg.xml?channel_id=539726"
+    },
+    {
+      "name": "Bloomberg Originals",
+      "group": "NEWS",
+      "keywords": ["BloombergOriginals.us@Poland", "BloombergOriginals.us@US"],
+      "xml_url": "https://epg.pw/api/epg.xml?channel_id=539726"
+    },
+    {
+      "name": "Bloomberg TV Asia",
+      "group": "NEWS",
+      "keywords": ["BloombergTV.us@Asia"],
+      "xml_url": "https://epg.pw/api/epg.xml?channel_id=539726"
+    },
+    {
+      "name": "Bloomberg TV Asia Live Event",
+      "group": "NEWS",
+      "keywords": ["BloombergTV.us@AsiaLiveEvent"],
+      "xml_url": "https://epg.pw/api/epg.xml?channel_id=539726"
+    },
+    {
+      "name": "Bloomberg TV Europe",
+      "group": "NEWS",
+      "keywords": ["BloombergTV.us@Europe"],
+      "xml_url": "https://epg.pw/api/epg.xml?channel_id=539726"
+    },
+    {
+      "name": "Bloomberg TV US Live Event",
+      "group": "NEWS",
+      "keywords": ["BloombergTV.us@LiveEvent"],
+      "xml_url": "https://epg.pw/api/epg.xml?channel_id=539726"
+    },
+    {
+      "name": "Bloomberg TV US Politics Live Event",
+      "group": "NEWS",
+      "keywords": ["BloombergTV.us@PoliticsLiveEvent"],
+      "xml_url": "https://epg.pw/api/epg.xml?channel_id=539726"
+    },
+    {
+      "name": "Bloomberg TV+",
+      "group": "NEWS",
+      "keywords": ["BloombergTV.us@Plus-Poland"],
+      "xml_url": "https://epg.pw/api/epg.xml?channel_id=539726"
     },
     {
       "name": "CNBC",
       "group": "NEWS",
-      "keywords": ["cnbc", "cnbc us", "cnbc asia"],
-      "xml_url": "https://epg.pw/api/epg.xml?lang=zh-hant&date=20260907&channel_id=410306"
+      "keywords": ["CNBCUK.uk@SD"],
+      "xml_url": "https://epg.pw/api/epg.xml?channel_id=539726"
     },
     {
-      "name": "Bloomberg TV",
+      "name": "CNBC Mongolia",
       "group": "NEWS",
-      "keywords": ["bloomberg tv", "bloomberg", "bloomberg us"],
-      "xml_url": "https://epg.pw/api/epg.xml?lang=zh-hant&date=20260907&channel_id=370178"
+      "keywords": ["CNBCMongolia.mn@SD"],
+      "xml_url": "https://epg.pw/api/epg.xml?channel_id=539726"
+    },
+    {
+      "name": "CNN Prima News",
+      "group": "NEWS",
+      "keywords": ["CNNPrimaNews.cz@SD"],
+      "xml_url": "https://epg.pw/api/epg.xml?channel_id=539726"
+    },
+    {
+      "name": "LiveNOW from FOX",
+      "group": "NEWS",
+      "keywords": ["LiveNOWfromFOX.us@SD"],
+      "xml_url": "https://epg.pw/api/epg.xml?channel_id=539726"
+    },
+    {
+      "name": "CGTN",
+      "group": "NEWS",
+      "keywords": ["CGTN.cn@SD"],
+      "xml_url": "https://epg.pw/api/epg.xml?channel_id=539726"
+    },
+    {
+      "name": "CGTN Arabic",
+      "group": "NEWS",
+      "keywords": ["CGTNArabic.cn@SD"],
+      "xml_url": "https://epg.pw/api/epg.xml?channel_id=539726"
+    },
+    {
+      "name": "NHK World-Japan",
+      "group": "NEWS",
+      "keywords": ["NHKWorldJapan.jp@SD"],
+      "xml_url": "https://epg.pw/api/epg.xml?channel_id=539726"
+    },
+    {
+      "name": "France 24 English",
+      "group": "NEWS",
+      "keywords": ["France24.fr@English"],
+      "xml_url": "https://epg.pw/api/epg.xml?channel_id=539726"
+    },
+    {
+      "name": "DW English",
+      "group": "NEWS",
+      "keywords": ["DW.de@English"],
+      "xml_url": "https://epg.pw/api/epg.xml?channel_id=539726"
+    },
+    {
+      "name": "RT France",
+      "group": "NEWS",
+      "keywords": ["RTFrance.fr@SD"],
+      "xml_url": "https://epg.pw/api/epg.xml?channel_id=539726"
     },
         {
       "name": "CCTV1",
