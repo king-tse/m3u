@@ -8,145 +8,129 @@
       "name": "Al Jazeera",
       "group": "NEWS",
       "keywords": ["AlJazeera.qa@Arabic"],
-      "xml_url": "https://epg.pw/api/epg.xml?channel_id=539726"
+      "xml_url": "https://epg.pw/api/epg.xml?channel_id=76735"
     },
     {
       "name": "Al Jazeera 2",
       "group": "NEWS",
       "keywords": ["AlJazeera2.qa@HD"],
-      "xml_url": "https://epg.pw/api/epg.xml?channel_id=539726"
     },
     {
       "name": "Al Jazeera 2",
       "group": "NEWS",
       "keywords": ["AlJazeera2.qa@HD"],
-      "xml_url": "https://epg.pw/api/epg.xml?channel_id=539726"
     },
     {
       "name": "Al Jazeera English HD",
       "group": "NEWS",
       "keywords": ["AlJazeera.qa@EnglishHD"],
-      "xml_url": "https://epg.pw/api/epg.xml?channel_id=539726"
+      "xml_url": "https://epg.pw/api/epg.xml?channel_id=12532"
     },
     {
       "name": "Al Jazeera Mubasher",
       "group": "NEWS",
       "keywords": ["AlJazeeraMubasher.qa@SD"],
-      "xml_url": "https://epg.pw/api/epg.xml?channel_id=539726"
-    },
-    {
-      "name": "Al Jazeera Mubasher",
-      "group": "NEWS",
-      "keywords": ["AlJazeeraMubasher.qa@SD"],
-      "xml_url": "https://epg.pw/api/epg.xml?channel_id=539726"
     },
     {
       "name": "BBC News",
       "group": "NEWS",
       "keywords": ["BBCNews.uk@UK"],
-      "xml_url": "https://epg.pw/api/epg.xml?channel_id=539726"
+      "xml_url": "https://epg.pw/api/epg.xml?channel_id=12162"
     },
     {
       "name": "Bloomberg Originals",
       "group": "NEWS",
       "keywords": ["BloombergOriginals.us@Poland", "BloombergOriginals.us@US"],
-      "xml_url": "https://epg.pw/api/epg.xml?channel_id=539726"
+      "xml_url": "https://epg.pw/api/epg.xml?channel_id=457348"
     },
     {
       "name": "Bloomberg TV Asia",
       "group": "NEWS",
       "keywords": ["BloombergTV.us@Asia"],
-      "xml_url": "https://epg.pw/api/epg.xml?channel_id=539726"
+      "xml_url": "https://epg.pw/api/epg.xml?channel_id=370178"
     },
     {
       "name": "Bloomberg TV Asia Live Event",
       "group": "NEWS",
       "keywords": ["BloombergTV.us@AsiaLiveEvent"],
-      "xml_url": "https://epg.pw/api/epg.xml?channel_id=539726"
+      "xml_url": "https://epg.pw/api/epg.xml?channel_id=370178"
     },
     {
       "name": "Bloomberg TV Europe",
       "group": "NEWS",
       "keywords": ["BloombergTV.us@Europe"],
-      "xml_url": "https://epg.pw/api/epg.xml?channel_id=539726"
+      "xml_url": "https://epg.pw/api/epg.xml?channel_id=76639"
     },
     {
       "name": "Bloomberg TV US Live Event",
       "group": "NEWS",
       "keywords": ["BloombergTV.us@LiveEvent"],
-      "xml_url": "https://epg.pw/api/epg.xml?channel_id=539726"
+      "xml_url": "https://epg.pw/api/epg.xml?channel_id=465213"
     },
     {
       "name": "Bloomberg TV US Politics Live Event",
       "group": "NEWS",
       "keywords": ["BloombergTV.us@PoliticsLiveEvent"],
-      "xml_url": "https://epg.pw/api/epg.xml?channel_id=539726"
+      "xml_url": "https://epg.pw/api/epg.xml?channel_id=465324"
     },
     {
       "name": "Bloomberg TV+",
       "group": "NEWS",
       "keywords": ["BloombergTV.us@Plus-Poland"],
-      "xml_url": "https://epg.pw/api/epg.xml?channel_id=539726"
     },
     {
       "name": "CNBC",
       "group": "NEWS",
       "keywords": ["CNBCUK.uk@SD"],
-      "xml_url": "https://epg.pw/api/epg.xml?channel_id=539726"
-    },
-    {
-      "name": "CNBC Mongolia",
-      "group": "NEWS",
-      "keywords": ["CNBCMongolia.mn@SD"],
-      "xml_url": "https://epg.pw/api/epg.xml?channel_id=539726"
+      "xml_url": "https://epg.pw/api/epg.xml?channel_id=486835"
     },
     {
       "name": "CNN Prima News",
       "group": "NEWS",
       "keywords": ["CNNPrimaNews.cz@SD"],
-      "xml_url": "https://epg.pw/api/epg.xml?channel_id=539726"
+      "xml_url": "https://epg.pw/api/epg.xml?channel_id=486791"
     },
     {
       "name": "LiveNOW from FOX",
       "group": "NEWS",
       "keywords": ["LiveNOWfromFOX.us@SD"],
-      "xml_url": "https://epg.pw/api/epg.xml?channel_id=539726"
+      "xml_url": "https://epg.pw/api/epg.xml?channel_id=492833"
     },
     {
       "name": "CGTN",
       "group": "NEWS",
       "keywords": ["CGTN.cn@SD"],
-      "xml_url": "https://epg.pw/api/epg.xml?channel_id=539726"
+      "xml_url": "https://epg.pw/api/epg.xml?channel_id=522552"
     },
     {
       "name": "CGTN Arabic",
       "group": "NEWS",
       "keywords": ["CGTNArabic.cn@SD"],
-      "xml_url": "https://epg.pw/api/epg.xml?channel_id=539726"
+      "xml_url": "https://epg.pw/api/epg.xml?channel_id=522552"
     },
     {
       "name": "NHK World-Japan",
       "group": "NEWS",
       "keywords": ["NHKWorldJapan.jp@SD"],
-      "xml_url": "https://epg.pw/api/epg.xml?channel_id=539726"
+      "xml_url": "https://epg.pw/api/epg.xml?channel_id=410315"
     },
     {
       "name": "France 24 English",
       "group": "NEWS",
       "keywords": ["France24.fr@English"],
-      "xml_url": "https://epg.pw/api/epg.xml?channel_id=539726"
+      "xml_url": "https://epg.pw/api/epg.xml?channel_id=369726"
     },
     {
       "name": "DW English",
       "group": "NEWS",
       "keywords": ["DW.de@English"],
-      "xml_url": "https://epg.pw/api/epg.xml?channel_id=539726"
+      "xml_url": "https://epg.pw/api/epg.xml?channel_id=410311"
     },
     {
       "name": "RT France",
       "group": "NEWS",
       "keywords": ["RTFrance.fr@SD"],
-      "xml_url": "https://epg.pw/api/epg.xml?channel_id=539726"
+      "xml_url": "https://epg.pw/api/epg.xml?channel_id=410316"
     },
         {
       "name": "CCTV1",
