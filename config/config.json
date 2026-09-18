@@ -288,7 +288,7 @@
       "keywords": ["凤凰资讯", "凤凰卫视资讯", "Phoenix InfoNews"],
       "xml_url": "https://epg.pw/api/epg.xml?lang=zh-hant&date=20260906&channel_id=410355"
     },
-        {
+    {
       "name": "MTV Biggest Pop",
       "group": "Music",
       "keywords": ["MTVBiggestPop.us"],
@@ -307,6 +307,21 @@
       "name": "Stingray Smooth Jazz",
       "group": "Music",
       "keywords": ["StingraySmoothJazz.ca"],
+    },
+    {
+      "name": "Classic Music",
+      "group": "Music",
+      "keywords": ["ClassicMusic.ru@SD"],
+    },
+    {
+      "name": "Music Box Classic",
+      "group": "Music",
+      "keywords": ["MusicBoxClassic.cz@SD"],
+    },
+    {
+      "name": "Music Box Classic",
+      "group": "Music",
+      "keywords": ["MusicBoxClassic.cz@SD"],
     }
   ]
 }
