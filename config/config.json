@@ -100,6 +100,156 @@
       "keywords": ["bloomberg tv", "bloomberg", "bloomberg us"],
       "xml_url": "https://epg.pw/api/epg.xml?lang=zh-hant&date=20260907&channel_id=370178"
     },
+        {
+      "name": "CCTV1",
+      "group": "央视",
+      "keywords": ["CCTV1"],
+      "xml_url": "https://epg.pw/api/epg.xml?channel_id=561309"
+    },
+    {
+      "name": "CCTV2",
+      "group": "央视",
+      "keywords": ["CCTV2"],
+      "xml_url": "https://epg.pw/api/epg.xml?channel_id=561310"
+    },
+    {
+      "name": "CCTV3",
+      "group": "央视",
+      "keywords": ["CCTV3"],
+      "xml_url": "https://epg.pw/api/epg.xml?channel_id=545934"
+    },
+    {
+      "name": "CCTV4",
+      "group": "央视",
+      "keywords": ["CCTV4"],
+      "xml_url": "https://epg.pw/api/epg.xml?channel_id=561312"
+    },
+    {
+      "name": "CCTV5",
+      "group": "央视",
+      "keywords": ["CCTV5"],
+      "xml_url": "https://epg.pw/api/epg.xml?channel_id=561313"
+    },
+    {
+      "name": "CCTV5+",
+      "group": "央视",
+      "keywords": ["CCTV5+"],
+      "xml_url": "https://epg.pw/api/epg.xml?channel_id=561314"
+    },
+    {
+      "name": "CCTV6",
+      "group": "央视",
+      "keywords": ["CCTV6"],
+      "xml_url": "https://epg.pw/api/epg.xml?channel_id=561315"
+    },
+    {
+      "name": "CCTV7",
+      "group": "央视",
+      "keywords": ["CCTV7"],
+      "xml_url": "https://epg.pw/api/epg.xml?channel_id=561316"
+    },
+    {
+      "name": "CCTV8",
+      "group": "央视",
+      "keywords": ["CCTV8"],
+      "xml_url": "https://epg.pw/api/epg.xml?channel_id=561317"
+    },
+    {
+      "name": "CCTV9",
+      "group": "央视",
+      "keywords": ["CCTV9"],
+      "xml_url": "https://epg.pw/api/epg.xml?channel_id=561318"
+    },
+    {
+      "name": "CCTV10",
+      "group": "央视",
+      "keywords": ["CCTV10"],
+      "xml_url": "https://epg.pw/api/epg.xml?channel_id=561319"
+    },
+    {
+      "name": "CCTV11",
+      "group": "央视",
+      "keywords": ["CCTV11"],
+      "xml_url": "https://epg.pw/api/epg.xml?channel_id=561320"
+    },
+    {
+      "name": "CCTV12",
+      "group": "央视",
+      "keywords": ["CCTV12"],
+      "xml_url": "https://epg.pw/api/epg.xml?channel_id=561321"
+    },
+    {
+      "name": "CCTV13",
+      "group": "央视",
+      "keywords": ["CCTV13"],
+      "xml_url": "https://epg.pw/api/epg.xml?channel_id=561322"
+    },
+    {
+      "name": "CCTV14",
+      "group": "央视",
+      "keywords": ["CCTV14"],
+      "xml_url": "https://epg.pw/api/epg.xml?channel_id=561323"
+    },
+    {
+      "name": "CCTV15",
+      "group": "央视",
+      "keywords": ["CCTV15"],
+      "xml_url": "https://epg.pw/api/epg.xml?channel_id=561324"
+    },
+    {
+      "name": "CCTV16",
+      "group": "央视",
+      "keywords": ["CCTV16"],
+      "xml_url": "https://epg.pw/api/epg.xml?channel_id=561405"
+    },
+    {
+      "name": "CCTV17",
+      "group": "央视",
+      "keywords": ["CCTV17"],
+      "xml_url": "https://epg.pw/api/epg.xml?channel_id=561325"
+    },
+    {
+      "name": "北京卫视",
+      "group": "央视",
+      "keywords": ["北京卫视"],
+      "xml_url": "https://epg.pw/api/epg.xml?channel_id=539726"
+    },
+    {
+      "name": "东方卫视",
+      "group": "央视",
+      "keywords": ["东方卫视"],
+      "xml_url": "https://epg.pw/api/epg.xml?channel_id=539699"
+    },
+    {
+      "name": "广东卫视",
+      "group": "央视",
+      "keywords": ["广东卫视"],
+      "xml_url": "https://epg.pw/api/epg.xml?channel_id=539712"
+    },
+    {
+      "name": "浙江卫视",
+      "group": "央视",
+      "keywords": ["浙江卫视"],
+      "xml_url": "https://epg.pw/api/epg.xml?channel_id=539700"
+    },
+    {
+      "name": "江苏卫视",
+      "group": "央视",
+      "keywords": ["江苏卫视"],
+      "xml_url": "https://epg.pw/api/epg.xml?channel_id=539834"
+    },
+    {
+      "name": "湖南卫视",
+      "group": "央视",
+      "keywords": ["湖南卫视"],
+      "xml_url": "https://epg.pw/api/epg.xml?channel_id=539731"
+    },
+    {
+      "name": "四川卫视",
+      "group": "央视",
+      "keywords": ["四川卫视"],
+      "xml_url": "https://epg.pw/api/epg.xml?channel_id=539826"
+    },
     {
       "name": "凤凰卫视资讯台",
       "group": "港澳台/境外",
