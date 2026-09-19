@@ -14,11 +14,12 @@
       "name": "Al Jazeera 2",
       "group": "NEWS",
       "keywords": ["AlJazeera2.qa@HD"],
+      "xml_url": "https://epg.pw/api/epg.xml?channel_id=76735"
     },
     {
       "name": "Al Jazeera 2",
       "group": "NEWS",
-      "keywords": ["AlJazeera2.qa@HD"],
+      "keywords": ["AlJazeera2.qa@HD"]
     },
     {
       "name": "Al Jazeera English HD",
@@ -29,7 +30,7 @@
     {
       "name": "Al Jazeera Mubasher",
       "group": "NEWS",
-      "keywords": ["AlJazeeraMubasher.qa@SD"],
+      "keywords": ["AlJazeeraMubasher.qa@SD"]
     },
     {
       "name": "BBC News",
@@ -76,7 +77,7 @@
     {
       "name": "Bloomberg TV+",
       "group": "NEWS",
-      "keywords": ["BloombergTV.us@Plus-Poland"],
+      "keywords": ["BloombergTV.us@Plus-Poland"]
     },
     {
       "name": "CNBC",
@@ -291,37 +292,37 @@
     {
       "name": "MTV Biggest Pop",
       "group": "Music",
-      "keywords": ["MTVBiggestPop.us"],
+      "keywords": ["MTVBiggestPop.us"]
     },
     {
       "name": "Stingray DJAZZ",
       "group": "Music",
-      "keywords": ["StingrayDJAZZ.ca"],
+      "keywords": ["StingrayDJAZZ.ca"]
     },
     {
       "name": "Qwest TV Jazz & Beyond",
       "group": "Music",
-      "keywords": ["QwestTVJazzBeyond.fr"],
+      "keywords": ["QwestTVJazzBeyond.fr"]
     },
     {
       "name": "Stingray Smooth Jazz",
       "group": "Music",
-      "keywords": ["StingraySmoothJazz.ca"],
+      "keywords": ["StingraySmoothJazz.ca"]
     },
     {
       "name": "Classic Music",
       "group": "Music",
-      "keywords": ["ClassicMusic.ru@SD"],
+      "keywords": ["ClassicMusic.ru@SD"]
     },
     {
       "name": "Music Box Classic",
       "group": "Music",
-      "keywords": ["MusicBoxClassic.cz@SD"],
+      "keywords": ["MusicBoxClassic.cz@SD"]
     },
     {
       "name": "Music Box Classic",
       "group": "Music",
-      "keywords": ["MusicBoxClassic.cz@SD"],
+      "keywords": ["MusicBoxClassic.cz@SD"]
     }
   ]
 }
