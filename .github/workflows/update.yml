@@ -30,7 +30,7 @@ jobs:
       - name: 执行筛选与 EPG 合成脚本
         run: |
           cat << 'EOF' > filter_runner.py
-          import json, re, requests, gzip, time
+          import json, re, requests, gzip, time, io
           from datetime import datetime
           import xml.etree.ElementTree as ET
 
@@ -78,6 +78,69 @@ jobs:
               return channels
 
 
+          def extract_from_gz(gz_url, match_list, t_name, headers):
+              """
+              下载 gz 包，内存解压，按 match_list 匹配 <channel>，
+              返回 (channels_elems, programmes_elems)，并把 id 改成 t_name
+              """
+              try:
+                  resp = requests.get(gz_url, timeout=60, headers=headers)
+                  if resp.status_code != 200:
+                      print(f"  └─ ❌ gz 下载失败 [{gz_url}] HTTP {resp.status_code}")
+                      return [], []
+
+                  # 内存解压
+                  try:
+                      xml_bytes = gzip.decompress(resp.content)
+                  except Exception as e:
+                      print(f"  └─ ❌ gz 解压失败 [{gz_url}]: {e}")
+                      return [], []
+
+                  sub_tree = ET.fromstring(xml_bytes)
+
+                  # 先找出匹配的 channel id
+                  matched_ids = set()
+                  matched_channels = []
+                  for ch in sub_tree.findall('channel'):
+                      ch_id = ch.get('id', '')
+                      display_names = [d.text or '' for d in ch.findall('display-name')]
+                      candidates = [ch_id] + display_names
+                      clean_candidates = [clean_str(c) for c in candidates]
+
+                      hit = False
+                      for m in match_list:
+                          cm = clean_str(m)
+                          if cm in clean_candidates:
+                              hit = True
+                              break
+                      if hit:
+                          matched_ids.add(ch_id)
+                          # 改 id 和 display-name 为统一 t_name
+                          ch.set('id', t_name)
+                          for d in ch.findall('display-name'):
+                              d.text = t_name
+                          matched_channels.append(ch)
+
+                  if not matched_ids:
+                      print(f"  └─ ⚠️ gz 包中未找到匹配频道 [{t_name}]，匹配词: {match_list}")
+                      return [], []
+
+                  # 再提取对应 programme
+                  matched_programmes = []
+                  for prog in sub_tree.findall('programme'):
+                      if prog.get('channel') in matched_ids:
+                          prog.set('channel', t_name)
+                          matched_programmes.append(prog)
+
+                  print(f"  └─ ✅ gz 包中匹配到 [{t_name}]："
+                        f"{len(matched_channels)} 个 channel，{len(matched_programmes)} 条 programme")
+                  return matched_channels, matched_programmes
+
+              except Exception as e:
+                  print(f"  └─ ❌ gz 处理异常 [{gz_url}]: {e}")
+                  return [], []
+
+
           # 1. 加载配置
           with open('config/config.json', 'r', encoding='utf-8') as f:
               config = json.load(f)
@@ -97,7 +160,6 @@ jobs:
               t_name = target.get('name')
               t_group = target.get('group', 'NEWS')
               keywords = target.get('keywords', [])
-              # 可选：指定该频道从哪些上游源匹配
               source_field = target.get('source')
 
               if source_field:
@@ -108,7 +170,6 @@ jobs:
               else:
                   target_sources = upstream_urls
 
-              # 只在该频道指定的源里找
               candidate_channels = []
               for src in target_sources:
                   if src in source_cache:
@@ -123,15 +184,12 @@ jobs:
                   clean_name = clean_str(raw_tvg_name)
                   for kw in keywords:
                       clean_kw = clean_str(kw)
-                      # 精确匹配 tvg-id 或 tvg-name
                       if clean_kw == clean_id or clean_kw == clean_name:
                           matched_urls.append(raw_url)
                           matched_logos.append(raw_logo)
                           break
 
-              # 去重，保持顺序
               unique_urls = list(dict.fromkeys(matched_urls))
-              # 直接取前 2 条（不测速）
               selected_urls = unique_urls[:2]
 
               if selected_urls:
@@ -140,7 +198,6 @@ jobs:
                   for idx, url in enumerate(selected_urls, 1):
                       logo = url_logo_map.get(url, "")
                       logo_attr = f' tvg-logo="{logo}"' if logo else ''
-                      # ✅ 需求1：去掉 (线路N)，直接用 t_name
                       final_items.append(
                           f'#EXTINF:-1 tvg-id="{t_name}" tvg-name="{t_name}"'
                           f'{logo_attr} group-title="{t_group}",{t_name}\n{url}'
@@ -165,33 +222,42 @@ jobs:
           for target in config.get('keep_channels', []):
               t_name = target.get('name')
               xml_url = target.get('xml_url')
-              if not xml_url:
-                  continue
-              xml_url = re.sub(r'date=\d{8}', f'date={today_str}', xml_url)
+              xml_gz = target.get('xml_gz')
+              xml_gz_match = target.get('xml_gz_match') or [t_name]
 
-              success = False
-              for attempt in range(1, 4):
-                  try:
-                      resp = requests.get(xml_url, timeout=20, headers=headers)
-                      if resp.status_code == 200:
-                          sub_tree = ET.fromstring(resp.content)
-                          for elem in sub_tree:
-                              if elem.tag == 'channel':
-                                  elem.set('id', t_name)
-                                  for d_name in elem.findall('display-name'):
-                                      d_name.text = t_name
-                              elif elem.tag == 'programme':
-                                  elem.set('channel', t_name)
-                              root_epg.append(elem)
-                          print(f"  └─ ✅ 拼接与对齐 EPG [{t_name}]")
-                          success = True
-                          break
-                  except Exception as e:
-                      if attempt < 3:
-                          time.sleep(1.5)
+              # 5.1 普通 xml_url 逻辑（保持原样）
+              if xml_url:
+                  xml_url_fixed = re.sub(r'date=\d{8}', f'date={today_str}', xml_url)
+                  success = False
+                  for attempt in range(1, 4):
+                      try:
+                          resp = requests.get(xml_url_fixed, timeout=20, headers=headers)
+                          if resp.status_code == 200:
+                              sub_tree = ET.fromstring(resp.content)
+                              for elem in sub_tree:
+                                  if elem.tag == 'channel':
+                                      elem.set('id', t_name)
+                                      for d_name in elem.findall('display-name'):
+                                          d_name.text = t_name
+                                  elif elem.tag == 'programme':
+                                      elem.set('channel', t_name)
+                                  root_epg.append(elem)
+                              print(f"  └─ ✅ 拼接与对齐 EPG [{t_name}] (xml_url)")
+                              success = True
+                              break
+                      except Exception as e:
+                          if attempt < 3:
+                              time.sleep(1.5)
+                  if not success:
+                      print(f"  └─ ❌ 拼接 EPG [{t_name}] 失败 (xml_url): 连续重试3次均超时或连接失败")
 
-              if not success:
-                  print(f"  └─ ❌ 拼接 EPG [{t_name}] 失败: 连续重试3次均超时或连接失败")
+              # 5.2 gz 压缩包逻辑
+              if xml_gz:
+                  chs, progs = extract_from_gz(xml_gz, xml_gz_match, t_name, headers)
+                  for ch in chs:
+                      root_epg.append(ch)
+                  for p in progs:
+                      root_epg.append(p)
 
           # 6. 生成并保存 EPG 文件到当前根目录
           xml_data = ET.tostring(root_epg, encoding='utf-8', xml_declaration=True)
