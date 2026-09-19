@@ -40,7 +40,7 @@ jobs:
 
 
           def fetch_m3u(url):
-              """拉取 m3u，保留 标题 / URL / tvg-logo"""
+              """拉取 m3u，提取 tvg-id / tvg-name / tvg-logo / 标题"""
               channels = []
               try:
                   resp = requests.get(url, timeout=15, headers={'User-Agent': 'Mozilla/5.0'})
@@ -48,17 +48,30 @@ jobs:
                       lines = resp.text.splitlines()
                       current_title = ""
                       current_logo = ""
+                      current_tvg_id = ""
+                      current_tvg_name = ""
                       for line in lines:
                           line = line.strip()
                           if line.startswith("#EXTINF:"):
                               parts = line.split(",")
                               current_title = parts[-1].strip() if len(parts) > 1 else ""
+
                               logo_match = re.search(r'tvg-logo="([^"]*)"', line)
                               current_logo = logo_match.group(1) if logo_match else ""
+
+                              id_match = re.search(r'tvg-id="([^"]*)"', line)
+                              current_tvg_id = id_match.group(1) if id_match else ""
+
+                              name_match = re.search(r'tvg-name="([^"]*)"', line)
+                              current_tvg_name = name_match.group(1) if name_match else ""
+
                           elif line and not line.startswith("#") and current_title:
-                              channels.append((current_title, line, current_logo))
+                              channels.append((current_title, line, current_logo,
+                                               current_tvg_id, current_tvg_name))
                               current_title = ""
                               current_logo = ""
+                              current_tvg_id = ""
+                              current_tvg_name = ""
                       print(f"✅ 从 [{url}] 成功拉取到 {len(channels)} 条原始线路")
               except Exception as e:
                   print(f"❌ 拉取 [{url}] 失败: {e}")
@@ -74,9 +87,9 @@ jobs:
           for upstream in config.get('upstream_urls', []):
               all_raw.extend(fetch_m3u(upstream))
 
-          print(f"\n📡 上游合并完成，总计 {len(all_raw)} 条线路，开始频道匹配（不测速，取前 2 条）...\n")
+          print(f"\n📡 上游合并完成，总计 {len(all_raw)} 条线路，开始按 tvg-id / tvg-name 精准匹配...\n")
 
-          # 3. 匹配频道，直接取前 2 条
+          # 3. 精准匹配 tvg-id 或 tvg-name，直接取前 2 条
           final_items = []
           for target in config.get('keep_channels', []):
               t_name = target.get('name')
@@ -85,23 +98,25 @@ jobs:
 
               matched_urls = []
               matched_logos = []
-              for raw_title, raw_url, raw_logo in all_raw:
-                  clean_t = clean_str(raw_title)
+              for raw_title, raw_url, raw_logo, raw_tvg_id, raw_tvg_name in all_raw:
+                  clean_id = clean_str(raw_tvg_id)
+                  clean_name = clean_str(raw_tvg_name)
                   for kw in keywords:
-                      if clean_str(kw) in clean_t:
+                      clean_kw = clean_str(kw)
+                      # 精确匹配 tvg-id 或 tvg-name
+                      if clean_kw == clean_id or clean_kw == clean_name:
                           matched_urls.append(raw_url)
                           matched_logos.append(raw_logo)
                           break
 
               # 去重，保持顺序
               unique_urls = list(dict.fromkeys(matched_urls))
-              # 直接取前 2 条（不再测速）
+              # 直接取前 2 条（不测速）
               selected_urls = unique_urls[:2]
 
               if selected_urls:
-                  # 建立 url -> logo 映射
                   url_logo_map = dict(zip(matched_urls, matched_logos))
-                  print(f"🎯 [{t_name}] 匹配到 {len(unique_urls)} 条，直接选取前 {len(selected_urls)} 条")
+                  print(f"🎯 [{t_name}] 精准匹配到 {len(unique_urls)} 条，直接选取前 {len(selected_urls)} 条")
                   for idx, url in enumerate(selected_urls, 1):
                       logo = url_logo_map.get(url, "")
                       logo_attr = f' tvg-logo="{logo}"' if logo else ''
@@ -110,7 +125,7 @@ jobs:
                           f'{logo_attr} group-title="{t_group}",{t_name} (线路{idx})\n{url}'
                       )
               else:
-                  print(f"⚠️ [{t_name}] 未匹配到线路")
+                  print(f"⚠️ [{t_name}] 未匹配到 tvg-id / tvg-name")
 
           # 4. 写入 Gather.m3u
           with open('Gather.m3u', 'w', encoding='utf-8') as f:
