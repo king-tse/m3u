@@ -284,30 +284,41 @@
       "xml_url": "https://epg.pw/api/epg.xml?channel_id=539826"
     },
     {
+      "name": "凤凰中文台",
+      "group": "港澳台",
+      "keywords": ["凤凰中文台"],
+      "xml_url": "https://epg.pw/api/epg.xml?lang=zh-hant&date=20260906&channel_id=410378"
+    },
+    {
       "name": "凤凰卫视资讯台",
-      "group": "港澳台/境外",
-      "keywords": ["凤凰资讯", "凤凰卫视资讯", "Phoenix InfoNews"],
+      "group": "港澳台",
+      "keywords": ["凤凰资讯台"],
       "xml_url": "https://epg.pw/api/epg.xml?lang=zh-hant&date=20260906&channel_id=410355"
+    },
+    {
+      "name": "凤凰香港台",
+      "group": "港澳台",
+      "keywords": ["凤凰香港台"]
     },
     {
       "name": "MTV Biggest Pop",
       "group": "Music",
-      "keywords": ["MTVBiggestPop.us"]
+      "keywords": ["MTVBiggestPop.us@US"]
     },
     {
       "name": "Stingray DJAZZ",
       "group": "Music",
-      "keywords": ["StingrayDJAZZ.ca"]
+      "keywords": ["StingrayDJAZZ.ca@SD"]
     },
     {
       "name": "Qwest TV Jazz & Beyond",
       "group": "Music",
-      "keywords": ["QwestTVJazzBeyond.fr"]
+      "keywords": ["QwestTVJazzBeyond.fr@SD"]
     },
     {
       "name": "Stingray Smooth Jazz",
       "group": "Music",
-      "keywords": ["StingraySmoothJazz.ca"]
+      "keywords": ["StingraySmoothJazz.ca@SD"]
     },
     {
       "name": "Classic Music",
