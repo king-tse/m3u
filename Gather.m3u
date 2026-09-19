@@ -127,6 +127,26 @@ https://iptv.yang-1989.xyz/cn/3gjrds.m3u8?token=5db4929ae3d8caed83f502494a9b69e8
 https://iptv.yang-1989.xyz/cn/g3qd6z.m3u8?token=5db4929ae3d8caed83f502494a9b69e8e7663e68e39e059b
 #EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://iptv.yang-1989.xyz/logo/四川卫视.webp" group-title="央视",四川卫视 (线路1)
 https://iptv.yang-1989.xyz/cn/b494ca.m3u8?token=5db4929ae3d8caed83f502494a9b69e8e7663e68e39e059b
+#EXTINF:-1 tvg-id="凤凰中文台" tvg-name="凤凰中文台" tvg-logo="https://iptv.yang-1989.xyz/logo/凤凰中文台.webp" group-title="港澳台",凤凰中文台 (线路1)
+https://iptv.yang-1989.xyz/phoenix/3y2358.m3u8?token=5db4929ae3d8caed83f502494a9b69e8e7663e68e39e059b
+#EXTINF:-1 tvg-id="凤凰中文台" tvg-name="凤凰中文台" tvg-logo="https://iptv.yang-1989.xyz/logo/凤凰中文台.webp" group-title="港澳台",凤凰中文台 (线路2)
+https://cdn.qd.je/163189/fhzw
+#EXTINF:-1 tvg-id="凤凰卫视资讯台" tvg-name="凤凰卫视资讯台" tvg-logo="https://iptv.yang-1989.xyz/logo/凤凰资讯台.webp" group-title="港澳台",凤凰卫视资讯台 (线路1)
+https://iptv.yang-1989.xyz/phoenix/jpk2uw.m3u8?token=5db4929ae3d8caed83f502494a9b69e8e7663e68e39e059b
+#EXTINF:-1 tvg-id="凤凰卫视资讯台" tvg-name="凤凰卫视资讯台" tvg-logo="https://iptv.yang-1989.xyz/logo/凤凰资讯台.webp" group-title="港澳台",凤凰卫视资讯台 (线路2)
+https://cdn.qd.je/163189/fhzx
+#EXTINF:-1 tvg-id="凤凰香港台" tvg-name="凤凰香港台" tvg-logo="https://iptv.yang-1989.xyz/logo/凤凰香港台.webp" group-title="港澳台",凤凰香港台 (线路1)
+https://iptv.yang-1989.xyz/phoenix/nzb9dp.m3u8?token=5db4929ae3d8caed83f502494a9b69e8e7663e68e39e059b
+#EXTINF:-1 tvg-id="凤凰香港台" tvg-name="凤凰香港台" tvg-logo="https://iptv.yang-1989.xyz/logo/凤凰香港台.webp" group-title="港澳台",凤凰香港台 (线路2)
+https://cdn.qd.je/163189/fhhk
+#EXTINF:-1 tvg-id="MTV Biggest Pop" tvg-name="MTV Biggest Pop" tvg-logo="https://images.pluto.tv/channels/6047fbdbbb776a0007e7f2ff/colorLogoPNG.png" group-title="Music",MTV Biggest Pop (线路1)
+https://jmp2.uk/plu-5d14fd1a252d35decbc4080c.m3u8
+#EXTINF:-1 tvg-id="Stingray DJAZZ" tvg-name="Stingray DJAZZ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Stingray_Djazz.png/960px-Stingray_Djazz.png" group-title="Music",Stingray DJAZZ (线路1)
+https://lotus.stingray.com/manifest/djazz-djaads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="Qwest TV Jazz & Beyond" tvg-name="Qwest TV Jazz & Beyond" tvg-logo="https://i.imgur.com/89yWH5L.png" group-title="Music",Qwest TV Jazz & Beyond (线路1)
+https://samsungau-qwestjazz-samsungtv-zw2jc.amagi.tv/playlist/samsungau-qwestjazz-samsungtv/playlist.m3u8
+#EXTINF:-1 tvg-id="Stingray Smooth Jazz" tvg-name="Stingray Smooth Jazz" tvg-logo="https://i.imgur.com/h1DsOzH.png" group-title="Music",Stingray Smooth Jazz (线路1)
+https://lotus.stingray.com/manifest/ose-140ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-id="Classic Music" tvg-name="Classic Music" tvg-logo="https://i.imgur.com/TpXs1qA.png" group-title="Music",Classic Music (线路1)
 http://stream.mcquack.net/312/index.m3u8
 #EXTINF:-1 tvg-id="Music Box Classic" tvg-name="Music Box Classic" tvg-logo="https://musicboxclassic.com/music_box_classic_logo.png" group-title="Music",Music Box Classic (线路1)
