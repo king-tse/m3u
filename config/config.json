@@ -138,7 +138,7 @@
       "group": "央视",
       "keywords": ["CCTV1"],
       "source": "https://iptv.yang-1989.xyz/playlist.m3u",
-      "xml_gz": "https://example.com/epg/whole_epg.xml.gz"
+      "xml_gz": "https://iptv.yang-1989.xyz/epg.xml.gz"
     },
     {
       "name": "CCTV2",
@@ -325,7 +325,7 @@
       "group": "港澳台",
       "keywords": ["凤凰香港台"],
       "source": "https://iptv.yang-1989.xyz/playlist.m3u",
-      "xml_gz": "https://example.com/epg/whole_epg.xml.gz"
+      "xml_gz": "https://iptv.yang-1989.xyz/epg.xml.gz"
     },
     {
       "name": "MTV Biggest Pop",
