@@ -1,47 +1,75 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="BBC News" tvg-name="BBC News" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BBC_NEWS/images/LOGO_HD/image.png" group-title="NEWS",BBC News (线路1)
-http://23.237.104.106:8080/USA_BBC_NEWS/index.m3u8
-#EXTINF:-1 tvg-id="BBC News" tvg-name="BBC News" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BBC_NEWS/images/LOGO_HD/image.png" group-title="NEWS",BBC News (线路2)
-http://138.121.15.230:9002/BBC-NEWS/index.m3u8
-#EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="https://i.imgur.com/NYBZBY0.png" group-title="NEWS",CNN (线路1)
-https://59825a54e4454.streamlock.net:8443/pastorairisn394/pastorairisn394/chunklist_w239411719.m3u8
-#EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="https://i.imgur.com/9wxdWNQ.png" group-title="NEWS",CNN (线路2)
-https://cdnlive.klicgo.net/rcnnovelas/live/playlist.m3u8
-#EXTINF:-1 tvg-id="Fox News Channel" tvg-name="Fox News Channel" tvg-logo="https://radio.foxnews.com/wp-content/uploads/2017/10/default_logo-150x150.png" group-title="NEWS",Fox News Channel (线路1)
-https://radiovid.foxnews.com/hls/live/661547/RADIOVID/index.m3u8
-#EXTINF:-1 tvg-id="Fox News Channel" tvg-name="Fox News Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/960px-Fox_News_Channel_logo.svg.png" group-title="NEWS",Fox News Channel (线路2)
-http://138.121.15.230:9002/FOX-NEWS/index.m3u8
-#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://i.imgur.com/BwhledK.png" group-title="NEWS",CGTN (线路1)
-http://145.239.5.177/214/index.m3u8
-#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://i.imgur.com/qBmomnF.png" group-title="NEWS",CGTN (线路2)
-https://fastlive.cctvplus.com/out/v1/2b3d8a0c805d437f9dc85b764c2ac599/index.m3u8
-#EXTINF:-1 tvg-id="NHK World-Japan" tvg-name="NHK World-Japan" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/NHK_World_Japan.png" group-title="NEWS",NHK World-Japan (线路1)
-https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8
-#EXTINF:-1 tvg-id="NHK World-Japan" tvg-name="NHK World-Japan" tvg-logo="https://i.imgur.com/4ESi2La.png" group-title="NEWS",NHK World-Japan (线路2)
-https://media-tyo.hls.nhkworld.jp/hls/wp/live/master.m3u8
-#EXTINF:-1 tvg-id="France 24" tvg-name="France 24" tvg-logo="https://iptv.yang-1989.xyz/logo/France%2024.webp" group-title="NEWS",France 24 (线路1)
-https://iptv.yang-1989.xyz/4gtv/wgb7bz.m3u8?token=beb8271d104daf977087a07fe23b106533fd98f2bb4a029f
-#EXTINF:-1 tvg-id="France 24" tvg-name="France 24" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_FRANCE_24/images/LOGO_HD/image.png" group-title="NEWS",France 24 (线路2)
-https://live.france24.com/hls/live/2037222-b/F24_AR_HI_HLS/master_5000.m3u8
-#EXTINF:-1 tvg-id="DW" tvg-name="DW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/WWAY_logo.png" group-title="NEWS",DW (线路1)
-https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8
-#EXTINF:-1 tvg-id="DW" tvg-name="DW" tvg-logo="https://iptv.yang-1989.xyz/logo/DW.webp" group-title="NEWS",DW (线路2)
-https://iptv.yang-1989.xyz/4gtv/3zsx7x.m3u8?token=beb8271d104daf977087a07fe23b106533fd98f2bb4a029f
-#EXTINF:-1 tvg-id="Al Jazeera" tvg-name="Al Jazeera" tvg-logo="https://i.imgur.com/7bRVpnu.png" group-title="NEWS",Al Jazeera (线路1)
-https://live-hls-apps-aja-fa.getaj.net/AJA/01.m3u8
-#EXTINF:-1 tvg-id="Al Jazeera" tvg-name="Al Jazeera" tvg-logo="https://i.imgur.com/X80DQvF.png" group-title="NEWS",Al Jazeera (线路2)
-https://live-hls-apps-ajm-fa.getaj.net/AJM/index.m3u8
-#EXTINF:-1 tvg-id="Al Jazeera English" tvg-name="Al Jazeera English" tvg-logo="https://i.imgur.com/7bRVpnu.png" group-title="NEWS",Al Jazeera English (线路1)
-https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
-#EXTINF:-1 tvg-id="Al Jazeera English" tvg-name="Al Jazeera English" tvg-logo="https://i.imgur.com/7bRVpnu.png" group-title="NEWS",Al Jazeera English (线路2)
-http://stream.mcquack.net/131/index.m3u8
-#EXTINF:-1 tvg-id="CNBC" tvg-name="CNBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/CNBC_2025.svg/960px-CNBC_2025.svg.png" group-title="NEWS",CNBC (线路1)
-http://4.30.180.36:8420/cnbc/index.m3u8?token=test
-#EXTINF:-1 tvg-id="CNBC" tvg-name="CNBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Class_CNBC_2026.svg/960px-Class_CNBC_2026.svg.png" group-title="NEWS",CNBC (线路2)
-https://amg14891-amg14891c5-amgplt0020.playout.now3.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="Bloomberg TV" tvg-name="Bloomberg TV" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="NEWS",Bloomberg TV (线路1)
-http://23.237.104.106:8080/USA_BLOOMBERG/index.m3u8
-#EXTINF:-1 tvg-id="Bloomberg TV" tvg-name="Bloomberg TV" tvg-logo="https://iptv.yang-1989.xyz/logo/Bloomberg%20TV.webp" group-title="NEWS",Bloomberg TV (线路2)
-https://iptv.yang-1989.xyz/4gtv/9f7yf8.m3u8?token=beb8271d104daf977087a07fe23b106533fd98f2bb4a029f
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://iptv.yang-1989.xyz/logo/CCTV1.webp" group-title="央视",CCTV1 (线路1)
+https://iptv.yang-1989.xyz/cn/ppmg8p.m3u8?token=5db4929ae3d8caed83f502494a9b69e8e7663e68e39e059b
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://iptv.yang-1989.xyz/logo/CCTV13.webp" group-title="央视",CCTV1 (线路2)
+https://iptv.yang-1989.xyz/cn/r7v4qc.m3u8?token=5db4929ae3d8caed83f502494a9b69e8e7663e68e39e059b
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://iptv.yang-1989.xyz/logo/CCTV2.webp" group-title="央视",CCTV2 (线路1)
+https://iptv.yang-1989.xyz/cn/ernyzf.m3u8?token=5db4929ae3d8caed83f502494a9b69e8e7663e68e39e059b
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://i.imgur.com/ILamhwU.png" group-title="央视",CCTV2 (线路2)
+http://74.91.26.218:82/live/cctv2hd.m3u8
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://iptv.yang-1989.xyz/logo/CCTV3.webp" group-title="央视",CCTV3 (线路1)
+https://iptv.yang-1989.xyz/cn/mh5yda.m3u8?token=5db4929ae3d8caed83f502494a9b69e8e7663e68e39e059b
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://i.imgur.com/iFlkIuw.png" group-title="央视",CCTV3 (线路2)
+http://74.91.26.218:82/live/cctv3hd.m3u8
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://iptv.yang-1989.xyz/logo/CCTV4.webp" group-title="央视",CCTV4 (线路1)
+https://iptv.yang-1989.xyz/cn/k6hjdq.m3u8?token=5db4929ae3d8caed83f502494a9b69e8e7663e68e39e059b
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://i.imgur.com/tWt4Wou.png" group-title="央视",CCTV4 (线路2)
+http://74.91.26.218:82/live/cctv4hd.m3u8
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://iptv.yang-1989.xyz/logo/CCTV5.webp" group-title="央视",CCTV5 (线路1)
+https://iptv.yang-1989.xyz/cn/hhktyy.m3u8?token=5db4929ae3d8caed83f502494a9b69e8e7663e68e39e059b
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://iptv.yang-1989.xyz/logo/CCTV5.webp" group-title="央视",CCTV5 (线路2)
+https://cdn.qd.je/163189/cctv5-2
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://iptv.yang-1989.xyz/logo/CCTV5.webp" group-title="央视",CCTV5+ (线路1)
+https://cdn.qd.je/163189/cctv5
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://iptv.yang-1989.xyz/logo/CCTV5%2B.webp" group-title="央视",CCTV5+ (线路2)
+https://cdn.qd.je/163189/cctv5p-2
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://i.imgur.com/rFiaef7.png" group-title="央视",CCTV6 (线路1)
+http://69.30.245.50/live/cctv6.m3u8
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://iptv.yang-1989.xyz/logo/CCTV6.webp" group-title="央视",CCTV6 (线路2)
+https://php.jdshipin.com/TVOD/iptv.php?id=cctv6
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://i.imgur.com/CKcPMQC.png" group-title="央视",CCTV7 (线路1)
+http://74.91.26.218:82/live/cctv7hd.m3u8
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" group-title="央视",CCTV7 (线路2)
+https://cdn3.wowza.com/5/cHYzekYzM2kvTVFH/charlotte/G0055_009/playlist.m3u8
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://i.imgur.com/GyHaZ8X.png" group-title="央视",CCTV8 (线路1)
+http://74.91.26.218:82/live/cctv8hd.m3u8
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://i.imgur.com/fxVPMJF.png" group-title="央视",CCTV8 (线路2)
+http://192.151.150.154/live/cctv8k.m3u8
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://i.imgur.com/3tivvMm.png" group-title="央视",CCTV9 (线路1)
+https://xykt-fix.github.io/Y77.m3u8
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://iptv.yang-1989.xyz/logo/CCTV9.webp" group-title="央视",CCTV9 (线路2)
+https://iptv.yang-1989.xyz/cn/zczgc3.m3u8?token=5db4929ae3d8caed83f502494a9b69e8e7663e68e39e059b
+#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://iptv.yang-1989.xyz/logo/CCTV10.webp" group-title="央视",CCTV10 (线路1)
+https://iptv.yang-1989.xyz/cn/vxs54g.m3u8?token=5db4929ae3d8caed83f502494a9b69e8e7663e68e39e059b
+#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://iptv.yang-1989.xyz/logo/CCTV10.webp" group-title="央视",CCTV10 (线路2)
+https://php.jdshipin.com/TVOD/iptv.php?id=cctv10
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://iptv.yang-1989.xyz/logo/CCTV11.webp" group-title="央视",CCTV11 (线路1)
+https://php.jdshipin.com/TVOD/iptv.php?id=cctv11
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://i.imgur.com/CjOWx7L.png" group-title="央视",CCTV11 (线路2)
+http://74.91.26.218:82/live/cctv11hd.m3u8
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://iptv.yang-1989.xyz/logo/CCTV12.webp" group-title="央视",CCTV12 (线路1)
+https://php.jdshipin.com/TVOD/iptv.php?id=cctv12
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://i.imgur.com/3yTuiOM.png" group-title="央视",CCTV12 (线路2)
+http://74.91.26.218:82/live/cctv12hd.m3u8
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://iptv.yang-1989.xyz/logo/CCTV13.webp" group-title="央视",CCTV13 (线路1)
+https://cdn.qd.je/163189/cctv13-2
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://iptv.yang-1989.xyz/logo/CCTV13.webp" group-title="央视",CCTV13 (线路2)
+https://iptv.yang-1989.xyz/cn/r7v4qc.m3u8?token=5db4929ae3d8caed83f502494a9b69e8e7663e68e39e059b
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://iptv.yang-1989.xyz/logo/CCTV14.webp" group-title="央视",CCTV14 (线路1)
+https://php.jdshipin.com/TVOD/iptv.php?id=cctv14
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://i.imgur.com/c5SXW7i.png" group-title="央视",CCTV14 (线路2)
+http://74.91.26.218:82/live/cctv14hd.m3u8
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://iptv.yang-1989.xyz/logo/CCTV15.webp" group-title="央视",CCTV15 (线路1)
+https://php.jdshipin.com/TVOD/iptv.php?id=cctv15
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://i.imgur.com/CCV0eRG.png" group-title="央视",CCTV15 (线路2)
+https://xykt-fix.github.io/play/a02e/index.m3u8
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://iptv.yang-1989.xyz/logo/CCTV16.webp" group-title="央视",CCTV16 (线路1)
+https://cdn.qd.je/163189/cctv16-2
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://iptv.yang-1989.xyz/logo/CCTV16.webp" group-title="央视",CCTV16 (线路2)
+https://iptv.yang-1989.xyz/cn/2ddrg4.m3u8?token=5db4929ae3d8caed83f502494a9b69e8e7663e68e39e059b
+#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://iptv.yang-1989.xyz/logo/CCTV17.webp" group-title="央视",CCTV17 (线路1)
+https://iptv.yang-1989.xyz/cn/ef8vfr.m3u8?token=5db4929ae3d8caed83f502494a9b69e8e7663e68e39e059b
+#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://i.imgur.com/TpA3cUl.png" group-title="央视",CCTV17 (线路2)
+http://74.91.26.218:82/live/cctv1hd.m3u8
 #EXTINF:-1 tvg-id="凤凰卫视资讯台" tvg-name="凤凰卫视资讯台" tvg-logo="https://iptv.yang-1989.xyz/logo/凤凰资讯台.webp" group-title="港澳台/境外",凤凰卫视资讯台 (线路1)
 https://cdn.qd.je/163189/fhzx
