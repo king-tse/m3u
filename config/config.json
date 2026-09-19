@@ -287,13 +287,13 @@
       "name": "凤凰中文台",
       "group": "港澳台",
       "keywords": ["凤凰中文台"],
-      "xml_url": "https://epg.pw/api/epg.xml?lang=zh-hant&date=20260906&channel_id=410378"
+      "xml_url": "https://epg.pw/api/epg.xml?channel_id=410378"
     },
     {
       "name": "凤凰卫视资讯台",
       "group": "港澳台",
       "keywords": ["凤凰资讯台"],
-      "xml_url": "https://epg.pw/api/epg.xml?lang=zh-hant&date=20260906&channel_id=410355"
+      "xml_url": "https://epg.pw/api/epg.xml?channel_id=410355"
     },
     {
       "name": "凤凰香港台",
