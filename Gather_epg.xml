@@ -8285,7 +8285,11 @@
     <desc />
     <date>2026-09-21</date>
   </programme>
-<channel id="CCTV2">
+<channel id="CCTV1">
+    <display-name>CCTV1</display-name>
+    <icon src="https://iptv.yang-1989.xyz/logo/CCTV1.webp" />
+  </channel>
+  <channel id="CCTV2">
     <display-name lang="China">CCTV2</display-name>
     <icon src="" />
   </channel>
@@ -10604,4 +10608,275 @@
     <desc>《鳳凰早班車》: 透過鳳凰衛視龐大的報導網絡從國際各個主要通訊社獲得新聞資訊, 在早上率先向觀眾報導國際間最新發生的重大事情。</desc>
     <date>2026-09-21</date>
   </programme>
-</tv>
+<channel id="凤凰香港台">
+    <display-name>凤凰香港台</display-name>
+    <icon src="https://iptv.yang-1989.xyz/logo/凤凰香港台.webp" />
+  </channel>
+  <programme start="20260919000000 +0800" stop="20260919003000 +0800" channel="凤凰香港台">
+    <title lang="zh">華潤 鳳凰聚焦</title>
+  </programme>
+  <programme start="20260919003000 +0800" stop="20260919010000 +0800" channel="凤凰香港台">
+    <title lang="zh">以岭葯業 新聞今日談</title>
+  </programme>
+  <programme start="20260919010000 +0800" stop="20260919013000 +0800" channel="凤凰香港台">
+    <title lang="zh">風雲對話</title>
+  </programme>
+  <programme start="20260919013000 +0800" stop="20260919020000 +0800" channel="凤凰香港台">
+    <title lang="zh">時事大破解</title>
+  </programme>
+  <programme start="20260919020000 +0800" stop="20260919023000 +0800" channel="凤凰香港台">
+    <title lang="zh">鳳凰全球連線</title>
+  </programme>
+  <programme start="20260919023000 +0800" stop="20260919030000 +0800" channel="凤凰香港台">
+    <title lang="zh">鳳凰大視野</title>
+  </programme>
+  <programme start="20260919030000 +0800" stop="20260919033000 +0800" channel="凤凰香港台">
+    <title lang="zh">華潤 鳳凰聚焦</title>
+  </programme>
+  <programme start="20260919033000 +0800" stop="20260919040000 +0800" channel="凤凰香港台">
+    <title lang="zh">總編輯時間</title>
+  </programme>
+  <programme start="20260919040000 +0800" stop="20260919043000 +0800" channel="凤凰香港台">
+    <title lang="zh">風雲對話</title>
+  </programme>
+  <programme start="20260919043000 +0800" stop="20260919050000 +0800" channel="凤凰香港台">
+    <title lang="zh">空間觀策</title>
+  </programme>
+  <programme start="20260919050000 +0800" stop="20260919053000 +0800" channel="凤凰香港台">
+    <title lang="zh">時事大破解</title>
+  </programme>
+  <programme start="20260919053000 +0800" stop="20260919060000 +0800" channel="凤凰香港台">
+    <title lang="zh">以岭葯業 新聞今日談</title>
+  </programme>
+  <programme start="20260919060000 +0800" stop="20260919063000 +0800" channel="凤凰香港台">
+    <title lang="zh">近觀中國</title>
+  </programme>
+  <programme start="20260919063000 +0800" stop="20260919070000 +0800" channel="凤凰香港台">
+    <title lang="zh">鳳凰大視野</title>
+  </programme>
+  <programme start="20260919070000 +0800" stop="20260919075500 +0800" channel="凤凰香港台">
+    <title lang="zh">鳳凰早班車</title>
+  </programme>
+  <programme start="20260919075500 +0800" stop="20260919080000 +0800" channel="凤凰香港台">
+    <title lang="zh">鳳凰氣象站</title>
+  </programme>
+  <programme start="20260919080000 +0800" stop="20260919085500 +0800" channel="凤凰香港台">
+    <title lang="zh">鳳凰早班車</title>
+  </programme>
+  <programme start="20260919085500 +0800" stop="20260919090000 +0800" channel="凤凰香港台">
+    <title lang="zh">鳳凰氣象站</title>
+  </programme>
+  <programme start="20260919090000 +0800" stop="20260919093000 +0800" channel="凤凰香港台">
+    <title lang="zh">總編輯時間</title>
+  </programme>
+  <programme start="20260919093000 +0800" stop="20260919100000 +0800" channel="凤凰香港台">
+    <title lang="zh">風雲對話</title>
+  </programme>
+  <programme start="20260919100000 +0800" stop="20260919103000 +0800" channel="凤凰香港台">
+    <title lang="zh">空間觀策</title>
+  </programme>
+  <programme start="20260919103000 +0800" stop="20260919110000 +0800" channel="凤凰香港台">
+    <title lang="zh">鳳凰大視野</title>
+  </programme>
+  <programme start="20260919110000 +0800" stop="20260919113000 +0800" channel="凤凰香港台">
+    <title lang="zh">時事大破解</title>
+  </programme>
+  <programme start="20260919113000 +0800" stop="20260919120000 +0800" channel="凤凰香港台">
+    <title lang="zh">華潤 鳳凰聚焦</title>
+  </programme>
+  <programme start="20260919120000 +0800" stop="20260919125500 +0800" channel="凤凰香港台">
+    <title lang="zh">鳳凰午間專列</title>
+  </programme>
+  <programme start="20260919125500 +0800" stop="20260919130000 +0800" channel="凤凰香港台">
+    <title lang="zh">鳳凰氣象站</title>
+  </programme>
+  <programme start="20260919130000 +0800" stop="20260919135700 +0800" channel="凤凰香港台">
+    <title lang="zh">午間快綫</title>
+  </programme>
+  <programme start="20260919135700 +0800" stop="20260919140000 +0800" channel="凤凰香港台">
+    <title lang="zh">鳳凰氣象站</title>
+  </programme>
+  <programme start="20260919140000 +0800" stop="20260919143000 +0800" channel="凤凰香港台">
+    <title lang="zh">總編輯時間</title>
+  </programme>
+  <programme start="20260919143000 +0800" stop="20260919150000 +0800" channel="凤凰香港台">
+    <title lang="zh">風雲對話</title>
+  </programme>
+  <programme start="20260919150000 +0800" stop="20260919153000 +0800" channel="凤凰香港台">
+    <title lang="zh">空間觀策</title>
+  </programme>
+  <programme start="20260919153000 +0800" stop="20260919160000 +0800" channel="凤凰香港台">
+    <title lang="zh">時事大破解</title>
+  </programme>
+  <programme start="20260919160000 +0800" stop="20260919163000 +0800" channel="凤凰香港台">
+    <title lang="zh">鳳凰大視野</title>
+  </programme>
+  <programme start="20260919163000 +0800" stop="20260919170000 +0800" channel="凤凰香港台">
+    <title lang="zh">文化大觀園</title>
+  </programme>
+  <programme start="20260919170000 +0800" stop="20260919173000 +0800" channel="凤凰香港台">
+    <title lang="zh">華潤 鳳凰聚焦</title>
+  </programme>
+  <programme start="20260919173000 +0800" stop="20260919180000 +0800" channel="凤凰香港台">
+    <title lang="zh">行走和田</title>
+  </programme>
+  <programme start="20260919180000 +0800" stop="20260919182700 +0800" channel="凤凰香港台">
+    <title lang="zh">鳳凰焦點新聞 1800</title>
+  </programme>
+  <programme start="20260919182700 +0800" stop="20260919183000 +0800" channel="凤凰香港台">
+    <title lang="zh">鳳凰氣象站</title>
+  </programme>
+  <programme start="20260919183000 +0800" stop="20260919190000 +0800" channel="凤凰香港台">
+    <title lang="zh">以岭葯業 新聞今日談</title>
+  </programme>
+  <programme start="20260919190000 +0800" stop="20260919195700 +0800" channel="凤凰香港台">
+    <title lang="zh">全球新聞報道</title>
+  </programme>
+  <programme start="20260919195700 +0800" stop="20260919200000 +0800" channel="凤凰香港台">
+    <title lang="zh">鳳凰氣象站</title>
+  </programme>
+  <programme start="20260919200000 +0800" stop="20260919203000 +0800" channel="凤凰香港台">
+    <title lang="zh">香港新視點</title>
+  </programme>
+  <programme start="20260919203000 +0800" stop="20260919210000 +0800" channel="凤凰香港台">
+    <title lang="zh">時事三對論</title>
+  </programme>
+  <programme start="20260919210000 +0800" stop="20260919215500 +0800" channel="凤凰香港台">
+    <title lang="zh">時事直通車</title>
+  </programme>
+  <programme start="20260919215500 +0800" stop="20260919220000 +0800" channel="凤凰香港台">
+    <title lang="zh">鳳凰氣象站</title>
+  </programme>
+  <programme start="20260919220000 +0800" stop="20260919230000 +0800" channel="凤凰香港台">
+    <title lang="zh">難忘經典系列:  銀嗓歌后姚莉玫瑰傳奇經典演唱會</title>
+  </programme>
+  <programme start="20260919230000 +0800" stop="20260920000000 +0800" channel="凤凰香港台">
+    <title lang="zh">皇牌大放送</title>
+  </programme>
+  <programme start="20260920000000 +0800" stop="20260920003000 +0800" channel="凤凰香港台">
+    <title lang="zh">時事三對論</title>
+  </programme>
+  <programme start="20260920003000 +0800" stop="20260920010000 +0800" channel="凤凰香港台">
+    <title lang="zh">以岭葯業 新聞今日談</title>
+  </programme>
+  <programme start="20260920010000 +0800" stop="20260920013000 +0800" channel="凤凰香港台">
+    <title lang="zh">空間觀策</title>
+  </programme>
+  <programme start="20260920013000 +0800" stop="20260920023000 +0800" channel="凤凰香港台">
+    <title lang="zh">難忘經典系列:  銀嗓歌后姚莉玫瑰傳奇經典演唱會</title>
+  </programme>
+  <programme start="20260920023000 +0800" stop="20260920033000 +0800" channel="凤凰香港台">
+    <title lang="zh">皇牌大放送</title>
+  </programme>
+  <programme start="20260920033000 +0800" stop="20260920040000 +0800" channel="凤凰香港台">
+    <title lang="zh">發現大灣區</title>
+  </programme>
+  <programme start="20260920040000 +0800" stop="20260920043000 +0800" channel="凤凰香港台">
+    <title lang="zh">香港新視點</title>
+  </programme>
+  <programme start="20260920043000 +0800" stop="20260920053000 +0800" channel="凤凰香港台">
+    <title lang="zh">難忘經典系列:  銀嗓歌后姚莉玫瑰傳奇經典演唱會</title>
+  </programme>
+  <programme start="20260920053000 +0800" stop="20260920060000 +0800" channel="凤凰香港台">
+    <title lang="zh">以岭葯業 新聞今日談</title>
+  </programme>
+  <programme start="20260920060000 +0800" stop="20260920063000 +0800" channel="凤凰香港台">
+    <title lang="zh">時事三對論</title>
+  </programme>
+  <programme start="20260920063000 +0800" stop="20260920070000 +0800" channel="凤凰香港台">
+    <title lang="zh">行走和田</title>
+  </programme>
+  <programme start="20260920070000 +0800" stop="20260920075500 +0800" channel="凤凰香港台">
+    <title lang="zh">鳳凰早班車</title>
+  </programme>
+  <programme start="20260920075500 +0800" stop="20260920080000 +0800" channel="凤凰香港台">
+    <title lang="zh">鳳凰氣象站</title>
+  </programme>
+  <programme start="20260920080000 +0800" stop="20260920085500 +0800" channel="凤凰香港台">
+    <title lang="zh">鳳凰早班車</title>
+  </programme>
+  <programme start="20260920085500 +0800" stop="20260920090000 +0800" channel="凤凰香港台">
+    <title lang="zh">鳳凰氣象站</title>
+  </programme>
+  <programme start="20260920090000 +0800" stop="20260920100000 +0800" channel="凤凰香港台">
+    <title lang="zh">難忘經典系列:  銀嗓歌后姚莉玫瑰傳奇經典演唱會</title>
+  </programme>
+  <programme start="20260920100000 +0800" stop="20260920110000 +0800" channel="凤凰香港台">
+    <title lang="zh">皇牌大放送</title>
+  </programme>
+  <programme start="20260920110000 +0800" stop="20260920113000 +0800" channel="凤凰香港台">
+    <title lang="zh">香港新視點</title>
+  </programme>
+  <programme start="20260920113000 +0800" stop="20260920120000 +0800" channel="凤凰香港台">
+    <title lang="zh">時事三對論</title>
+  </programme>
+  <programme start="20260920120000 +0800" stop="20260920125700 +0800" channel="凤凰香港台">
+    <title lang="zh">鳳凰午間專列</title>
+  </programme>
+  <programme start="20260920125700 +0800" stop="20260920130000 +0800" channel="凤凰香港台">
+    <title lang="zh">鳳凰氣象站</title>
+  </programme>
+  <programme start="20260920130000 +0800" stop="20260920135700 +0800" channel="凤凰香港台">
+    <title lang="zh">午間快綫</title>
+  </programme>
+  <programme start="20260920135700 +0800" stop="20260920140000 +0800" channel="凤凰香港台">
+    <title lang="zh">鳳凰氣象站</title>
+  </programme>
+  <programme start="20260920140000 +0800" stop="20260920150000 +0800" channel="凤凰香港台">
+    <title lang="zh">難忘經典系列:  銀嗓歌后姚莉玫瑰傳奇經典演唱會</title>
+  </programme>
+  <programme start="20260920150000 +0800" stop="20260920153000 +0800" channel="凤凰香港台">
+    <title lang="zh">石評天下</title>
+  </programme>
+  <programme start="20260920153000 +0800" stop="20260920160000 +0800" channel="凤凰香港台">
+    <title lang="zh">時事三對論</title>
+  </programme>
+  <programme start="20260920160000 +0800" stop="20260920163000 +0800" channel="凤凰香港台">
+    <title lang="zh">風雲對話</title>
+  </programme>
+  <programme start="20260920163000 +0800" stop="20260920173000 +0800" channel="凤凰香港台">
+    <title lang="zh">皇牌大放送</title>
+  </programme>
+  <programme start="20260920173000 +0800" stop="20260920180000 +0800" channel="凤凰香港台">
+    <title lang="zh">我們和牠們</title>
+  </programme>
+  <programme start="20260920180000 +0800" stop="20260920182700 +0800" channel="凤凰香港台">
+    <title lang="zh">鳳凰焦點新聞 1800</title>
+  </programme>
+  <programme start="20260920182700 +0800" stop="20260920183000 +0800" channel="凤凰香港台">
+    <title lang="zh">鳳凰氣象站</title>
+  </programme>
+  <programme start="20260920183000 +0800" stop="20260920190000 +0800" channel="凤凰香港台">
+    <title lang="zh">以岭葯業 新聞今日談</title>
+  </programme>
+  <programme start="20260920190000 +0800" stop="20260920195700 +0800" channel="凤凰香港台">
+    <title lang="zh">全球新聞報道</title>
+  </programme>
+  <programme start="20260920195700 +0800" stop="20260920200000 +0800" channel="凤凰香港台">
+    <title lang="zh">鳳凰氣象站</title>
+  </programme>
+  <programme start="20260920200000 +0800" stop="20260920203000 +0800" channel="凤凰香港台">
+    <title lang="zh">發現大灣區</title>
+  </programme>
+  <programme start="20260920203000 +0800" stop="20260920210000 +0800" channel="凤凰香港台">
+    <title lang="zh">時事三對論</title>
+  </programme>
+  <programme start="20260920210000 +0800" stop="20260920215500 +0800" channel="凤凰香港台">
+    <title lang="zh">時事直通車</title>
+  </programme>
+  <programme start="20260920215500 +0800" stop="20260920220000 +0800" channel="凤凰香港台">
+    <title lang="zh">鳳凰氣象站</title>
+  </programme>
+  <programme start="20260920220000 +0800" stop="20260920230000 +0800" channel="凤凰香港台">
+    <title lang="zh">難忘經典系列:  銀嗓歌后姚莉玫瑰傳奇經典演唱會</title>
+  </programme>
+  <programme start="20260920230000 +0800" stop="20260920234500 +0800" channel="凤凰香港台">
+    <title lang="zh">大新聞大歷史</title>
+  </programme>
+  <programme start="20260920234500 +0800" stop="20260921000000 +0800" channel="凤凰香港台">
+    <title lang="zh">我的香港故事</title>
+  </programme>
+  <programme start="20260921000000 +0800" stop="20260921003000 +0800" channel="凤凰香港台">
+    <title lang="zh">時事三對論</title>
+  </programme>
+  </tv>
