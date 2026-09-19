@@ -27,13 +27,12 @@ jobs:
           python -m pip install --upgrade pip
           pip install requests
 
-      - name: 执行筛选、测速与 EPG 合成脚本
+      - name: 执行筛选与 EPG 合成脚本
         run: |
           cat << 'EOF' > filter_runner.py
           import json, re, requests, gzip, time
           from datetime import datetime
           import xml.etree.ElementTree as ET
-          from concurrent.futures import ThreadPoolExecutor, as_completed
 
 
           def clean_str(s):
@@ -66,39 +65,6 @@ jobs:
               return channels
 
 
-          def test_url(url):
-              """验证线路可用性，限时 3 秒"""
-              try:
-                  resp = requests.head(url, timeout=3, allow_redirects=True,
-                                       headers={'User-Agent': 'VLC/3.0.18'})
-                  if resp.status_code in [200, 206, 301, 302]:
-                      return url
-                  resp = requests.get(url, timeout=3, stream=True,
-                                      headers={'User-Agent': 'VLC/3.0.18'})
-                  if resp.status_code in [200, 206, 301, 302]:
-                      return url
-              except Exception:
-                  pass
-              return None
-
-
-          def filter_and_test_urls(urls, max_keep=2):
-              """多线程并发测试线路，只保留前 max_keep 条可用线路"""
-              valid_urls = []
-              unique_urls = list(dict.fromkeys(urls))
-
-              with ThreadPoolExecutor(max_workers=15) as executor:
-                  future_to_url = {executor.submit(test_url, url): url for url in unique_urls}
-                  for future in as_completed(future_to_url):
-                      res = future.result()
-                      if res:
-                          valid_urls.append(res)
-                          if len(valid_urls) >= max_keep:
-                              executor.shutdown(wait=False, cancel_futures=True)
-                              break
-              return valid_urls
-
-
           # 1. 加载配置
           with open('config/config.json', 'r', encoding='utf-8') as f:
               config = json.load(f)
@@ -108,9 +74,9 @@ jobs:
           for upstream in config.get('upstream_urls', []):
               all_raw.extend(fetch_m3u(upstream))
 
-          print(f"\n📡 上游合并完成，总计 {len(all_raw)} 条线路，开始频道筛选与测速...\n")
+          print(f"\n📡 上游合并完成，总计 {len(all_raw)} 条线路，开始频道匹配（不测速，取前 2 条）...\n")
 
-          # 3. 匹配并测速筛选
+          # 3. 匹配频道，直接取前 2 条
           final_items = []
           for target in config.get('keep_channels', []):
               t_name = target.get('name')
@@ -127,28 +93,29 @@ jobs:
                           matched_logos.append(raw_logo)
                           break
 
-              if matched_urls:
-                  # 建立 url -> logo 映射，测速后仍能取到对应 logo
+              # 去重，保持顺序
+              unique_urls = list(dict.fromkeys(matched_urls))
+              # 直接取前 2 条（不再测速）
+              selected_urls = unique_urls[:2]
+
+              if selected_urls:
+                  # 建立 url -> logo 映射
                   url_logo_map = dict(zip(matched_urls, matched_logos))
-                  valid_urls = filter_and_test_urls(matched_urls, max_keep=2)
-                  if valid_urls:
-                      print(f"🎯 [{t_name}] 匹配到 {len(matched_urls)} 条，测速通过 {len(valid_urls)} 条有效线路")
-                      for idx, url in enumerate(valid_urls, 1):
-                          logo = url_logo_map.get(url, "")
-                          logo_attr = f' tvg-logo="{logo}"' if logo else ''
-                          final_items.append(
-                              f'#EXTINF:-1 tvg-id="{t_name}" tvg-name="{t_name}"'
-                              f'{logo_attr} group-title="{t_group}",{t_name} (线路{idx})\n{url}'
-                          )
-                  else:
-                      print(f"❌ [{t_name}] 匹配到 {len(matched_urls)} 条，但测速后均不可用")
+                  print(f"🎯 [{t_name}] 匹配到 {len(unique_urls)} 条，直接选取前 {len(selected_urls)} 条")
+                  for idx, url in enumerate(selected_urls, 1):
+                      logo = url_logo_map.get(url, "")
+                      logo_attr = f' tvg-logo="{logo}"' if logo else ''
+                      final_items.append(
+                          f'#EXTINF:-1 tvg-id="{t_name}" tvg-name="{t_name}"'
+                          f'{logo_attr} group-title="{t_group}",{t_name} (线路{idx})\n{url}'
+                      )
               else:
                   print(f"⚠️ [{t_name}] 未匹配到线路")
 
           # 4. 写入 Gather.m3u
           with open('Gather.m3u', 'w', encoding='utf-8') as f:
               f.write("#EXTM3U\n" + "\n".join(final_items))
-          print(f"\n🎉 Gather.m3u 生成成功！共 {len(final_items)} 条高可用线路。")
+          print(f"\n🎉 Gather.m3u 生成成功！共 {len(final_items)} 条线路（未测速）。")
 
           # 5. 拼接 EPG XML 数据
           today_str = datetime.now().strftime("%Y%m%d")
