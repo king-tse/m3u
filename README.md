@@ -1,5 +1,5 @@
 # 仓库简介
-![Static Badge](https://img.shields.io/badge/%E6%9B%B4%E6%96%B0%E6%97%A5%E6%9C%9F-2026.09.06-brightgreen?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/%E6%9B%B4%E6%96%B0%E6%97%A5%E6%9C%9F-2026.09.19-brightgreen?style=for-the-badge)
 ##### 个人爱好，收集整合！佛系更新...
 ---
 ### 目录结构
@@ -52,6 +52,8 @@ m3u/
 
 ---
 ### 历史记录
+* 2026-09-19
+>取消链接检测测速，网上的测速和本地测速结果不同，采取关键字精准匹配，链接检测自己手工筛选
 * 2026-09-09
 >精简epg文件大小，精准定位，弃用Releases，防止CORS跨域限制
 * ~~2026.09.07~~
