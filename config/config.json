@@ -138,14 +138,14 @@
       "group": "央视",
       "keywords": ["CCTV1"],
       "source": "https://iptv.yang-1989.xyz/playlist.m3u",
-      "xml_gz": "https://iptv.yang-1989.xyz/epg.xml.gz"
+      "xml_url": "https://epg.pw/api/epg.xml?channel_id=545932"
     },
     {
       "name": "CCTV2",
       "group": "央视",
       "keywords": ["CCTV2"],
       "source": "https://iptv.yang-1989.xyz/playlist.m3u",
-      "xml_url": "https://epg.pw/api/epg.xml?channel_id=561310"
+      "xml_url": "https://epg.pw/api/epg.xml?channel_id=545933"
     },
     {
       "name": "CCTV3",
@@ -159,103 +159,103 @@
       "group": "央视",
       "keywords": ["CCTV4"],
       "source": "https://iptv.yang-1989.xyz/playlist.m3u",
-      "xml_url": "https://epg.pw/api/epg.xml?channel_id=561312"
+      "xml_url": "https://epg.pw/api/epg.xml?channel_id=545935"
     },
     {
       "name": "CCTV5",
       "group": "央视",
       "keywords": ["CCTV5"],
       "source": "https://iptv.yang-1989.xyz/playlist.m3u",
-      "xml_url": "https://epg.pw/api/epg.xml?channel_id=561313"
+      "xml_url": "https://epg.pw/api/epg.xml?channel_id=545936"
     },
     {
       "name": "CCTV5+",
       "group": "央视",
       "keywords": ["CCTV5+"],
       "source": "https://iptv.yang-1989.xyz/playlist.m3u",
-      "xml_url": "https://epg.pw/api/epg.xml?channel_id=561314"
+      "xml_url": "https://epg.pw/api/epg.xml?channel_id=545937"
     },
     {
       "name": "CCTV6",
       "group": "央视",
       "keywords": ["CCTV6"],
       "source": "https://iptv.yang-1989.xyz/playlist.m3u",
-      "xml_url": "https://epg.pw/api/epg.xml?channel_id=561315"
+      "xml_url": "https://epg.pw/api/epg.xml?channel_id=545938"
     },
     {
       "name": "CCTV7",
       "group": "央视",
       "keywords": ["CCTV7"],
-      "xml_url": "https://epg.pw/api/epg.xml?channel_id=561316"
+      "xml_url": "https://epg.pw/api/epg.xml?channel_id=545939"
     },
     {
       "name": "CCTV8",
       "group": "央视",
       "keywords": ["CCTV8"],
       "source": "https://iptv.yang-1989.xyz/playlist.m3u",
-      "xml_url": "https://epg.pw/api/epg.xml?channel_id=561317"
+      "xml_url": "https://epg.pw/api/epg.xml?channel_id=545940"
     },
     {
       "name": "CCTV9",
       "group": "央视",
       "keywords": ["CCTV9"],
       "source": "https://iptv.yang-1989.xyz/playlist.m3u",
-      "xml_url": "https://epg.pw/api/epg.xml?channel_id=561318"
+      "xml_url": "https://epg.pw/api/epg.xml?channel_id=545941"
     },
     {
       "name": "CCTV10",
       "group": "央视",
       "keywords": ["CCTV10"],
       "source": "https://iptv.yang-1989.xyz/playlist.m3u",
-      "xml_url": "https://epg.pw/api/epg.xml?channel_id=561319"
+      "xml_url": "https://epg.pw/api/epg.xml?channel_id=545942"
     },
     {
       "name": "CCTV11",
       "group": "央视",
       "keywords": ["CCTV11"],
       "source": "https://iptv.yang-1989.xyz/playlist.m3u",
-      "xml_url": "https://epg.pw/api/epg.xml?channel_id=561320"
+      "xml_url": "https://epg.pw/api/epg.xml?channel_id=545943"
     },
     {
       "name": "CCTV12",
       "group": "央视",
       "keywords": ["CCTV12"],
       "source": "https://iptv.yang-1989.xyz/playlist.m3u",
-      "xml_url": "https://epg.pw/api/epg.xml?channel_id=561321"
+      "xml_url": "https://epg.pw/api/epg.xml?channel_id=545944"
     },
     {
       "name": "CCTV13",
       "group": "央视",
       "keywords": ["CCTV13"],
-      "xml_url": "https://epg.pw/api/epg.xml?channel_id=561322"
+      "xml_url": "https://epg.pw/api/epg.xml?channel_id=545945"
     },
     {
       "name": "CCTV14",
       "group": "央视",
       "keywords": ["CCTV14"],
       "source": "https://iptv.yang-1989.xyz/playlist.m3u",
-      "xml_url": "https://epg.pw/api/epg.xml?channel_id=561323"
+      "xml_url": "https://epg.pw/api/epg.xml?channel_id=545946"
     },
     {
       "name": "CCTV15",
       "group": "央视",
       "keywords": ["CCTV15"],
       "source": "https://iptv.yang-1989.xyz/playlist.m3u",
-      "xml_url": "https://epg.pw/api/epg.xml?channel_id=561324"
+      "xml_url": "https://epg.pw/api/epg.xml?channel_id=545947"
     },
     {
       "name": "CCTV16",
       "group": "央视",
       "keywords": ["CCTV16"],
       "source": "https://iptv.yang-1989.xyz/playlist.m3u",
-      "xml_url": "https://epg.pw/api/epg.xml?channel_id=561405"
+      "xml_url": "https://epg.pw/api/epg.xml?channel_id=545948"
     },
     {
       "name": "CCTV17",
       "group": "央视",
       "keywords": ["CCTV17"],
       "source": "https://iptv.yang-1989.xyz/playlist.m3u",
-      "xml_url": "https://epg.pw/api/epg.xml?channel_id=561325"
+      "xml_url": "https://epg.pw/api/epg.xml?channel_id=545949"
     },
     {
       "name": "北京卫视",
@@ -325,7 +325,7 @@
       "group": "港澳台",
       "keywords": ["凤凰香港台"],
       "source": "https://iptv.yang-1989.xyz/playlist.m3u",
-      "xml_gz": "https://iptv.yang-1989.xyz/epg.xml.gz"
+      "xml_gz": "https://example.com/epg/whole_epg.xml.gz"
     },
     {
       "name": "MTV Biggest Pop",
