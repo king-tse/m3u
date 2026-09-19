@@ -82,12 +82,14 @@ jobs:
           with open('config/config.json', 'r', encoding='utf-8') as f:
               config = json.load(f)
 
-          # 2. 获取所有原始线路
-          all_raw = []
-          for upstream in config.get('upstream_urls', []):
-              all_raw.extend(fetch_m3u(upstream))
+          # 2. 获取所有上游源，并建立 url -> 频道列表 的缓存
+          source_cache = {}
+          upstream_urls = config.get('upstream_urls', [])
+          for upstream in upstream_urls:
+              source_cache[upstream] = fetch_m3u(upstream)
 
-          print(f"\n📡 上游合并完成，总计 {len(all_raw)} 条线路，开始按 tvg-id / tvg-name 精准匹配...\n")
+          total = sum(len(v) for v in source_cache.values())
+          print(f"\n📡 上游合并完成，总计 {total} 条线路，开始按 tvg-id / tvg-name 精准匹配...\n")
 
           # 3. 精准匹配 tvg-id 或 tvg-name，直接取前 2 条
           final_items = []
@@ -95,10 +97,28 @@ jobs:
               t_name = target.get('name')
               t_group = target.get('group', 'NEWS')
               keywords = target.get('keywords', [])
+              # 可选：指定该频道从哪些上游源匹配
+              source_field = target.get('source')
+
+              if source_field:
+                  if isinstance(source_field, str):
+                      target_sources = [source_field]
+                  else:
+                      target_sources = list(source_field)
+              else:
+                  target_sources = upstream_urls
+
+              # 只在该频道指定的源里找
+              candidate_channels = []
+              for src in target_sources:
+                  if src in source_cache:
+                      candidate_channels.extend(source_cache[src])
+                  else:
+                      print(f"⚠️ [{t_name}] 指定的 source 不在 upstream_urls 中，已跳过: {src}")
 
               matched_urls = []
               matched_logos = []
-              for raw_title, raw_url, raw_logo, raw_tvg_id, raw_tvg_name in all_raw:
+              for raw_title, raw_url, raw_logo, raw_tvg_id, raw_tvg_name in candidate_channels:
                   clean_id = clean_str(raw_tvg_id)
                   clean_name = clean_str(raw_tvg_name)
                   for kw in keywords:
@@ -120,9 +140,10 @@ jobs:
                   for idx, url in enumerate(selected_urls, 1):
                       logo = url_logo_map.get(url, "")
                       logo_attr = f' tvg-logo="{logo}"' if logo else ''
+                      # ✅ 需求1：去掉 (线路N)，直接用 t_name
                       final_items.append(
                           f'#EXTINF:-1 tvg-id="{t_name}" tvg-name="{t_name}"'
-                          f'{logo_attr} group-title="{t_group}",{t_name} (线路{idx})\n{url}'
+                          f'{logo_attr} group-title="{t_group}",{t_name}\n{url}'
                       )
               else:
                   print(f"⚠️ [{t_name}] 未匹配到 tvg-id / tvg-name")
@@ -130,7 +151,7 @@ jobs:
           # 4. 写入 Gather.m3u
           with open('Gather.m3u', 'w', encoding='utf-8') as f:
               f.write("#EXTM3U\n" + "\n".join(final_items))
-          print(f"\n🎉 Gather.m3u 生成成功！共 {len(final_items)} 条线路（未测速）。")
+          print(f"\n🎉 Gather.m3u 生成成功！共 {len(final_items)} 条线路（未测速，无线路N后缀）。")
 
           # 5. 拼接 EPG XML 数据
           today_str = datetime.now().strftime("%Y%m%d")
