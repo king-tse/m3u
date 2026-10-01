@@ -42,101 +42,101 @@ https://amg01644-amg01644c1-amgplt0343.playout.now3.amagi.tv/ts-eu-w1-n2/playlis
 #EXTINF:-1 tvg-id="RT France" tvg-name="RT France" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/RT-France-logo.svg/960px-RT-France-logo.svg.png" group-title="NEWS",RT France
 https://rt-fra.rttv.com/dvr/rtfrance/playlist.m3u8
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://iptv.yang-1989.xyz/logo/CCTV1.webp" group-title="央视",CCTV1
-https://iptv.yang-1989.xyz/cn/mv93vy.m3u8?token=4d032a925785523256c875c6daf89101ad39e80c11ecf90b
+https://iptv.yang-1989.xyz/cn/ffz5ap.m3u8?token=39623a95bf82e5efa1600239a6445213a4fa04fbbacb62af
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://iptv.yang-1989.xyz/logo/CCTV1.webp" group-title="央视",CCTV1
 https://php.jdshipin.com/TVOD/iptv.php?id=cctv1
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://iptv.yang-1989.xyz/logo/CCTV2.webp" group-title="央视",CCTV2
-https://iptv.yang-1989.xyz/cn/7wgzzk.m3u8?token=4d032a925785523256c875c6daf89101ad39e80c11ecf90b
+https://iptv.yang-1989.xyz/cn/athd5z.m3u8?token=39623a95bf82e5efa1600239a6445213a4fa04fbbacb62af
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://iptv.yang-1989.xyz/logo/CCTV2.webp" group-title="央视",CCTV2
 https://php.jdshipin.com/TVOD/iptv.php?id=cctv2
 #EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://iptv.yang-1989.xyz/logo/CCTV3.webp" group-title="央视",CCTV3
-https://iptv.yang-1989.xyz/cn/xs4czn.m3u8?token=4d032a925785523256c875c6daf89101ad39e80c11ecf90b
+https://iptv.yang-1989.xyz/cn/8h64rw.m3u8?token=39623a95bf82e5efa1600239a6445213a4fa04fbbacb62af
 #EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://iptv.yang-1989.xyz/logo/CCTV3.webp" group-title="央视",CCTV3
 https://php.jdshipin.com/TVOD/iptv.php?id=cctv3
 #EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://iptv.yang-1989.xyz/logo/CCTV4.webp" group-title="央视",CCTV4
-https://iptv.yang-1989.xyz/cn/b3jpnq.m3u8?token=4d032a925785523256c875c6daf89101ad39e80c11ecf90b
+https://iptv.yang-1989.xyz/cn/5rq6hr.m3u8?token=39623a95bf82e5efa1600239a6445213a4fa04fbbacb62af
 #EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://iptv.yang-1989.xyz/logo/CCTV4.webp" group-title="央视",CCTV4
 https://php.jdshipin.com/TVOD/iptv.php?id=cctv4
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://iptv.yang-1989.xyz/logo/CCTV5.webp" group-title="央视",CCTV5
-https://iptv.yang-1989.xyz/cn/7vfr75.m3u8?token=4d032a925785523256c875c6daf89101ad39e80c11ecf90b
+https://iptv.yang-1989.xyz/cn/4r5enb.m3u8?token=39623a95bf82e5efa1600239a6445213a4fa04fbbacb62af
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://iptv.yang-1989.xyz/logo/CCTV5%2B.webp" group-title="央视",CCTV5
-https://iptv.yang-1989.xyz/cn/nwcgmj.m3u8?token=4d032a925785523256c875c6daf89101ad39e80c11ecf90b
+https://iptv.yang-1989.xyz/cn/nhnjjb.m3u8?token=39623a95bf82e5efa1600239a6445213a4fa04fbbacb62af
 #EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://iptv.yang-1989.xyz/logo/CCTV5.webp" group-title="央视",CCTV5+
-https://iptv.yang-1989.xyz/cn/7vfr75.m3u8?token=4d032a925785523256c875c6daf89101ad39e80c11ecf90b
+https://iptv.yang-1989.xyz/cn/4r5enb.m3u8?token=39623a95bf82e5efa1600239a6445213a4fa04fbbacb62af
 #EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://iptv.yang-1989.xyz/logo/CCTV5%2B.webp" group-title="央视",CCTV5+
-https://iptv.yang-1989.xyz/cn/nwcgmj.m3u8?token=4d032a925785523256c875c6daf89101ad39e80c11ecf90b
+https://iptv.yang-1989.xyz/cn/nhnjjb.m3u8?token=39623a95bf82e5efa1600239a6445213a4fa04fbbacb62af
 #EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://iptv.yang-1989.xyz/logo/CCTV6.webp" group-title="央视",CCTV6
-https://iptv.yang-1989.xyz/cn/ubktty.m3u8?token=4d032a925785523256c875c6daf89101ad39e80c11ecf90b
+https://iptv.yang-1989.xyz/cn/xddz9e.m3u8?token=39623a95bf82e5efa1600239a6445213a4fa04fbbacb62af
 #EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://iptv.yang-1989.xyz/logo/CCTV6.webp" group-title="央视",CCTV6
 https://php.jdshipin.com/TVOD/iptv.php?id=cctv6
 #EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://iptv.yang-1989.xyz/logo/CCTV7.webp" group-title="央视",CCTV7
-https://iptv.yang-1989.xyz/cn/3cdwxp.m3u8?token=4d032a925785523256c875c6daf89101ad39e80c11ecf90b
+https://iptv.yang-1989.xyz/cn/trg97a.m3u8?token=39623a95bf82e5efa1600239a6445213a4fa04fbbacb62af
 #EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://iptv.yang-1989.xyz/logo/CCTV7.webp" group-title="央视",CCTV7
 https://php.jdshipin.com/TVOD/iptv.php?id=cctv7
 #EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://iptv.yang-1989.xyz/logo/CCTV8.webp" group-title="央视",CCTV8
-https://iptv.yang-1989.xyz/cn/qdayjt.m3u8?token=4d032a925785523256c875c6daf89101ad39e80c11ecf90b
+https://iptv.yang-1989.xyz/cn/mpxcmt.m3u8?token=39623a95bf82e5efa1600239a6445213a4fa04fbbacb62af
 #EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://iptv.yang-1989.xyz/logo/CCTV8.webp" group-title="央视",CCTV8
 https://php.jdshipin.com/TVOD/iptv.php?id=cctv8
 #EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://iptv.yang-1989.xyz/logo/CCTV9.webp" group-title="央视",CCTV9
-https://iptv.yang-1989.xyz/cn/58qvj8.m3u8?token=4d032a925785523256c875c6daf89101ad39e80c11ecf90b
+https://iptv.yang-1989.xyz/cn/jvw8un.m3u8?token=39623a95bf82e5efa1600239a6445213a4fa04fbbacb62af
 #EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://iptv.yang-1989.xyz/logo/CCTV9.webp" group-title="央视",CCTV9
 https://php.jdshipin.com/TVOD/iptv.php?id=cctv9
 #EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://iptv.yang-1989.xyz/logo/CCTV10.webp" group-title="央视",CCTV10
-https://iptv.yang-1989.xyz/cn/kaz5zh.m3u8?token=4d032a925785523256c875c6daf89101ad39e80c11ecf90b
+https://iptv.yang-1989.xyz/cn/3efp8m.m3u8?token=39623a95bf82e5efa1600239a6445213a4fa04fbbacb62af
 #EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://iptv.yang-1989.xyz/logo/CCTV10.webp" group-title="央视",CCTV10
 https://php.jdshipin.com/TVOD/iptv.php?id=cctv10
 #EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://iptv.yang-1989.xyz/logo/CCTV11.webp" group-title="央视",CCTV11
-https://iptv.yang-1989.xyz/cn/9cjvrj.m3u8?token=4d032a925785523256c875c6daf89101ad39e80c11ecf90b
+https://iptv.yang-1989.xyz/cn/fxpwxd.m3u8?token=39623a95bf82e5efa1600239a6445213a4fa04fbbacb62af
 #EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://iptv.yang-1989.xyz/logo/CCTV11.webp" group-title="央视",CCTV11
 https://php.jdshipin.com/TVOD/iptv.php?id=cctv11
 #EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://iptv.yang-1989.xyz/logo/CCTV12.webp" group-title="央视",CCTV12
-https://iptv.yang-1989.xyz/cn/q8fkdh.m3u8?token=4d032a925785523256c875c6daf89101ad39e80c11ecf90b
+https://iptv.yang-1989.xyz/cn/337uu9.m3u8?token=39623a95bf82e5efa1600239a6445213a4fa04fbbacb62af
 #EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://iptv.yang-1989.xyz/logo/CCTV12.webp" group-title="央视",CCTV12
 https://php.jdshipin.com/TVOD/iptv.php?id=cctv12
 #EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://iptv.yang-1989.xyz/logo/CCTV13.webp" group-title="央视",CCTV13
-https://iptv.yang-1989.xyz/cn/pam29a.m3u8?token=4d032a925785523256c875c6daf89101ad39e80c11ecf90b
+https://iptv.yang-1989.xyz/cn/ep86x8.m3u8?token=39623a95bf82e5efa1600239a6445213a4fa04fbbacb62af
 #EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://iptv.yang-1989.xyz/logo/CCTV13.webp" group-title="央视",CCTV13
 https://php.jdshipin.com/TVOD/iptv.php?id=cctv13
 #EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://iptv.yang-1989.xyz/logo/CCTV14.webp" group-title="央视",CCTV14
-https://iptv.yang-1989.xyz/cn/fvasuq.m3u8?token=4d032a925785523256c875c6daf89101ad39e80c11ecf90b
+https://iptv.yang-1989.xyz/cn/r4gprd.m3u8?token=39623a95bf82e5efa1600239a6445213a4fa04fbbacb62af
 #EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://iptv.yang-1989.xyz/logo/CCTV14.webp" group-title="央视",CCTV14
 https://php.jdshipin.com/TVOD/iptv.php?id=cctv14
 #EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://iptv.yang-1989.xyz/logo/CCTV15.webp" group-title="央视",CCTV15
-https://iptv.yang-1989.xyz/cn/j2ryzm.m3u8?token=4d032a925785523256c875c6daf89101ad39e80c11ecf90b
+https://iptv.yang-1989.xyz/cn/yhp7zx.m3u8?token=39623a95bf82e5efa1600239a6445213a4fa04fbbacb62af
 #EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://iptv.yang-1989.xyz/logo/CCTV15.webp" group-title="央视",CCTV15
 https://php.jdshipin.com/TVOD/iptv.php?id=cctv15
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://iptv.yang-1989.xyz/logo/CCTV16.webp" group-title="央视",CCTV16
-https://iptv.yang-1989.xyz/cn/kba483.m3u8?token=4d032a925785523256c875c6daf89101ad39e80c11ecf90b
+https://iptv.yang-1989.xyz/cn/pbb98z.m3u8?token=39623a95bf82e5efa1600239a6445213a4fa04fbbacb62af
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://iptv.yang-1989.xyz/logo/CCTV16.webp" group-title="央视",CCTV16
 https://php.jdshipin.com/TVOD/iptv.php?id=cctv16
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://iptv.yang-1989.xyz/logo/CCTV17.webp" group-title="央视",CCTV17
-https://iptv.yang-1989.xyz/cn/heh3qq.m3u8?token=4d032a925785523256c875c6daf89101ad39e80c11ecf90b
+https://iptv.yang-1989.xyz/cn/xe968t.m3u8?token=39623a95bf82e5efa1600239a6445213a4fa04fbbacb62af
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://iptv.yang-1989.xyz/logo/CCTV17.webp" group-title="央视",CCTV17
 https://php.jdshipin.com/TVOD/iptv.php?id=cctv17
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://iptv.yang-1989.xyz/logo/北京卫视.webp" group-title="央视",北京卫视
-https://iptv.yang-1989.xyz/cn/mp6gqk.m3u8?token=4d032a925785523256c875c6daf89101ad39e80c11ecf90b
+https://iptv.yang-1989.xyz/cn/47a6y8.m3u8?token=39623a95bf82e5efa1600239a6445213a4fa04fbbacb62af
 #EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://iptv.yang-1989.xyz/logo/东方卫视.webp" group-title="央视",东方卫视
-https://iptv.yang-1989.xyz/cn/2hg4tk.m3u8?token=4d032a925785523256c875c6daf89101ad39e80c11ecf90b
+https://iptv.yang-1989.xyz/cn/9xz5br.m3u8?token=39623a95bf82e5efa1600239a6445213a4fa04fbbacb62af
 #EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://iptv.yang-1989.xyz/logo/广东卫视.webp" group-title="央视",广东卫视
-https://iptv.yang-1989.xyz/cn/dnugt4.m3u8?token=4d032a925785523256c875c6daf89101ad39e80c11ecf90b
+https://iptv.yang-1989.xyz/cn/djupgn.m3u8?token=39623a95bf82e5efa1600239a6445213a4fa04fbbacb62af
 #EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://iptv.yang-1989.xyz/logo/浙江卫视.webp" group-title="央视",浙江卫视
-https://iptv.yang-1989.xyz/cn/p4b7ac.m3u8?token=4d032a925785523256c875c6daf89101ad39e80c11ecf90b
+https://iptv.yang-1989.xyz/cn/z4sb68.m3u8?token=39623a95bf82e5efa1600239a6445213a4fa04fbbacb62af
 #EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://iptv.yang-1989.xyz/logo/江苏卫视.webp" group-title="央视",江苏卫视
-https://iptv.yang-1989.xyz/cn/3b5mas.m3u8?token=4d032a925785523256c875c6daf89101ad39e80c11ecf90b
+https://iptv.yang-1989.xyz/cn/jn7b65.m3u8?token=39623a95bf82e5efa1600239a6445213a4fa04fbbacb62af
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://iptv.yang-1989.xyz/logo/湖南卫视.webp" group-title="央视",湖南卫视
-https://iptv.yang-1989.xyz/cn/hskfmt.m3u8?token=4d032a925785523256c875c6daf89101ad39e80c11ecf90b
+https://iptv.yang-1989.xyz/cn/a3x3hu.m3u8?token=39623a95bf82e5efa1600239a6445213a4fa04fbbacb62af
 #EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://iptv.yang-1989.xyz/logo/四川卫视.webp" group-title="央视",四川卫视
-https://iptv.yang-1989.xyz/cn/b2yjrp.m3u8?token=4d032a925785523256c875c6daf89101ad39e80c11ecf90b
+https://iptv.yang-1989.xyz/cn/q3bg3x.m3u8?token=39623a95bf82e5efa1600239a6445213a4fa04fbbacb62af
 #EXTINF:-1 tvg-id="凤凰中文台" tvg-name="凤凰中文台" tvg-logo="https://iptv.yang-1989.xyz/logo/凤凰中文台.webp" group-title="港澳台",凤凰中文台
-https://iptv.yang-1989.xyz/phoenix/zsnha5.m3u8?token=4d032a925785523256c875c6daf89101ad39e80c11ecf90b
+https://iptv.yang-1989.xyz/phoenix/ds2eq8.m3u8?token=39623a95bf82e5efa1600239a6445213a4fa04fbbacb62af
 #EXTINF:-1 tvg-id="凤凰中文台" tvg-name="凤凰中文台" tvg-logo="https://iptv.yang-1989.xyz/logo/凤凰中文台.webp" group-title="港澳台",凤凰中文台
 https://cdn.qd.je/163189/fhzw
 #EXTINF:-1 tvg-id="凤凰卫视资讯台" tvg-name="凤凰卫视资讯台" tvg-logo="https://iptv.yang-1989.xyz/logo/凤凰资讯台.webp" group-title="港澳台",凤凰卫视资讯台
-https://iptv.yang-1989.xyz/phoenix/3vbyeg.m3u8?token=4d032a925785523256c875c6daf89101ad39e80c11ecf90b
+https://iptv.yang-1989.xyz/phoenix/ctts2d.m3u8?token=39623a95bf82e5efa1600239a6445213a4fa04fbbacb62af
 #EXTINF:-1 tvg-id="凤凰卫视资讯台" tvg-name="凤凰卫视资讯台" tvg-logo="https://iptv.yang-1989.xyz/logo/凤凰资讯台.webp" group-title="港澳台",凤凰卫视资讯台
 https://cdn.qd.je/163189/fhzx
 #EXTINF:-1 tvg-id="凤凰香港台" tvg-name="凤凰香港台" tvg-logo="https://iptv.yang-1989.xyz/logo/凤凰香港台.webp" group-title="港澳台",凤凰香港台
-https://iptv.yang-1989.xyz/phoenix/xe6dfc.m3u8?token=4d032a925785523256c875c6daf89101ad39e80c11ecf90b
+https://iptv.yang-1989.xyz/phoenix/t965kc.m3u8?token=39623a95bf82e5efa1600239a6445213a4fa04fbbacb62af
 #EXTINF:-1 tvg-id="凤凰香港台" tvg-name="凤凰香港台" tvg-logo="https://iptv.yang-1989.xyz/logo/凤凰香港台.webp" group-title="港澳台",凤凰香港台
 https://cdn.qd.je/163189/fhhk
 #EXTINF:-1 tvg-id="MTV Biggest Pop" tvg-name="MTV Biggest Pop" tvg-logo="https://images.pluto.tv/channels/6047fbdbbb776a0007e7f2ff/colorLogoPNG.png" group-title="Music",MTV Biggest Pop
