@@ -893,7 +893,7 @@
   </programme>
   <programme channel="Al Jazeera English HD" start="20261013163000 +0000" stop="20261013170000 +0000">
     <title lang="zh">Al Jazeera Explains</title>
-    <desc>Ep.04 Al Jazeera Explains goes beyond the headlines to bring clarity, context and the bigger picture to the stories shaping the world today.</desc>
+    <desc>Ep.04 Israel - The Politics of Power &amp; Perception: U.S. ties with Israel deepen as support fractures. Al Jazeera Explains the alliance and Israel's global battle to shape opinion after Gaza.</desc>
     <date>2026-10-13</date>
   </programme>
   <programme channel="Al Jazeera English HD" start="20261013170000 +0000" stop="20261013173000 +0000">
@@ -983,7 +983,7 @@
   </programme>
   <programme channel="Al Jazeera English HD" start="20261014040000 +0000" stop="20261014050000 +0000">
     <title lang="zh">Al Jazeera World</title>
-    <desc>Masoud Pezeshkian - Peace, Not Surrender: A series of one-hour documentaries showcasing films from across the Al Jazeera Network.</desc>
+    <desc>Masoud Pezeshkian - Peace, Not Surrender: An exclusive interview with Iranian President Masoud Pezeshkian on sanctions, regional conflict, U.S.-Israel tensions and his call for Muslim unity.</desc>
     <date>2026-10-14</date>
   </programme>
   <programme channel="Al Jazeera English HD" start="20261014050000 +0000" stop="20261014060000 +0000">
@@ -1043,7 +1043,7 @@
   </programme>
   <programme channel="Al Jazeera English HD" start="20261014123000 +0000" stop="20261014130000 +0000">
     <title lang="zh">Al Jazeera Explains</title>
-    <desc>Ep.04 Al Jazeera Explains goes beyond the headlines to bring clarity, context and the bigger picture to the stories shaping the world today.</desc>
+    <desc>Ep.04 Israel - The Politics of Power &amp; Perception: U.S. ties with Israel deepen as support fractures. Al Jazeera Explains the alliance and Israel's global battle to shape opinion after Gaza.</desc>
     <date>2026-10-14</date>
   </programme>
   <programme channel="Al Jazeera English HD" start="20261014130000 +0000" stop="20261014133000 +0000">
@@ -1108,7 +1108,7 @@
   </programme>
   <programme channel="Al Jazeera English HD" start="20261014200000 +0000" stop="20261014210000 +0000">
     <title lang="zh">Al Jazeera World</title>
-    <desc>Masoud Pezeshkian - Peace, Not Surrender: A series of one-hour documentaries showcasing films from across the Al Jazeera Network.</desc>
+    <desc>Masoud Pezeshkian - Peace, Not Surrender: An exclusive interview with Iranian President Masoud Pezeshkian on sanctions, regional conflict, U.S.-Israel tensions and his call for Muslim unity.</desc>
     <date>2026-10-14</date>
   </programme>
   <programme channel="Al Jazeera English HD" start="20261014210000 +0000" stop="20261014220000 +0000">
@@ -1202,7 +1202,7 @@
   </programme>
   <programme channel="BBC News" start="20261013053000 +0000" stop="20261013060000 +0000">
     <title lang="zh">Newsnight</title>
-    <desc>Insights and global interviews on the news stories of the day. With Victoria Derbyshire. [S] [HD]</desc>
+    <desc>Andy Burnham says it would be a dereliction of duty for the government not to pursue closer ties with the EU. Should we brace ourselves for a rerun of those divisive Brexit rows? [S] [HD]</desc>
     <date>2026-10-13</date>
   </programme>
   <programme channel="BBC News" start="20261013060000 +0000" stop="20261013070000 +0000">
@@ -1381,8 +1381,8 @@
     <date>2026-10-13</date>
   </programme>
   <programme channel="BBC News" start="20261013220000 +0000" stop="20261013223000 +0000">
-    <title lang="zh">Verified Live</title>
-    <desc>Matthew Amroliwala presents all the latest global and UK news, live from London. [S] [HD]</desc>
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC. [S] [HD]</desc>
     <date>2026-10-13</date>
   </programme>
   <programme channel="BBC News" start="20261013223000 +0000" stop="20261013230000 +0000">
@@ -1477,7 +1477,7 @@
   </programme>
   <programme channel="BBC News" start="20261014073000 +0000" stop="20261014080000 +0000">
     <title lang="zh">Newscast</title>
-    <desc>Lighthearted discussion of the day's news. [S] [HD]</desc>
+    <desc>The PM says we need to "face up to the reality that Brexit has done more harm than good'. [S] [HD]</desc>
     <date>2026-10-14</date>
   </programme>
   <programme channel="BBC News" start="20261014080000 +0000" stop="20261014083000 +0000">
@@ -1517,7 +1517,7 @@
   </programme>
   <programme channel="BBC News" start="20261014104500 +0000" stop="20261014110000 +0000">
     <title lang="zh">Asia Specific</title>
-    <desc>Asia Specific brings you essential insights and conversations on the stories and trends shaping Asia Pacific, unpacked by those who know it best. Hosted in Singapore by Mariko Oi. [S] [HD]</desc>
+    <desc>Do higher salaries attract better politicians? Hosted by Mariko Oi. [S] [HD]</desc>
     <date>2026-10-14</date>
   </programme>
   <programme channel="BBC News" start="20261014110000 +0000" stop="20261014113000 +0000">
@@ -1532,7 +1532,7 @@
   </programme>
   <programme channel="BBC News" start="20261014114500 +0000" stop="20261014120000 +0000">
     <title lang="zh">Asia Specific</title>
-    <desc>Asia Specific brings you essential insights and conversations on the stories and trends shaping Asia Pacific, unpacked by those who know it best. Hosted in Singapore by Mariko Oi. [S] [HD]</desc>
+    <desc>Do higher salaries attract better politicians? Hosted by Mariko Oi. [S] [HD]</desc>
     <date>2026-10-14</date>
   </programme>
   <programme channel="BBC News" start="20261014120000 +0000" stop="20261014123000 +0000">
@@ -3193,10 +3193,25 @@
     <desc>"Fast Money" is America's post-market show.</desc>
     <date>2026-10-14</date>
   </programme>
-  <programme channel="CNBC" start="20261014220000 +0000" stop="20261015000000 +0000">
+  <programme channel="CNBC" start="20261014220000 +0000" stop="20261014230000 +0000">
     <title lang="zh">U.S. Markets Edition</title>
     <desc>U.S. Markets Edition delivers key takeaways from the most impactful interviews and insights from CNBC's programming in the US.</desc>
     <date>2026-10-14</date>
+  </programme>
+  <programme channel="CNBC" start="20261014230000 +0000" stop="20261014233000 +0000">
+    <title lang="zh">Squawk Box Asia</title>
+    <desc>Squawk Box Asia is CNBC's flagship show that sets the news agenda and takes viewers through the pre-game and the opening of Asia's business trading day, covering the top market moving stories.</desc>
+    <date>2026-10-14</date>
+  </programme>
+  <programme channel="CNBC" start="20261014233000 +0000" stop="20261015000000 +0000">
+    <title lang="zh">Squawk Box Asia</title>
+    <desc>Squawk Box Asia is CNBC's flagship show that sets the news agenda and takes viewers through the pre-game and the opening of Asia's business trading day, covering the top market moving stories.</desc>
+    <date>2026-10-14</date>
+  </programme>
+  <programme channel="CNBC" start="20261015000000 +0000" stop="20261016000000 +0000">
+    <title lang="zh">Squawk Box Asia</title>
+    <desc>Squawk Box Asia is CNBC's flagship show that sets the news agenda and takes viewers through the pre-game and the opening of Asia's business trading day, covering the top market moving stories.</desc>
+    <date>2026-10-15</date>
   </programme>
 <channel id="CNN Prima News">
     <display-name lang="United Kingdom of Great Britain and Northern Ireland">CNN Prima News</display-name>
@@ -3492,10 +3507,20 @@
     <desc>Wednesday, October 14, 2026 530pm ET. Daily sports show features major stories and issues making news in the world of sports.</desc>
     <date>2026-10-14</date>
   </programme>
-  <programme channel="CNN Prima News" start="20261014220000 +0000" stop="20261015000000 +0000">
+  <programme channel="CNN Prima News" start="20261014220000 +0000" stop="20261014230000 +0000">
     <title lang="zh">The Brief with Jim Sciutto</title>
     <desc>Wednesday, October 14, 2026 6pm ET.</desc>
     <date>2026-10-14</date>
+  </programme>
+  <programme channel="CNN Prima News" start="20261014230000 +0000" stop="20261015000000 +0000">
+    <title lang="zh">Anderson Cooper 360</title>
+    <desc>Wednesday, October 14, 2026 8PM. Anderson Cooper takes you beyond the headlines with in-depth reporting and investigations.</desc>
+    <date>2026-10-14</date>
+  </programme>
+  <programme channel="CNN Prima News" start="20261015000000 +0000" stop="20261016000000 +0000">
+    <title lang="zh">CNN &amp; Jubilee Town Hall with James Talarico</title>
+    <desc>CNN &amp; Jubilee Town Hall With James Talarico. As the consequential midterm elections near, Texas Senate Candidate Rep.</desc>
+    <date>2026-10-15</date>
   </programme>
 <channel id="LiveNOW from FOX">
     <display-name lang="Singapore">LiveNOW from FOX</display-name>
@@ -7286,7 +7311,7 @@
     <date>2026-10-15</date>
   </programme>
 <channel id="CCTV1">
-    <display-name lang="China">CCTV1</display-name>
+    <display-name lang="中國">CCTV1</display-name>
     <icon src="" />
   </channel>
   <programme channel="CCTV1" start="20261013003700 +0000" stop="20261013012300 +0000">
@@ -8077,10 +8102,135 @@
     <display-name lang="China">CCTV3</display-name>
     <icon src="" />
   </channel>
+  <programme channel="CCTV3" start="20261015163500 +0000" stop="20261015172100 +0000">
+    <title lang="zh">综艺喜乐汇-2026-1146 以法之名 4/36</title>
+    <desc />
+    <date>2026-10-15</date>
+  </programme>
+  <programme channel="CCTV3" start="20261015172100 +0000" stop="20261015190400 +0000">
+    <title lang="zh">影视留声机-2026-120-经典电影欣赏《她俩和他俩》</title>
+    <desc />
+    <date>2026-10-15</date>
+  </programme>
+  <programme channel="CCTV3" start="20261015190400 +0000" stop="20261015202100 +0000">
+    <title lang="zh">越战越勇-2026-30</title>
+    <desc />
+    <date>2026-10-15</date>
+  </programme>
+  <programme channel="CCTV3" start="20261015202100 +0000" stop="20261015215100 +0000">
+    <title lang="zh">综艺喜乐汇-2026-469</title>
+    <desc />
+    <date>2026-10-15</date>
+  </programme>
+  <programme channel="CCTV3" start="20261015215100 +0000" stop="20261015215300 +0000">
+    <title lang="zh">综艺喜乐汇-2026-1131 愿你抬头有光</title>
+    <desc />
+    <date>2026-10-15</date>
+  </programme>
+  <programme channel="CCTV3" start="20261015215300 +0000" stop="20261015221400 +0000">
+    <title lang="zh">综艺喜乐汇-2026-1101 锦绣神州 歌曲集锦15</title>
+    <desc />
+    <date>2026-10-15</date>
+  </programme>
+  <programme channel="CCTV3" start="20261015221400 +0000" stop="20261015223400 +0000">
+    <title lang="zh">文化十分-2026-208</title>
+    <desc />
+    <date>2026-10-15</date>
+  </programme>
+  <programme channel="CCTV3" start="20261015223400 +0000" stop="20261015233800 +0000">
+    <title lang="zh">跟着春晚游中国（宜宾篇）-2</title>
+    <desc />
+    <date>2026-10-15</date>
+  </programme>
+  <programme channel="CCTV3" start="20261015233800 +0000" stop="20261016000000 +0000">
+    <title lang="zh">新花路放—最美的心愿之旅-4</title>
+    <desc />
+    <date>2026-10-15</date>
+  </programme>
 <channel id="CCTV4">
     <display-name lang="China">CCTV4</display-name>
     <icon src="" />
   </channel>
+  <programme channel="CCTV4" start="20261015163600 +0000" stop="20261015172300 +0000">
+    <title lang="zh">今生有你5/30</title>
+    <desc />
+    <date>2026-10-15</date>
+  </programme>
+  <programme channel="CCTV4" start="20261015172300 +0000" stop="20261015175300 +0000">
+    <title lang="zh">中国文艺-2026-206</title>
+    <desc />
+    <date>2026-10-15</date>
+  </programme>
+  <programme channel="CCTV4" start="20261015175300 +0000" stop="20261015180000 +0000">
+    <title lang="zh">记住乡愁-片段展播-2024-26</title>
+    <desc />
+    <date>2026-10-15</date>
+  </programme>
+  <programme channel="CCTV4" start="20261015180000 +0000" stop="20261015183000 +0000">
+    <title lang="zh">新闻联播</title>
+    <desc />
+    <date>2026-10-15</date>
+  </programme>
+  <programme channel="CCTV4" start="20261015183000 +0000" stop="20261015190200 +0000">
+    <title lang="zh">走遍中国-2026-165</title>
+    <desc />
+    <date>2026-10-15</date>
+  </programme>
+  <programme channel="CCTV4" start="20261015190200 +0000" stop="20261015191000 +0000">
+    <title lang="zh">国家公园精彩片段-11</title>
+    <desc />
+    <date>2026-10-15</date>
+  </programme>
+  <programme channel="CCTV4" start="20261015191000 +0000" stop="20261015200000 +0000">
+    <title lang="zh">远方的家2026-215</title>
+    <desc />
+    <date>2026-10-15</date>
+  </programme>
+  <programme channel="CCTV4" start="20261015200000 +0000" stop="20261015203000 +0000">
+    <title lang="zh">中国新闻</title>
+    <desc />
+    <date>2026-10-15</date>
+  </programme>
+  <programme channel="CCTV4" start="20261015203000 +0000" stop="20261015210000 +0000">
+    <title lang="zh">今日关注</title>
+    <desc />
+    <date>2026-10-15</date>
+  </programme>
+  <programme channel="CCTV4" start="20261015210000 +0000" stop="20261015213000 +0000">
+    <title lang="zh">国家记忆-2026-133</title>
+    <desc />
+    <date>2026-10-15</date>
+  </programme>
+  <programme channel="CCTV4" start="20261015213000 +0000" stop="20261015220000 +0000">
+    <title lang="zh">走遍中国-2026-165</title>
+    <desc />
+    <date>2026-10-15</date>
+  </programme>
+  <programme channel="CCTV4" start="20261015220000 +0000" stop="20261015223000 +0000">
+    <title lang="zh">海峡两岸-2026-288</title>
+    <desc />
+    <date>2026-10-15</date>
+  </programme>
+  <programme channel="CCTV4" start="20261015223000 +0000" stop="20261015230000 +0000">
+    <title lang="zh">今日亚洲</title>
+    <desc />
+    <date>2026-10-15</date>
+  </programme>
+  <programme channel="CCTV4" start="20261015230000 +0000" stop="20261015233000 +0000">
+    <title lang="zh">中国新闻</title>
+    <desc />
+    <date>2026-10-15</date>
+  </programme>
+  <programme channel="CCTV4" start="20261015233000 +0000" stop="20261016000000 +0000">
+    <title lang="zh">今日关注</title>
+    <desc />
+    <date>2026-10-15</date>
+  </programme>
+  <programme channel="CCTV4" start="20261016000000 +0000" stop="20261017000000 +0000">
+    <title lang="zh">今日环球</title>
+    <desc />
+    <date>2026-10-16</date>
+  </programme>
 <channel id="CCTV5">
     <display-name lang="China">CCTV5</display-name>
     <icon src="" />
@@ -10263,91 +10413,6 @@
     <display-name lang="China">CCTV11</display-name>
     <icon src="" />
   </channel>
-  <programme channel="CCTV11" start="20261012003400 +0000" stop="20261012011700 +0000">
-    <title lang="zh">青春戏苑-2026-260 曲苑雅集14</title>
-    <desc />
-    <date>2026-10-12</date>
-  </programme>
-  <programme channel="CCTV11" start="20261012011700 +0000" stop="20261012035400 +0000">
-    <title lang="zh">青春戏苑-2026-283 越剧《家》</title>
-    <desc />
-    <date>2026-10-12</date>
-  </programme>
-  <programme channel="CCTV11" start="20261012035400 +0000" stop="20261012044400 +0000">
-    <title lang="zh">六姊妹21/38</title>
-    <desc />
-    <date>2026-10-12</date>
-  </programme>
-  <programme channel="CCTV11" start="20261012044400 +0000" stop="20261012053500 +0000">
-    <title lang="zh">六姊妹22/38</title>
-    <desc />
-    <date>2026-10-12</date>
-  </programme>
-  <programme channel="CCTV11" start="20261012053500 +0000" stop="20261012064500 +0000">
-    <title lang="zh">一鸣惊人-2026-16</title>
-    <desc />
-    <date>2026-10-12</date>
-  </programme>
-  <programme channel="CCTV11" start="20261012064500 +0000" stop="20261012071000 +0000">
-    <title lang="zh">青春戏苑-2026-233灼灼其华</title>
-    <desc />
-    <date>2026-10-12</date>
-  </programme>
-  <programme channel="CCTV11" start="20261012071000 +0000" stop="20261012091300 +0000">
-    <title lang="zh">电影-红楼梦</title>
-    <desc />
-    <date>2026-10-12</date>
-  </programme>
-  <programme channel="CCTV11" start="20261012091300 +0000" stop="20261012100300 +0000">
-    <title lang="zh">灼灼韶华9/38</title>
-    <desc />
-    <date>2026-10-12</date>
-  </programme>
-  <programme channel="CCTV11" start="20261012100300 +0000" stop="20261012110000 +0000">
-    <title lang="zh">灼灼韶华10/38</title>
-    <desc />
-    <date>2026-10-12</date>
-  </programme>
-  <programme channel="CCTV11" start="20261012110000 +0000" stop="20261012113000 +0000">
-    <title lang="zh">青春戏苑-2026-311豫剧《唐知县审诰命》专辑3</title>
-    <desc />
-    <date>2026-10-12</date>
-  </programme>
-  <programme channel="CCTV11" start="20261012113000 +0000" stop="20261012141700 +0000">
-    <title lang="zh">中国京剧音配像精粹-2026-49京剧《四郎探母》（修复版）</title>
-    <desc />
-    <date>2026-10-12</date>
-  </programme>
-  <programme channel="CCTV11" start="20261012141700 +0000" stop="20261012150800 +0000">
-    <title lang="zh">利剑·玫瑰15/32</title>
-    <desc />
-    <date>2026-10-12</date>
-  </programme>
-  <programme channel="CCTV11" start="20261012150800 +0000" stop="20261012155800 +0000">
-    <title lang="zh">利剑·玫瑰16/32</title>
-    <desc />
-    <date>2026-10-12</date>
-  </programme>
-  <programme channel="CCTV11" start="20261012155800 +0000" stop="20261012164900 +0000">
-    <title lang="zh">利剑·玫瑰17/32</title>
-    <desc />
-    <date>2026-10-12</date>
-  </programme>
-  <programme channel="CCTV11" start="20261012164900 +0000" stop="20261012220600 +0000">
-    <title lang="zh">青春戏苑-2026-311豫剧《唐知县审诰命》专辑3</title>
-    <desc />
-    <date>2026-10-12</date>
-  </programme>
-  <programme channel="CCTV11" start="20261012220600 +0000" stop="20261012231800 +0000">
-    <title lang="zh">青春戏苑-2026-325“正华年” 总台首届青年京剧演员大会集萃（十一）</title>
-    <desc />
-    <date>2026-10-12</date>
-  </programme>
-  <programme channel="CCTV11" start="20261012231800 +0000" stop="20261013000000 +0000">
-    <title lang="zh">青春戏苑-2026-237青春遇见古戏楼（四）</title>
-    <desc />
-    <date>2026-10-12</date>
-  </programme>
   <programme channel="CCTV11" start="20261013003300 +0000" stop="20261013011600 +0000">
     <title lang="zh">青春戏苑-2026-261 曲苑雅集15</title>
     <desc />
@@ -10428,10 +10493,120 @@
     <desc />
     <date>2026-10-13</date>
   </programme>
+  <programme channel="CCTV11" start="20261014003300 +0000" stop="20261014011600 +0000">
+    <title lang="zh">青春戏苑-2026-262 曲苑雅集16</title>
+    <desc />
+    <date>2026-10-14</date>
+  </programme>
+  <programme channel="CCTV11" start="20261014011600 +0000" stop="20261014040200 +0000">
+    <title lang="zh">中国戏曲像音像集萃-2026-37京剧《珠帘寨》</title>
+    <desc />
+    <date>2026-10-14</date>
+  </programme>
+  <programme channel="CCTV11" start="20261014040200 +0000" stop="20261014045200 +0000">
+    <title lang="zh">六姊妹25/38</title>
+    <desc />
+    <date>2026-10-14</date>
+  </programme>
+  <programme channel="CCTV11" start="20261014045200 +0000" stop="20261014054300 +0000">
+    <title lang="zh">六姊妹26/38</title>
+    <desc />
+    <date>2026-10-14</date>
+  </programme>
+  <programme channel="CCTV11" start="20261014054300 +0000" stop="20261014070200 +0000">
+    <title lang="zh">青春戏苑-2026-237青春遇见古戏楼（四）</title>
+    <desc />
+    <date>2026-10-14</date>
+  </programme>
+  <programme channel="CCTV11" start="20261014070200 +0000" stop="20261014091300 +0000">
+    <title lang="zh">青春戏苑-2026-198 豫剧《七品芝麻官》</title>
+    <desc />
+    <date>2026-10-14</date>
+  </programme>
+  <programme channel="CCTV11" start="20261014091300 +0000" stop="20261014100300 +0000">
+    <title lang="zh">灼灼韶华13/38</title>
+    <desc />
+    <date>2026-10-14</date>
+  </programme>
+  <programme channel="CCTV11" start="20261014100300 +0000" stop="20261014110000 +0000">
+    <title lang="zh">灼灼韶华14/38</title>
+    <desc />
+    <date>2026-10-14</date>
+  </programme>
+  <programme channel="CCTV11" start="20261014110000 +0000" stop="20261014113000 +0000">
+    <title lang="zh">青春戏苑-2026-63京剧《群英会》专辑2</title>
+    <desc />
+    <date>2026-10-14</date>
+  </programme>
+  <programme channel="CCTV11" start="20261014113000 +0000" stop="20261014135700 +0000">
+    <title lang="zh">风雅和鸣——2026年经典折子戏展演-11</title>
+    <desc />
+    <date>2026-10-14</date>
+  </programme>
+  <programme channel="CCTV11" start="20261014135700 +0000" stop="20261014144700 +0000">
+    <title lang="zh">利剑·玫瑰21/32</title>
+    <desc />
+    <date>2026-10-14</date>
+  </programme>
+  <programme channel="CCTV11" start="20261014144700 +0000" stop="20261014153800 +0000">
+    <title lang="zh">利剑·玫瑰22/32</title>
+    <desc />
+    <date>2026-10-14</date>
+  </programme>
+  <programme channel="CCTV11" start="20261014153800 +0000" stop="20261014162800 +0000">
+    <title lang="zh">利剑·玫瑰23/32</title>
+    <desc />
+    <date>2026-10-14</date>
+  </programme>
+  <programme channel="CCTV11" start="20261014162800 +0000" stop="20261014220600 +0000">
+    <title lang="zh">青春戏苑-2026-63京剧《群英会》专辑2</title>
+    <desc />
+    <date>2026-10-14</date>
+  </programme>
+  <programme channel="CCTV11" start="20261014220600 +0000" stop="20261014231900 +0000">
+    <title lang="zh">青春戏苑-2026-327“正华年” 总台首届青年京剧演员大会集萃（十三）</title>
+    <desc />
+    <date>2026-10-14</date>
+  </programme>
+  <programme channel="CCTV11" start="20261014231900 +0000" stop="20261015000000 +0000">
+    <title lang="zh">青春戏苑-2026-74粉墨华章（三）</title>
+    <desc />
+    <date>2026-10-14</date>
+  </programme>
 <channel id="CCTV12">
     <display-name lang="China">CCTV12</display-name>
     <icon src="" />
   </channel>
+  <programme channel="CCTV12" start="20261015163700 +0000" stop="20261015170800 +0000">
+    <title lang="zh">一线-2026-206</title>
+    <desc />
+    <date>2026-10-15</date>
+  </programme>
+  <programme channel="CCTV12" start="20261015170800 +0000" stop="20261015220000 +0000">
+    <title lang="zh">普法剧场2026-288</title>
+    <desc />
+    <date>2026-10-15</date>
+  </programme>
+  <programme channel="CCTV12" start="20261015220000 +0000" stop="20261015223300 +0000">
+    <title lang="zh">法律讲堂-2026-288</title>
+    <desc />
+    <date>2026-10-15</date>
+  </programme>
+  <programme channel="CCTV12" start="20261015223300 +0000" stop="20261015230500 +0000">
+    <title lang="zh">一线-2026-206</title>
+    <desc />
+    <date>2026-10-15</date>
+  </programme>
+  <programme channel="CCTV12" start="20261015230500 +0000" stop="20261015235900 +0000">
+    <title lang="zh">普法剧场2026-288</title>
+    <desc />
+    <date>2026-10-15</date>
+  </programme>
+  <programme channel="CCTV12" start="20261015235900 +0000" stop="20261016000000 +0000">
+    <title lang="zh">天网-2026-206</title>
+    <desc />
+    <date>2026-10-15</date>
+  </programme>
 <channel id="CCTV13">
     <display-name lang="China">CCTV13</display-name>
     <icon src="" />
@@ -11382,6 +11557,26 @@
     <display-name lang="China">CCTV17</display-name>
     <icon src="" />
   </channel>
+  <programme channel="CCTV17" start="20261015215600 +0000" stop="20261015220600 +0000">
+    <title lang="zh">2026田园特供-乡村达人秀11-川剧三绝表演</title>
+    <desc />
+    <date>2026-10-15</date>
+  </programme>
+  <programme channel="CCTV17" start="20261015220600 +0000" stop="20261015225700 +0000">
+    <title lang="zh">田野欢歌-2025-66</title>
+    <desc />
+    <date>2026-10-15</date>
+  </programme>
+  <programme channel="CCTV17" start="20261015225700 +0000" stop="20261015235000 +0000">
+    <title lang="zh">大地讲堂-丰收中国之光影田园-2026-117</title>
+    <desc />
+    <date>2026-10-15</date>
+  </programme>
+  <programme channel="CCTV17" start="20261015235000 +0000" stop="20261016000000 +0000">
+    <title lang="zh">中国三农报道</title>
+    <desc />
+    <date>2026-10-15</date>
+  </programme>
 <channel id="北京卫视">
     <display-name lang="China">北京卫视</display-name>
     <icon src="" />
@@ -11481,10 +11676,170 @@
     <desc />
     <date>2026-10-13</date>
   </programme>
-  <programme channel="北京卫视" start="20261013154600 +0000" stop="20261014000000 +0000">
+  <programme channel="北京卫视" start="20261013154600 +0000" stop="20261013162800 +0000">
     <title lang="zh">红星剧场</title>
     <desc />
     <date>2026-10-13</date>
+  </programme>
+  <programme channel="北京卫视" start="20261013162800 +0000" stop="20261013171500 +0000">
+    <title lang="zh">红星剧场</title>
+    <desc />
+    <date>2026-10-13</date>
+  </programme>
+  <programme channel="北京卫视" start="20261013171500 +0000" stop="20261013180700 +0000">
+    <title lang="zh">山河岁月</title>
+    <desc />
+    <date>2026-10-13</date>
+  </programme>
+  <programme channel="北京卫视" start="20261013180700 +0000" stop="20261013184600 +0000">
+    <title lang="zh">生命缘</title>
+    <desc />
+    <date>2026-10-13</date>
+  </programme>
+  <programme channel="北京卫视" start="20261013184600 +0000" stop="20261013192900 +0000">
+    <title lang="zh">好梦剧场</title>
+    <desc />
+    <date>2026-10-13</date>
+  </programme>
+  <programme channel="北京卫视" start="20261013192900 +0000" stop="20261013201200 +0000">
+    <title lang="zh">好梦剧场</title>
+    <desc />
+    <date>2026-10-13</date>
+  </programme>
+  <programme channel="北京卫视" start="20261013201200 +0000" stop="20261013205400 +0000">
+    <title lang="zh">好梦剧场</title>
+    <desc />
+    <date>2026-10-13</date>
+  </programme>
+  <programme channel="北京卫视" start="20261013205400 +0000" stop="20261013214200 +0000">
+    <title lang="zh">好梦剧场</title>
+    <desc />
+    <date>2026-10-13</date>
+  </programme>
+  <programme channel="北京卫视" start="20261013214200 +0000" stop="20261013220300 +0000">
+    <title lang="zh">法治进行时</title>
+    <desc />
+    <date>2026-10-13</date>
+  </programme>
+  <programme channel="北京卫视" start="20261013220300 +0000" stop="20261013222500 +0000">
+    <title lang="zh">法治进行时</title>
+    <desc />
+    <date>2026-10-13</date>
+  </programme>
+  <programme channel="北京卫视" start="20261013222500 +0000" stop="20261013225400 +0000">
+    <title lang="zh">养生堂(重播)</title>
+    <desc />
+    <date>2026-10-13</date>
+  </programme>
+  <programme channel="北京卫视" start="20261013225400 +0000" stop="20261013230000 +0000">
+    <title lang="zh">早间气象服务</title>
+    <desc />
+    <date>2026-10-13</date>
+  </programme>
+  <programme channel="北京卫视" start="20261013230000 +0000" stop="20261014000000 +0000">
+    <title lang="zh">北京您早</title>
+    <desc />
+    <date>2026-10-13</date>
+  </programme>
+  <programme channel="北京卫视" start="20261014010500 +0000" stop="20261014015300 +0000">
+    <title lang="zh">上午剧场:甄嬛传(59)</title>
+    <desc />
+    <date>2026-10-14</date>
+  </programme>
+  <programme channel="北京卫视" start="20261014015300 +0000" stop="20261014030900 +0000">
+    <title lang="zh">上午剧场:甄嬛传(60)</title>
+    <desc />
+    <date>2026-10-14</date>
+  </programme>
+  <programme channel="北京卫视" start="20261014030900 +0000" stop="20261014040000 +0000">
+    <title lang="zh">上午剧场:甄嬛传(61)</title>
+    <desc />
+    <date>2026-10-14</date>
+  </programme>
+  <programme channel="北京卫视" start="20261014040000 +0000" stop="20261014045800 +0000">
+    <title lang="zh">特别关注</title>
+    <desc />
+    <date>2026-10-14</date>
+  </programme>
+  <programme channel="北京卫视" start="20261014045800 +0000" stop="20261014051000 +0000">
+    <title lang="zh">午间气象服务</title>
+    <desc />
+    <date>2026-10-14</date>
+  </programme>
+  <programme channel="北京卫视" start="20261014051000 +0000" stop="20261014060200 +0000">
+    <title lang="zh">午茶剧场:好好的时光(10)</title>
+    <desc />
+    <date>2026-10-14</date>
+  </programme>
+  <programme channel="北京卫视" start="20261014060200 +0000" stop="20261014065500 +0000">
+    <title lang="zh">午茶剧场:好好的时光(11)</title>
+    <desc />
+    <date>2026-10-14</date>
+  </programme>
+  <programme channel="北京卫视" start="20261014065500 +0000" stop="20261014074800 +0000">
+    <title lang="zh">午茶剧场:好好的时光(12)</title>
+    <desc />
+    <date>2026-10-14</date>
+  </programme>
+  <programme channel="北京卫视" start="20261014074800 +0000" stop="20261014084000 +0000">
+    <title lang="zh">午茶剧场:好好的时光(13)</title>
+    <desc />
+    <date>2026-10-14</date>
+  </programme>
+  <programme channel="北京卫视" start="20261014084000 +0000" stop="20261014092500 +0000">
+    <title lang="zh">暖暖的味道</title>
+    <desc />
+    <date>2026-10-14</date>
+  </programme>
+  <programme channel="北京卫视" start="20261014092500 +0000" stop="20261014103000 +0000">
+    <title lang="zh">养生堂</title>
+    <desc />
+    <date>2026-10-14</date>
+  </programme>
+  <programme channel="北京卫视" start="20261014103000 +0000" stop="20261014105400 +0000">
+    <title lang="zh">北京新闻</title>
+    <desc />
+    <date>2026-10-14</date>
+  </programme>
+  <programme channel="北京卫视" start="20261014105400 +0000" stop="20261014110000 +0000">
+    <title lang="zh">北京天气预报</title>
+    <desc />
+    <date>2026-10-14</date>
+  </programme>
+  <programme channel="北京卫视" start="20261014110000 +0000" stop="20261014113300 +0000">
+    <title lang="zh">转播央视新闻联播</title>
+    <desc />
+    <date>2026-10-14</date>
+  </programme>
+  <programme channel="北京卫视" start="20261014113300 +0000" stop="20261014121900 +0000">
+    <title lang="zh">品质剧场:好好的时光(37)</title>
+    <desc />
+    <date>2026-10-14</date>
+  </programme>
+  <programme channel="北京卫视" start="20261014121900 +0000" stop="20261014130500 +0000">
+    <title lang="zh">品质剧场:好好的时光(38)</title>
+    <desc />
+    <date>2026-10-14</date>
+  </programme>
+  <programme channel="北京卫视" start="20261014130500 +0000" stop="20261014134900 +0000">
+    <title lang="zh">大戏看北京</title>
+    <desc />
+    <date>2026-10-14</date>
+  </programme>
+  <programme channel="北京卫视" start="20261014134900 +0000" stop="20261014141700 +0000">
+    <title lang="zh">为你喝彩</title>
+    <desc />
+    <date>2026-10-14</date>
+  </programme>
+  <programme channel="北京卫视" start="20261014141700 +0000" stop="20261014145900 +0000">
+    <title lang="zh">红星剧场</title>
+    <desc />
+    <date>2026-10-14</date>
+  </programme>
+  <programme channel="北京卫视" start="20261014145900 +0000" stop="20261015000000 +0000">
+    <title lang="zh">红星剧场</title>
+    <desc />
+    <date>2026-10-14</date>
   </programme>
 <channel id="东方卫视">
     <display-name lang="China">东方卫视</display-name>
@@ -11635,10 +11990,225 @@
     <desc />
     <date>2026-10-13</date>
   </programme>
-  <programme channel="东方卫视" start="20261013151400 +0000" stop="20261014000000 +0000">
+  <programme channel="东方卫视" start="20261013151400 +0000" stop="20261013162400 +0000">
     <title lang="zh">梦想改造家第十三季(4)</title>
     <desc />
     <date>2026-10-13</date>
+  </programme>
+  <programme channel="东方卫视" start="20261013162400 +0000" stop="20261013170800 +0000">
+    <title lang="zh">春风化雨(21)</title>
+    <desc />
+    <date>2026-10-13</date>
+  </programme>
+  <programme channel="东方卫视" start="20261013170800 +0000" stop="20261013175100 +0000">
+    <title lang="zh">春风化雨(22)</title>
+    <desc />
+    <date>2026-10-13</date>
+  </programme>
+  <programme channel="东方卫视" start="20261013175100 +0000" stop="20261013183200 +0000">
+    <title lang="zh">春风化雨(23)</title>
+    <desc />
+    <date>2026-10-13</date>
+  </programme>
+  <programme channel="东方卫视" start="20261013183200 +0000" stop="20261013183700 +0000">
+    <title lang="zh">明日精彩看点</title>
+    <desc />
+    <date>2026-10-13</date>
+  </programme>
+  <programme channel="东方卫视" start="20261013183700 +0000" stop="20261013192100 +0000">
+    <title lang="zh">春风化雨(24)</title>
+    <desc />
+    <date>2026-10-13</date>
+  </programme>
+  <programme channel="东方卫视" start="20261013192100 +0000" stop="20261013200500 +0000">
+    <title lang="zh">春风化雨(25)</title>
+    <desc />
+    <date>2026-10-13</date>
+  </programme>
+  <programme channel="东方卫视" start="20261013200500 +0000" stop="20261013204700 +0000">
+    <title lang="zh">春风化雨(26)</title>
+    <desc />
+    <date>2026-10-13</date>
+  </programme>
+  <programme channel="东方卫视" start="20261013204700 +0000" stop="20261013212900 +0000">
+    <title lang="zh">春风化雨(27)</title>
+    <desc />
+    <date>2026-10-13</date>
+  </programme>
+  <programme channel="东方卫视" start="20261013212900 +0000" stop="20261013213200 +0000">
+    <title lang="zh">明日精彩看点</title>
+    <desc />
+    <date>2026-10-13</date>
+  </programme>
+  <programme channel="东方卫视" start="20261013213200 +0000" stop="20261013221400 +0000">
+    <title lang="zh">春风化雨(28)</title>
+    <desc />
+    <date>2026-10-13</date>
+  </programme>
+  <programme channel="东方卫视" start="20261013221400 +0000" stop="20261013230000 +0000">
+    <title lang="zh">春风化雨(29)</title>
+    <desc />
+    <date>2026-10-13</date>
+  </programme>
+  <programme channel="东方卫视" start="20261013230000 +0000" stop="20261013230100 +0000">
+    <title lang="zh">中华人民共和国国歌</title>
+    <desc />
+    <date>2026-10-13</date>
+  </programme>
+  <programme channel="东方卫视" start="20261013230100 +0000" stop="20261014000000 +0000">
+    <title lang="zh">看东方</title>
+    <desc />
+    <date>2026-10-13</date>
+  </programme>
+  <programme channel="东方卫视" start="20261014005900 +0000" stop="20261014010300 +0000">
+    <title lang="zh">天气预报</title>
+    <desc />
+    <date>2026-10-14</date>
+  </programme>
+  <programme channel="东方卫视" start="20261014010300 +0000" stop="20261014014800 +0000">
+    <title lang="zh">主角(12)</title>
+    <desc />
+    <date>2026-10-14</date>
+  </programme>
+  <programme channel="东方卫视" start="20261014014800 +0000" stop="20261014023100 +0000">
+    <title lang="zh">主角(13)</title>
+    <desc />
+    <date>2026-10-14</date>
+  </programme>
+  <programme channel="东方卫视" start="20261014023100 +0000" stop="20261014031400 +0000">
+    <title lang="zh">主角(14)</title>
+    <desc />
+    <date>2026-10-14</date>
+  </programme>
+  <programme channel="东方卫视" start="20261014031400 +0000" stop="20261014040000 +0000">
+    <title lang="zh">主角(15)</title>
+    <desc />
+    <date>2026-10-14</date>
+  </programme>
+  <programme channel="东方卫视" start="20261014040000 +0000" stop="20261014042600 +0000">
+    <title lang="zh">午间30分</title>
+    <desc />
+    <date>2026-10-14</date>
+  </programme>
+  <programme channel="东方卫视" start="20261014042600 +0000" stop="20261014043000 +0000">
+    <title lang="zh">天气预报</title>
+    <desc />
+    <date>2026-10-14</date>
+  </programme>
+  <programme channel="东方卫视" start="20261014043000 +0000" stop="20261014044400 +0000">
+    <title lang="zh">ShanghaiEye</title>
+    <desc />
+    <date>2026-10-14</date>
+  </programme>
+  <programme channel="东方卫视" start="20261014044400 +0000" stop="20261014053000 +0000">
+    <title lang="zh">新白娘子传奇(2)</title>
+    <desc />
+    <date>2026-10-14</date>
+  </programme>
+  <programme channel="东方卫视" start="20261014053000 +0000" stop="20261014061500 +0000">
+    <title lang="zh">新白娘子传奇(3)</title>
+    <desc />
+    <date>2026-10-14</date>
+  </programme>
+  <programme channel="东方卫视" start="20261014061500 +0000" stop="20261014065700 +0000">
+    <title lang="zh">新白娘子传奇(4)</title>
+    <desc />
+    <date>2026-10-14</date>
+  </programme>
+  <programme channel="东方卫视" start="20261014065700 +0000" stop="20261014073900 +0000">
+    <title lang="zh">新白娘子传奇(5)</title>
+    <desc />
+    <date>2026-10-14</date>
+  </programme>
+  <programme channel="东方卫视" start="20261014073900 +0000" stop="20261014082400 +0000">
+    <title lang="zh">新白娘子传奇(6)</title>
+    <desc />
+    <date>2026-10-14</date>
+  </programme>
+  <programme channel="东方卫视" start="20261014082400 +0000" stop="20261014090700 +0000">
+    <title lang="zh">新白娘子传奇(7)</title>
+    <desc />
+    <date>2026-10-14</date>
+  </programme>
+  <programme channel="东方卫视" start="20261014090700 +0000" stop="20261014093400 +0000">
+    <title lang="zh">东方新娱乐</title>
+    <desc />
+    <date>2026-10-14</date>
+  </programme>
+  <programme channel="东方卫视" start="20261014093400 +0000" stop="20261014100000 +0000">
+    <title lang="zh">名医话养生</title>
+    <desc />
+    <date>2026-10-14</date>
+  </programme>
+  <programme channel="东方卫视" start="20261014100000 +0000" stop="20261014105700 +0000">
+    <title lang="zh">东方新闻</title>
+    <desc />
+    <date>2026-10-14</date>
+  </programme>
+  <programme channel="东方卫视" start="20261014105700 +0000" stop="20261014110000 +0000">
+    <title lang="zh">天气预报</title>
+    <desc />
+    <date>2026-10-14</date>
+  </programme>
+  <programme channel="东方卫视" start="20261014110000 +0000" stop="20261014113200 +0000">
+    <title lang="zh">转播中央台新闻联播</title>
+    <desc />
+    <date>2026-10-14</date>
+  </programme>
+  <programme channel="东方卫视" start="20261014113200 +0000" stop="20261014121100 +0000">
+    <title lang="zh">美人余(9)</title>
+    <desc />
+    <date>2026-10-14</date>
+  </programme>
+  <programme channel="东方卫视" start="20261014121100 +0000" stop="20261014125100 +0000">
+    <title lang="zh">美人余(10)</title>
+    <desc />
+    <date>2026-10-14</date>
+  </programme>
+  <programme channel="东方卫视" start="20261014125100 +0000" stop="20261014125700 +0000">
+    <title lang="zh">明日精彩看点</title>
+    <desc />
+    <date>2026-10-14</date>
+  </programme>
+  <programme channel="东方卫视" start="20261014125700 +0000" stop="20261014130400 +0000">
+    <title lang="zh">东方看大剧</title>
+    <desc />
+    <date>2026-10-14</date>
+  </programme>
+  <programme channel="东方卫视" start="20261014130400 +0000" stop="20261014132000 +0000">
+    <title lang="zh">今日宜偏爱(20)</title>
+    <desc />
+    <date>2026-10-14</date>
+  </programme>
+  <programme channel="东方卫视" start="20261014132000 +0000" stop="20261014135900 +0000">
+    <title lang="zh">今晚</title>
+    <desc />
+    <date>2026-10-14</date>
+  </programme>
+  <programme channel="东方卫视" start="20261014135900 +0000" stop="20261014140000 +0000">
+    <title lang="zh">天气预报</title>
+    <desc />
+    <date>2026-10-14</date>
+  </programme>
+  <programme channel="东方卫视" start="20261014140000 +0000" stop="20261014142500 +0000">
+    <title lang="zh">锚点</title>
+    <desc />
+    <date>2026-10-14</date>
+  </programme>
+  <programme channel="东方卫视" start="20261014142500 +0000" stop="20261014145100 +0000">
+    <title lang="zh">两说</title>
+    <desc />
+    <date>2026-10-14</date>
+  </programme>
+  <programme channel="东方卫视" start="20261014145100 +0000" stop="20261014152000 +0000">
+    <title lang="zh">遵义三日(3):生死转折</title>
+    <desc />
+    <date>2026-10-14</date>
+  </programme>
+  <programme channel="东方卫视" start="20261014152000 +0000" stop="20261015000000 +0000">
+    <title lang="zh">春风化雨(30)</title>
+    <desc />
+    <date>2026-10-14</date>
   </programme>
 <channel id="广东卫视">
     <display-name lang="China">广东卫视</display-name>
@@ -11749,10 +12319,165 @@
     <desc />
     <date>2026-10-13</date>
   </programme>
-  <programme channel="广东卫视" start="20261013155000 +0000" stop="20261014000000 +0000">
+  <programme channel="广东卫视" start="20261013155000 +0000" stop="20261013175500 +0000">
     <title lang="zh">活力影院</title>
     <desc />
     <date>2026-10-13</date>
+  </programme>
+  <programme channel="广东卫视" start="20261013175500 +0000" stop="20261013183600 +0000">
+    <title lang="zh">全球零距离</title>
+    <desc />
+    <date>2026-10-13</date>
+  </programme>
+  <programme channel="广东卫视" start="20261013183600 +0000" stop="20261013195200 +0000">
+    <title lang="zh">老广的味道</title>
+    <desc />
+    <date>2026-10-13</date>
+  </programme>
+  <programme channel="广东卫视" start="20261013195200 +0000" stop="20261013204600 +0000">
+    <title lang="zh">老广的味道</title>
+    <desc />
+    <date>2026-10-13</date>
+  </programme>
+  <programme channel="广东卫视" start="20261013204600 +0000" stop="20261013213800 +0000">
+    <title lang="zh">老广的味道</title>
+    <desc />
+    <date>2026-10-13</date>
+  </programme>
+  <programme channel="广东卫视" start="20261013213800 +0000" stop="20261013223200 +0000">
+    <title lang="zh">老广的味道</title>
+    <desc />
+    <date>2026-10-13</date>
+  </programme>
+  <programme channel="广东卫视" start="20261013223200 +0000" stop="20261013225700 +0000">
+    <title lang="zh">老广的味道</title>
+    <desc />
+    <date>2026-10-13</date>
+  </programme>
+  <programme channel="广东卫视" start="20261013225700 +0000" stop="20261013230000 +0000">
+    <title lang="zh">早间天气预报</title>
+    <desc />
+    <date>2026-10-13</date>
+  </programme>
+  <programme channel="广东卫视" start="20261013230000 +0000" stop="20261013230100 +0000">
+    <title lang="zh">重播广东新闻联播</title>
+    <desc />
+    <date>2026-10-13</date>
+  </programme>
+  <programme channel="广东卫视" start="20261013230100 +0000" stop="20261013233000 +0000">
+    <title lang="zh">广东新闻联播</title>
+    <desc />
+    <date>2026-10-13</date>
+  </programme>
+  <programme channel="广东卫视" start="20261013233000 +0000" stop="20261013235300 +0000">
+    <title lang="zh">动画片剧场</title>
+    <desc />
+    <date>2026-10-13</date>
+  </programme>
+  <programme channel="广东卫视" start="20261013235300 +0000" stop="20261014000000 +0000">
+    <title lang="zh">上午剧场:武工队传奇(21)</title>
+    <desc />
+    <date>2026-10-13</date>
+  </programme>
+  <programme channel="广东卫视" start="20261014012500 +0000" stop="20261014021400 +0000">
+    <title lang="zh">上午剧场:武工队传奇(22)</title>
+    <desc />
+    <date>2026-10-14</date>
+  </programme>
+  <programme channel="广东卫视" start="20261014021400 +0000" stop="20261014030500 +0000">
+    <title lang="zh">上午剧场:武工队传奇(23)</title>
+    <desc />
+    <date>2026-10-14</date>
+  </programme>
+  <programme channel="广东卫视" start="20261014030500 +0000" stop="20261014035800 +0000">
+    <title lang="zh">上午剧场:武工队传奇(24)</title>
+    <desc />
+    <date>2026-10-14</date>
+  </programme>
+  <programme channel="广东卫视" start="20261014035800 +0000" stop="20261014044700 +0000">
+    <title lang="zh">老广的味道</title>
+    <desc />
+    <date>2026-10-14</date>
+  </programme>
+  <programme channel="广东卫视" start="20261014044700 +0000" stop="20261014053900 +0000">
+    <title lang="zh">下午茶剧场:战火青春(10)</title>
+    <desc />
+    <date>2026-10-14</date>
+  </programme>
+  <programme channel="广东卫视" start="20261014053900 +0000" stop="20261014061600 +0000">
+    <title lang="zh">下午茶剧场:战火青春(11)</title>
+    <desc />
+    <date>2026-10-14</date>
+  </programme>
+  <programme channel="广东卫视" start="20261014061600 +0000" stop="20261014070300 +0000">
+    <title lang="zh">下午茶剧场:战火青春(12)</title>
+    <desc />
+    <date>2026-10-14</date>
+  </programme>
+  <programme channel="广东卫视" start="20261014070300 +0000" stop="20261014075700 +0000">
+    <title lang="zh">下午茶剧场:战火青春(13)</title>
+    <desc />
+    <date>2026-10-14</date>
+  </programme>
+  <programme channel="广东卫视" start="20261014075700 +0000" stop="20261014085000 +0000">
+    <title lang="zh">下午茶剧场:战火青春(14)</title>
+    <desc />
+    <date>2026-10-14</date>
+  </programme>
+  <programme channel="广东卫视" start="20261014085000 +0000" stop="20261014094400 +0000">
+    <title lang="zh">下午茶剧场:战火青春(15)</title>
+    <desc />
+    <date>2026-10-14</date>
+  </programme>
+  <programme channel="广东卫视" start="20261014094400 +0000" stop="20261014103000 +0000">
+    <title lang="zh">下午茶剧场:战火青春(16)</title>
+    <desc />
+    <date>2026-10-14</date>
+  </programme>
+  <programme channel="广东卫视" start="20261014103000 +0000" stop="20261014105600 +0000">
+    <title lang="zh">广东新闻联播</title>
+    <desc />
+    <date>2026-10-14</date>
+  </programme>
+  <programme channel="广东卫视" start="20261014105600 +0000" stop="20261014110000 +0000">
+    <title lang="zh">广东天气预报</title>
+    <desc />
+    <date>2026-10-14</date>
+  </programme>
+  <programme channel="广东卫视" start="20261014110000 +0000" stop="20261014113300 +0000">
+    <title lang="zh">转播中央台新闻联播</title>
+    <desc />
+    <date>2026-10-14</date>
+  </programme>
+  <programme channel="广东卫视" start="20261014113300 +0000" stop="20261014122300 +0000">
+    <title lang="zh">活力剧场:风与潮(27)</title>
+    <desc />
+    <date>2026-10-14</date>
+  </programme>
+  <programme channel="广东卫视" start="20261014122300 +0000" stop="20261014132000 +0000">
+    <title lang="zh">活力剧场:风与潮(28)</title>
+    <desc />
+    <date>2026-10-14</date>
+  </programme>
+  <programme channel="广东卫视" start="20261014132000 +0000" stop="20261014134000 +0000">
+    <title lang="zh">晚间新闻</title>
+    <desc />
+    <date>2026-10-14</date>
+  </programme>
+  <programme channel="广东卫视" start="20261014134000 +0000" stop="20261014142200 +0000">
+    <title lang="zh">广交天下</title>
+    <desc />
+    <date>2026-10-14</date>
+  </programme>
+  <programme channel="广东卫视" start="20261014142200 +0000" stop="20261014150800 +0000">
+    <title lang="zh">晚间剧场</title>
+    <desc />
+    <date>2026-10-14</date>
+  </programme>
+  <programme channel="广东卫视" start="20261014150800 +0000" stop="20261015000000 +0000">
+    <title lang="zh">晚间剧场</title>
+    <desc />
+    <date>2026-10-14</date>
   </programme>
 <channel id="浙江卫视">
     <display-name lang="China">浙江卫视</display-name>
@@ -11873,10 +12598,195 @@
     <desc />
     <date>2026-10-13</date>
   </programme>
-  <programme channel="浙江卫视" start="20261013151800 +0000" stop="20261014000000 +0000">
+  <programme channel="浙江卫视" start="20261013151800 +0000" stop="20261013154100 +0000">
     <title lang="zh">周播剧场</title>
     <desc />
     <date>2026-10-13</date>
+  </programme>
+  <programme channel="浙江卫视" start="20261013154100 +0000" stop="20261013165500 +0000">
+    <title lang="zh">国乐无双(260606 第1季第3期)02正片一V1</title>
+    <desc />
+    <date>2026-10-13</date>
+  </programme>
+  <programme channel="浙江卫视" start="20261013165500 +0000" stop="20261013185800 +0000">
+    <title lang="zh">王牌对王牌(重播)</title>
+    <desc />
+    <date>2026-10-13</date>
+  </programme>
+  <programme channel="浙江卫视" start="20261013185800 +0000" stop="20261013190300 +0000">
+    <title lang="zh">今日聚焦</title>
+    <desc />
+    <date>2026-10-13</date>
+  </programme>
+  <programme channel="浙江卫视" start="20261013190300 +0000" stop="20261013193100 +0000">
+    <title lang="zh">新闻深一度</title>
+    <desc />
+    <date>2026-10-13</date>
+  </programme>
+  <programme channel="浙江卫视" start="20261013193100 +0000" stop="20261013202300 +0000">
+    <title lang="zh">风味人间</title>
+    <desc />
+    <date>2026-10-13</date>
+  </programme>
+  <programme channel="浙江卫视" start="20261013202300 +0000" stop="20261013205400 +0000">
+    <title lang="zh">西湖</title>
+    <desc />
+    <date>2026-10-13</date>
+  </programme>
+  <programme channel="浙江卫视" start="20261013205400 +0000" stop="20261013212100 +0000">
+    <title lang="zh">一本书一座城</title>
+    <desc />
+    <date>2026-10-13</date>
+  </programme>
+  <programme channel="浙江卫视" start="20261013212100 +0000" stop="20261013222000 +0000">
+    <title lang="zh">纪录片:记住乡愁</title>
+    <desc />
+    <date>2026-10-13</date>
+  </programme>
+  <programme channel="浙江卫视" start="20261013222000 +0000" stop="20261013222500 +0000">
+    <title lang="zh">今日聚焦</title>
+    <desc />
+    <date>2026-10-13</date>
+  </programme>
+  <programme channel="浙江卫视" start="20261013222500 +0000" stop="20261013230000 +0000">
+    <title lang="zh">新闻深一度</title>
+    <desc />
+    <date>2026-10-13</date>
+  </programme>
+  <programme channel="浙江卫视" start="20261013230000 +0000" stop="20261013232600 +0000">
+    <title lang="zh">浙江新闻联播</title>
+    <desc />
+    <date>2026-10-13</date>
+  </programme>
+  <programme channel="浙江卫视" start="20261013232600 +0000" stop="20261013235000 +0000">
+    <title lang="zh">纪录片</title>
+    <desc />
+    <date>2026-10-13</date>
+  </programme>
+  <programme channel="浙江卫视" start="20261013235000 +0000" stop="20261014000000 +0000">
+    <title lang="zh">动画片剧场</title>
+    <desc />
+    <date>2026-10-13</date>
+  </programme>
+  <programme channel="浙江卫视" start="20261014005300 +0000" stop="20261014013800 +0000">
+    <title lang="zh">经典剧场:父母爱情(21)</title>
+    <desc />
+    <date>2026-10-14</date>
+  </programme>
+  <programme channel="浙江卫视" start="20261014013800 +0000" stop="20261014022500 +0000">
+    <title lang="zh">经典剧场:父母爱情(22)</title>
+    <desc />
+    <date>2026-10-14</date>
+  </programme>
+  <programme channel="浙江卫视" start="20261014022500 +0000" stop="20261014031100 +0000">
+    <title lang="zh">经典剧场:父母爱情(23)</title>
+    <desc />
+    <date>2026-10-14</date>
+  </programme>
+  <programme channel="浙江卫视" start="20261014031100 +0000" stop="20261014040000 +0000">
+    <title lang="zh">经典剧场:父母爱情(24)</title>
+    <desc />
+    <date>2026-10-14</date>
+  </programme>
+  <programme channel="浙江卫视" start="20261014040000 +0000" stop="20261014042800 +0000">
+    <title lang="zh">正午播报</title>
+    <desc />
+    <date>2026-10-14</date>
+  </programme>
+  <programme channel="浙江卫视" start="20261014042800 +0000" stop="20261014062200 +0000">
+    <title lang="zh">炙热游戏:百厨大战</title>
+    <desc />
+    <date>2026-10-14</date>
+  </programme>
+  <programme channel="浙江卫视" start="20261014062200 +0000" stop="20261014070600 +0000">
+    <title lang="zh">百姓剧场:红蔷薇(45)</title>
+    <desc />
+    <date>2026-10-14</date>
+  </programme>
+  <programme channel="浙江卫视" start="20261014070600 +0000" stop="20261014075000 +0000">
+    <title lang="zh">百姓剧场:红蔷薇(46)</title>
+    <desc />
+    <date>2026-10-14</date>
+  </programme>
+  <programme channel="浙江卫视" start="20261014075000 +0000" stop="20261014083500 +0000">
+    <title lang="zh">百姓剧场:红蔷薇(47)</title>
+    <desc />
+    <date>2026-10-14</date>
+  </programme>
+  <programme channel="浙江卫视" start="20261014083500 +0000" stop="20261014091900 +0000">
+    <title lang="zh">百姓剧场:红蔷薇(48)</title>
+    <desc />
+    <date>2026-10-14</date>
+  </programme>
+  <programme channel="浙江卫视" start="20261014091900 +0000" stop="20261014095700 +0000">
+    <title lang="zh">百姓剧场</title>
+    <desc />
+    <date>2026-10-14</date>
+  </programme>
+  <programme channel="浙江卫视" start="20261014095700 +0000" stop="20261014095800 +0000">
+    <title lang="zh">浙江海洋预报</title>
+    <desc />
+    <date>2026-10-14</date>
+  </programme>
+  <programme channel="浙江卫视" start="20261014095800 +0000" stop="20261014100000 +0000">
+    <title lang="zh">天气向导</title>
+    <desc />
+    <date>2026-10-14</date>
+  </programme>
+  <programme channel="浙江卫视" start="20261014100000 +0000" stop="20261014103000 +0000">
+    <title lang="zh">新闻深一度</title>
+    <desc />
+    <date>2026-10-14</date>
+  </programme>
+  <programme channel="浙江卫视" start="20261014103000 +0000" stop="20261014105500 +0000">
+    <title lang="zh">浙江新闻联播</title>
+    <desc />
+    <date>2026-10-14</date>
+  </programme>
+  <programme channel="浙江卫视" start="20261014105500 +0000" stop="20261014110000 +0000">
+    <title lang="zh">浙江天气预报</title>
+    <desc />
+    <date>2026-10-14</date>
+  </programme>
+  <programme channel="浙江卫视" start="20261014110000 +0000" stop="20261014113200 +0000">
+    <title lang="zh">转播中央电视台新闻联播</title>
+    <desc />
+    <date>2026-10-14</date>
+  </programme>
+  <programme channel="浙江卫视" start="20261014113200 +0000" stop="20261014122200 +0000">
+    <title lang="zh">中国蓝剧场:百花杀(9)</title>
+    <desc />
+    <date>2026-10-14</date>
+  </programme>
+  <programme channel="浙江卫视" start="20261014122200 +0000" stop="20261014131000 +0000">
+    <title lang="zh">中国蓝剧场:百花杀(10)</title>
+    <desc />
+    <date>2026-10-14</date>
+  </programme>
+  <programme channel="浙江卫视" start="20261014131000 +0000" stop="20261014133000 +0000">
+    <title lang="zh">抢先看</title>
+    <desc />
+    <date>2026-10-14</date>
+  </programme>
+  <programme channel="浙江卫视" start="20261014133000 +0000" stop="20261014134200 +0000">
+    <title lang="zh">今日评说</title>
+    <desc />
+    <date>2026-10-14</date>
+  </programme>
+  <programme channel="浙江卫视" start="20261014134200 +0000" stop="20261014150400 +0000">
+    <title lang="zh">周播剧场</title>
+    <desc />
+    <date>2026-10-14</date>
+  </programme>
+  <programme channel="浙江卫视" start="20261014150400 +0000" stop="20261014155300 +0000">
+    <title lang="zh">周播剧场</title>
+    <desc />
+    <date>2026-10-14</date>
+  </programme>
+  <programme channel="浙江卫视" start="20261014155300 +0000" stop="20261015000000 +0000">
+    <title lang="zh">周播剧场</title>
+    <desc />
+    <date>2026-10-14</date>
   </programme>
 <channel id="江苏卫视">
     <display-name lang="China">江苏卫视</display-name>
@@ -11977,10 +12887,165 @@
     <desc />
     <date>2026-10-13</date>
   </programme>
-  <programme channel="江苏卫视" start="20261013151500 +0000" stop="20261014000000 +0000">
+  <programme channel="江苏卫视" start="20261013151500 +0000" stop="20261013154400 +0000">
     <title lang="zh">梦想创业家</title>
     <desc />
     <date>2026-10-13</date>
+  </programme>
+  <programme channel="江苏卫视" start="20261013154400 +0000" stop="20261013163000 +0000">
+    <title lang="zh">早春晴朗</title>
+    <desc />
+    <date>2026-10-13</date>
+  </programme>
+  <programme channel="江苏卫视" start="20261013163000 +0000" stop="20261013163400 +0000">
+    <title lang="zh">晚间新闻</title>
+    <desc />
+    <date>2026-10-13</date>
+  </programme>
+  <programme channel="江苏卫视" start="20261013163400 +0000" stop="20261013172000 +0000">
+    <title lang="zh">阅读阅美第二季</title>
+    <desc />
+    <date>2026-10-13</date>
+  </programme>
+  <programme channel="江苏卫视" start="20261013172000 +0000" stop="20261013175400 +0000">
+    <title lang="zh">纪录片</title>
+    <desc />
+    <date>2026-10-13</date>
+  </programme>
+  <programme channel="江苏卫视" start="20261013175400 +0000" stop="20261013183100 +0000">
+    <title lang="zh">纪录片</title>
+    <desc />
+    <date>2026-10-13</date>
+  </programme>
+  <programme channel="江苏卫视" start="20261013183100 +0000" stop="20261013190900 +0000">
+    <title lang="zh">纪录片</title>
+    <desc />
+    <date>2026-10-13</date>
+  </programme>
+  <programme channel="江苏卫视" start="20261013190900 +0000" stop="20261013214600 +0000">
+    <title lang="zh">纪录片</title>
+    <desc />
+    <date>2026-10-13</date>
+  </programme>
+  <programme channel="江苏卫视" start="20261013214600 +0000" stop="20261013215300 +0000">
+    <title lang="zh">纪录片</title>
+    <desc />
+    <date>2026-10-13</date>
+  </programme>
+  <programme channel="江苏卫视" start="20261013215300 +0000" stop="20261013222700 +0000">
+    <title lang="zh">万家灯火</title>
+    <desc />
+    <date>2026-10-13</date>
+  </programme>
+  <programme channel="江苏卫视" start="20261013222700 +0000" stop="20261013230000 +0000">
+    <title lang="zh">纪录片:寻味顺德</title>
+    <desc />
+    <date>2026-10-13</date>
+  </programme>
+  <programme channel="江苏卫视" start="20261013230000 +0000" stop="20261013232200 +0000">
+    <title lang="zh">江苏新时空</title>
+    <desc />
+    <date>2026-10-13</date>
+  </programme>
+  <programme channel="江苏卫视" start="20261013232200 +0000" stop="20261014000000 +0000">
+    <title lang="zh">早间剧场</title>
+    <desc />
+    <date>2026-10-13</date>
+  </programme>
+  <programme channel="江苏卫视" start="20261014000700 +0000" stop="20261014005900 +0000">
+    <title lang="zh">我爱古诗词</title>
+    <desc />
+    <date>2026-10-14</date>
+  </programme>
+  <programme channel="江苏卫视" start="20261014005900 +0000" stop="20261014014600 +0000">
+    <title lang="zh">上午剧场:追捕者</title>
+    <desc />
+    <date>2026-10-14</date>
+  </programme>
+  <programme channel="江苏卫视" start="20261014014600 +0000" stop="20261014023300 +0000">
+    <title lang="zh">上午剧场:追捕者</title>
+    <desc />
+    <date>2026-10-14</date>
+  </programme>
+  <programme channel="江苏卫视" start="20261014023300 +0000" stop="20261014031400 +0000">
+    <title lang="zh">上午剧场:追捕者</title>
+    <desc />
+    <date>2026-10-14</date>
+  </programme>
+  <programme channel="江苏卫视" start="20261014031400 +0000" stop="20261014040000 +0000">
+    <title lang="zh">上午剧场:追捕者</title>
+    <desc />
+    <date>2026-10-14</date>
+  </programme>
+  <programme channel="江苏卫视" start="20261014040000 +0000" stop="20261014043400 +0000">
+    <title lang="zh">正午江苏</title>
+    <desc />
+    <date>2026-10-14</date>
+  </programme>
+  <programme channel="江苏卫视" start="20261014043400 +0000" stop="20261014061900 +0000">
+    <title lang="zh">非诚勿扰(重播)</title>
+    <desc />
+    <date>2026-10-14</date>
+  </programme>
+  <programme channel="江苏卫视" start="20261014061900 +0000" stop="20261014082800 +0000">
+    <title lang="zh">新相亲大会</title>
+    <desc />
+    <date>2026-10-14</date>
+  </programme>
+  <programme channel="江苏卫视" start="20261014082800 +0000" stop="20261014091200 +0000">
+    <title lang="zh">下午剧场:夜色正浓</title>
+    <desc />
+    <date>2026-10-14</date>
+  </programme>
+  <programme channel="江苏卫视" start="20261014091200 +0000" stop="20261014100000 +0000">
+    <title lang="zh">下午剧场:夜色正浓</title>
+    <desc />
+    <date>2026-10-14</date>
+  </programme>
+  <programme channel="江苏卫视" start="20261014100000 +0000" stop="20261014103000 +0000">
+    <title lang="zh">新闻眼</title>
+    <desc />
+    <date>2026-10-14</date>
+  </programme>
+  <programme channel="江苏卫视" start="20261014103000 +0000" stop="20261014105200 +0000">
+    <title lang="zh">江苏新时空</title>
+    <desc />
+    <date>2026-10-14</date>
+  </programme>
+  <programme channel="江苏卫视" start="20261014105200 +0000" stop="20261014110000 +0000">
+    <title lang="zh">时空气象站</title>
+    <desc />
+    <date>2026-10-14</date>
+  </programme>
+  <programme channel="江苏卫视" start="20261014110000 +0000" stop="20261014113200 +0000">
+    <title lang="zh">转播中央台新闻联播</title>
+    <desc />
+    <date>2026-10-14</date>
+  </programme>
+  <programme channel="江苏卫视" start="20261014113200 +0000" stop="20261014122800 +0000">
+    <title lang="zh">幸福剧场:冬城猎凶(7)</title>
+    <desc />
+    <date>2026-10-14</date>
+  </programme>
+  <programme channel="江苏卫视" start="20261014122800 +0000" stop="20261014132000 +0000">
+    <title lang="zh">幸福剧场:冬城猎凶(8)</title>
+    <desc />
+    <date>2026-10-14</date>
+  </programme>
+  <programme channel="江苏卫视" start="20261014132000 +0000" stop="20261014140500 +0000">
+    <title lang="zh">最强大脑(重播)</title>
+    <desc />
+    <date>2026-10-14</date>
+  </programme>
+  <programme channel="江苏卫视" start="20261014140500 +0000" stop="20261014155000 +0000">
+    <title lang="zh">新相亲大会</title>
+    <desc />
+    <date>2026-10-14</date>
+  </programme>
+  <programme channel="江苏卫视" start="20261014155000 +0000" stop="20261015000000 +0000">
+    <title lang="zh">晚间新闻</title>
+    <desc />
+    <date>2026-10-14</date>
   </programme>
 <channel id="湖南卫视">
     <display-name lang="China">湖南卫视</display-name>
@@ -12111,10 +13176,170 @@
     <desc />
     <date>2026-10-13</date>
   </programme>
-  <programme channel="湖南卫视" start="20261013155000 +0000" stop="20261014000000 +0000">
+  <programme channel="湖南卫视" start="20261013155000 +0000" stop="20261013173000 +0000">
     <title lang="zh">花儿与少年2026(5)(重播)</title>
     <desc />
     <date>2026-10-13</date>
+  </programme>
+  <programme channel="湖南卫视" start="20261013173000 +0000" stop="20261013200000 +0000">
+    <title lang="zh">新闻大求真</title>
+    <desc />
+    <date>2026-10-13</date>
+  </programme>
+  <programme channel="湖南卫视" start="20261013200000 +0000" stop="20261013213000 +0000">
+    <title lang="zh">中国1</title>
+    <desc />
+    <date>2026-10-13</date>
+  </programme>
+  <programme channel="湖南卫视" start="20261013213000 +0000" stop="20261013220000 +0000">
+    <title lang="zh">新闻大求真</title>
+    <desc />
+    <date>2026-10-13</date>
+  </programme>
+  <programme channel="湖南卫视" start="20261013220000 +0000" stop="20261013230000 +0000">
+    <title lang="zh">中国2</title>
+    <desc />
+    <date>2026-10-13</date>
+  </programme>
+  <programme channel="湖南卫视" start="20261013230000 +0000" stop="20261013230100 +0000">
+    <title lang="zh">中华人民共和国国歌</title>
+    <desc />
+    <date>2026-10-13</date>
+  </programme>
+  <programme channel="湖南卫视" start="20261013230100 +0000" stop="20261013233000 +0000">
+    <title lang="zh">湖南新闻联播</title>
+    <desc />
+    <date>2026-10-13</date>
+  </programme>
+  <programme channel="湖南卫视" start="20261013233000 +0000" stop="20261014000000 +0000">
+    <title lang="zh">爱情不打烊(18)</title>
+    <desc />
+    <date>2026-10-13</date>
+  </programme>
+  <programme channel="湖南卫视" start="20261014000000 +0000" stop="20261014000800 +0000">
+    <title lang="zh">啦咘啦哆警长大战羚羚羊2(33)</title>
+    <desc />
+    <date>2026-10-14</date>
+  </programme>
+  <programme channel="湖南卫视" start="20261014000800 +0000" stop="20261014001600 +0000">
+    <title lang="zh">啦咘啦哆警长大战羚羚羊2(34)</title>
+    <desc />
+    <date>2026-10-14</date>
+  </programme>
+  <programme channel="湖南卫视" start="20261014001600 +0000" stop="20261014002400 +0000">
+    <title lang="zh">啦咘啦哆警长大战羚羚羊2(35)</title>
+    <desc />
+    <date>2026-10-14</date>
+  </programme>
+  <programme channel="湖南卫视" start="20261014002400 +0000" stop="20261014003200 +0000">
+    <title lang="zh">啦咘啦哆警长大战羚羚羊2(36)</title>
+    <desc />
+    <date>2026-10-14</date>
+  </programme>
+  <programme channel="湖南卫视" start="20261014003200 +0000" stop="20261014004000 +0000">
+    <title lang="zh">啦咘啦哆警长大战羚羚羊2(37)</title>
+    <desc />
+    <date>2026-10-14</date>
+  </programme>
+  <programme channel="湖南卫视" start="20261014004000 +0000" stop="20261014012600 +0000">
+    <title lang="zh">偶像独播剧场:爱情不打烊</title>
+    <desc />
+    <date>2026-10-14</date>
+  </programme>
+  <programme channel="湖南卫视" start="20261014012600 +0000" stop="20261014023300 +0000">
+    <title lang="zh">偶像独播剧场:爱情不打烊</title>
+    <desc />
+    <date>2026-10-14</date>
+  </programme>
+  <programme channel="湖南卫视" start="20261014023300 +0000" stop="20261014032200 +0000">
+    <title lang="zh">偶像独播剧场:爱情不打烊</title>
+    <desc />
+    <date>2026-10-14</date>
+  </programme>
+  <programme channel="湖南卫视" start="20261014032200 +0000" stop="20261014041000 +0000">
+    <title lang="zh">偶像独播剧场:爱情不打烊</title>
+    <desc />
+    <date>2026-10-14</date>
+  </programme>
+  <programme channel="湖南卫视" start="20261014041000 +0000" stop="20261014043000 +0000">
+    <title lang="zh">午间新闻</title>
+    <desc />
+    <date>2026-10-14</date>
+  </programme>
+  <programme channel="湖南卫视" start="20261014043000 +0000" stop="20261014043800 +0000">
+    <title lang="zh">卫视气象站</title>
+    <desc />
+    <date>2026-10-14</date>
+  </programme>
+  <programme channel="湖南卫视" start="20261014043800 +0000" stop="20261014055300 +0000">
+    <title lang="zh">偶像独播剧场:爱情不打烊</title>
+    <desc />
+    <date>2026-10-14</date>
+  </programme>
+  <programme channel="湖南卫视" start="20261014055300 +0000" stop="20261014065500 +0000">
+    <title lang="zh">偶像独播剧场:爱情不打烊</title>
+    <desc />
+    <date>2026-10-14</date>
+  </programme>
+  <programme channel="湖南卫视" start="20261014065500 +0000" stop="20261014073500 +0000">
+    <title lang="zh">偶像独播剧场:爱情不打烊</title>
+    <desc />
+    <date>2026-10-14</date>
+  </programme>
+  <programme channel="湖南卫视" start="20261014073500 +0000" stop="20261014082100 +0000">
+    <title lang="zh">青春独播剧场:与狼共舞</title>
+    <desc />
+    <date>2026-10-14</date>
+  </programme>
+  <programme channel="湖南卫视" start="20261014082100 +0000" stop="20261014090700 +0000">
+    <title lang="zh">青春独播剧场:与狼共舞</title>
+    <desc />
+    <date>2026-10-14</date>
+  </programme>
+  <programme channel="湖南卫视" start="20261014090700 +0000" stop="20261014095600 +0000">
+    <title lang="zh">青春独播剧场:与狼共舞</title>
+    <desc />
+    <date>2026-10-14</date>
+  </programme>
+  <programme channel="湖南卫视" start="20261014095600 +0000" stop="20261014103000 +0000">
+    <title lang="zh">新闻大求真</title>
+    <desc />
+    <date>2026-10-14</date>
+  </programme>
+  <programme channel="湖南卫视" start="20261014103000 +0000" stop="20261014110000 +0000">
+    <title lang="zh">湖南新闻联播</title>
+    <desc />
+    <date>2026-10-14</date>
+  </programme>
+  <programme channel="湖南卫视" start="20261014110000 +0000" stop="20261014113000 +0000">
+    <title lang="zh">转播中央台新闻联播</title>
+    <desc />
+    <date>2026-10-14</date>
+  </programme>
+  <programme channel="湖南卫视" start="20261014113000 +0000" stop="20261014121000 +0000">
+    <title lang="zh">去湘当有味的地方4(3)</title>
+    <desc />
+    <date>2026-10-14</date>
+  </programme>
+  <programme channel="湖南卫视" start="20261014121000 +0000" stop="20261014130500 +0000">
+    <title lang="zh">玉簟秋(5)</title>
+    <desc />
+    <date>2026-10-14</date>
+  </programme>
+  <programme channel="湖南卫视" start="20261014130500 +0000" stop="20261014140000 +0000">
+    <title lang="zh">玉簟秋(6)</title>
+    <desc />
+    <date>2026-10-14</date>
+  </programme>
+  <programme channel="湖南卫视" start="20261014140000 +0000" stop="20261014150000 +0000">
+    <title lang="zh">我的前半生(21)</title>
+    <desc />
+    <date>2026-10-14</date>
+  </programme>
+  <programme channel="湖南卫视" start="20261014150000 +0000" stop="20261015000000 +0000">
+    <title lang="zh">闪光的创始人3(1)</title>
+    <desc />
+    <date>2026-10-14</date>
   </programme>
 <channel id="四川卫视">
     <display-name lang="China">四川卫视</display-name>
@@ -12245,10 +13470,170 @@
     <desc />
     <date>2026-10-13</date>
   </programme>
-  <programme channel="四川卫视" start="20261013155000 +0000" stop="20261014000000 +0000">
+  <programme channel="四川卫视" start="20261013155000 +0000" stop="20261013155700 +0000">
     <title lang="zh">冰雨火(27)</title>
     <desc />
     <date>2026-10-13</date>
+  </programme>
+  <programme channel="四川卫视" start="20261013155700 +0000" stop="20261013163300 +0000">
+    <title lang="zh">冰雨火(27)</title>
+    <desc />
+    <date>2026-10-13</date>
+  </programme>
+  <programme channel="四川卫视" start="20261013163300 +0000" stop="20261013215700 +0000">
+    <title lang="zh">重返三星堆</title>
+    <desc />
+    <date>2026-10-13</date>
+  </programme>
+  <programme channel="四川卫视" start="20261013215700 +0000" stop="20261013230000 +0000">
+    <title lang="zh">手枪队(44)</title>
+    <desc />
+    <date>2026-10-13</date>
+  </programme>
+  <programme channel="四川卫视" start="20261013230000 +0000" stop="20261013230100 +0000">
+    <title lang="zh">中华人民共和国国歌</title>
+    <desc />
+    <date>2026-10-13</date>
+  </programme>
+  <programme channel="四川卫视" start="20261013230100 +0000" stop="20261013233000 +0000">
+    <title lang="zh">早安四川</title>
+    <desc />
+    <date>2026-10-13</date>
+  </programme>
+  <programme channel="四川卫视" start="20261013233000 +0000" stop="20261014000000 +0000">
+    <title lang="zh">早间气象</title>
+    <desc />
+    <date>2026-10-13</date>
+  </programme>
+  <programme channel="四川卫视" start="20261014001000 +0000" stop="20261014002000 +0000">
+    <title lang="zh">长征先锋(10)</title>
+    <desc />
+    <date>2026-10-14</date>
+  </programme>
+  <programme channel="四川卫视" start="20261014002000 +0000" stop="20261014003000 +0000">
+    <title lang="zh">长征先锋(11)</title>
+    <desc />
+    <date>2026-10-14</date>
+  </programme>
+  <programme channel="四川卫视" start="20261014003000 +0000" stop="20261014004000 +0000">
+    <title lang="zh">长征先锋(12)</title>
+    <desc />
+    <date>2026-10-14</date>
+  </programme>
+  <programme channel="四川卫视" start="20261014004000 +0000" stop="20261014013000 +0000">
+    <title lang="zh">天狼星行动(38)</title>
+    <desc />
+    <date>2026-10-14</date>
+  </programme>
+  <programme channel="四川卫视" start="20261014013000 +0000" stop="20261014022000 +0000">
+    <title lang="zh">天狼星行动(39)</title>
+    <desc />
+    <date>2026-10-14</date>
+  </programme>
+  <programme channel="四川卫视" start="20261014022000 +0000" stop="20261014031000 +0000">
+    <title lang="zh">天狼星行动(40)</title>
+    <desc />
+    <date>2026-10-14</date>
+  </programme>
+  <programme channel="四川卫视" start="20261014031000 +0000" stop="20261014041000 +0000">
+    <title lang="zh">踏破硝烟(1)</title>
+    <desc />
+    <date>2026-10-14</date>
+  </programme>
+  <programme channel="四川卫视" start="20261014041000 +0000" stop="20261014042000 +0000">
+    <title lang="zh">午间气象播报</title>
+    <desc />
+    <date>2026-10-14</date>
+  </programme>
+  <programme channel="四川卫视" start="20261014042000 +0000" stop="20261014051600 +0000">
+    <title lang="zh">踏破硝烟(2)</title>
+    <desc />
+    <date>2026-10-14</date>
+  </programme>
+  <programme channel="四川卫视" start="20261014051600 +0000" stop="20261014061300 +0000">
+    <title lang="zh">踏破硝烟(3)</title>
+    <desc />
+    <date>2026-10-14</date>
+  </programme>
+  <programme channel="四川卫视" start="20261014061300 +0000" stop="20261014071000 +0000">
+    <title lang="zh">踏破硝烟(4)</title>
+    <desc />
+    <date>2026-10-14</date>
+  </programme>
+  <programme channel="四川卫视" start="20261014071000 +0000" stop="20261014080600 +0000">
+    <title lang="zh">踏破硝烟(5)</title>
+    <desc />
+    <date>2026-10-14</date>
+  </programme>
+  <programme channel="四川卫视" start="20261014080600 +0000" stop="20261014090300 +0000">
+    <title lang="zh">踏破硝烟(6)</title>
+    <desc />
+    <date>2026-10-14</date>
+  </programme>
+  <programme channel="四川卫视" start="20261014090300 +0000" stop="20261014100000 +0000">
+    <title lang="zh">踏破硝烟(7)</title>
+    <desc />
+    <date>2026-10-14</date>
+  </programme>
+  <programme channel="四川卫视" start="20261014100000 +0000" stop="20261014103000 +0000">
+    <title lang="zh">四川超安逸</title>
+    <desc />
+    <date>2026-10-14</date>
+  </programme>
+  <programme channel="四川卫视" start="20261014103000 +0000" stop="20261014105500 +0000">
+    <title lang="zh">四川新闻联播</title>
+    <desc />
+    <date>2026-10-14</date>
+  </programme>
+  <programme channel="四川卫视" start="20261014105500 +0000" stop="20261014110000 +0000">
+    <title lang="zh">四川省城市天气预报</title>
+    <desc />
+    <date>2026-10-14</date>
+  </programme>
+  <programme channel="四川卫视" start="20261014110000 +0000" stop="20261014113500 +0000">
+    <title lang="zh">转播中央台新闻联播</title>
+    <desc />
+    <date>2026-10-14</date>
+  </programme>
+  <programme channel="四川卫视" start="20261014113500 +0000" stop="20261014122200 +0000">
+    <title lang="zh">绝命后卫师(18)</title>
+    <desc />
+    <date>2026-10-14</date>
+  </programme>
+  <programme channel="四川卫视" start="20261014122200 +0000" stop="20261014131000 +0000">
+    <title lang="zh">绝命后卫师(19)</title>
+    <desc />
+    <date>2026-10-14</date>
+  </programme>
+  <programme channel="四川卫视" start="20261014131000 +0000" stop="20261014133500 +0000">
+    <title lang="zh">万水千山(5)</title>
+    <desc />
+    <date>2026-10-14</date>
+  </programme>
+  <programme channel="四川卫视" start="20261014133500 +0000" stop="20261014140000 +0000">
+    <title lang="zh">万水千山(6)</title>
+    <desc />
+    <date>2026-10-14</date>
+  </programme>
+  <programme channel="四川卫视" start="20261014140000 +0000" stop="20261014143000 +0000">
+    <title lang="zh">四川新闻联播</title>
+    <desc />
+    <date>2026-10-14</date>
+  </programme>
+  <programme channel="四川卫视" start="20261014143000 +0000" stop="20261014151000 +0000">
+    <title lang="zh">冰雨火(28)</title>
+    <desc />
+    <date>2026-10-14</date>
+  </programme>
+  <programme channel="四川卫视" start="20261014151000 +0000" stop="20261014155000 +0000">
+    <title lang="zh">冰雨火(29)</title>
+    <desc />
+    <date>2026-10-14</date>
+  </programme>
+  <programme channel="四川卫视" start="20261014155000 +0000" stop="20261015000000 +0000">
+    <title lang="zh">冰雨火(30)</title>
+    <desc />
+    <date>2026-10-14</date>
   </programme>
 <channel id="凤凰中文台">
     <display-name lang="Hong Kong">凤凰中文台</display-name>
@@ -13392,147 +14777,6 @@
     <display-name>凤凰香港台</display-name>
     <icon src="https://iptv.yang-1989.xyz/logo/凤凰香港台.webp" />
   </channel>
-  <programme start="20261009233000 +0800" stop="20261010000000 +0800" channel="凤凰香港台">
-    <title lang="zh">中國銀行（香港）亞洲財經透視</title>
-  </programme>
-  <programme start="20261010000000 +0800" stop="20261010003000 +0800" channel="凤凰香港台">
-    <title lang="zh">華潤 鳳凰聚焦</title>
-  </programme>
-  <programme start="20261010003000 +0800" stop="20261010010000 +0800" channel="凤凰香港台">
-    <title lang="zh">以岭葯業 新聞今日談</title>
-  </programme>
-  <programme start="20261010010000 +0800" stop="20261010013000 +0800" channel="凤凰香港台">
-    <title lang="zh">風雲對話</title>
-  </programme>
-  <programme start="20261010013000 +0800" stop="20261010020000 +0800" channel="凤凰香港台">
-    <title lang="zh">時事大破解</title>
-  </programme>
-  <programme start="20261010020000 +0800" stop="20261010023000 +0800" channel="凤凰香港台">
-    <title lang="zh">鳳凰全球連線</title>
-  </programme>
-  <programme start="20261010023000 +0800" stop="20261010030000 +0800" channel="凤凰香港台">
-    <title lang="zh">鳳凰大視野</title>
-  </programme>
-  <programme start="20261010030000 +0800" stop="20261010033000 +0800" channel="凤凰香港台">
-    <title lang="zh">華潤 鳳凰聚焦</title>
-  </programme>
-  <programme start="20261010033000 +0800" stop="20261010040000 +0800" channel="凤凰香港台">
-    <title lang="zh">總編輯時間</title>
-  </programme>
-  <programme start="20261010040000 +0800" stop="20261010043000 +0800" channel="凤凰香港台">
-    <title lang="zh">風雲對話</title>
-  </programme>
-  <programme start="20261010043000 +0800" stop="20261010050000 +0800" channel="凤凰香港台">
-    <title lang="zh">空間觀策</title>
-  </programme>
-  <programme start="20261010050000 +0800" stop="20261010053000 +0800" channel="凤凰香港台">
-    <title lang="zh">時事大破解</title>
-  </programme>
-  <programme start="20261010053000 +0800" stop="20261010060000 +0800" channel="凤凰香港台">
-    <title lang="zh">以岭葯業 新聞今日談</title>
-  </programme>
-  <programme start="20261010060000 +0800" stop="20261010063000 +0800" channel="凤凰香港台">
-    <title lang="zh">近觀中國</title>
-  </programme>
-  <programme start="20261010063000 +0800" stop="20261010070000 +0800" channel="凤凰香港台">
-    <title lang="zh">鳳凰大視野</title>
-  </programme>
-  <programme start="20261010070000 +0800" stop="20261010075500 +0800" channel="凤凰香港台">
-    <title lang="zh">鳳凰早班車</title>
-  </programme>
-  <programme start="20261010075500 +0800" stop="20261010080000 +0800" channel="凤凰香港台">
-    <title lang="zh">鳳凰氣象站</title>
-  </programme>
-  <programme start="20261010080000 +0800" stop="20261010085500 +0800" channel="凤凰香港台">
-    <title lang="zh">鳳凰早班車</title>
-  </programme>
-  <programme start="20261010085500 +0800" stop="20261010090000 +0800" channel="凤凰香港台">
-    <title lang="zh">鳳凰氣象站</title>
-  </programme>
-  <programme start="20261010090000 +0800" stop="20261010093000 +0800" channel="凤凰香港台">
-    <title lang="zh">總編輯時間</title>
-  </programme>
-  <programme start="20261010093000 +0800" stop="20261010100000 +0800" channel="凤凰香港台">
-    <title lang="zh">風雲對話</title>
-  </programme>
-  <programme start="20261010100000 +0800" stop="20261010103000 +0800" channel="凤凰香港台">
-    <title lang="zh">空間觀策</title>
-  </programme>
-  <programme start="20261010103000 +0800" stop="20261010110000 +0800" channel="凤凰香港台">
-    <title lang="zh">鳳凰大視野</title>
-  </programme>
-  <programme start="20261010110000 +0800" stop="20261010113000 +0800" channel="凤凰香港台">
-    <title lang="zh">時事大破解</title>
-  </programme>
-  <programme start="20261010113000 +0800" stop="20261010120000 +0800" channel="凤凰香港台">
-    <title lang="zh">華潤 鳳凰聚焦</title>
-  </programme>
-  <programme start="20261010120000 +0800" stop="20261010125500 +0800" channel="凤凰香港台">
-    <title lang="zh">鳳凰午間專列</title>
-  </programme>
-  <programme start="20261010125500 +0800" stop="20261010130000 +0800" channel="凤凰香港台">
-    <title lang="zh">鳳凰氣象站</title>
-  </programme>
-  <programme start="20261010130000 +0800" stop="20261010135700 +0800" channel="凤凰香港台">
-    <title lang="zh">午間快綫</title>
-  </programme>
-  <programme start="20261010135700 +0800" stop="20261010140000 +0800" channel="凤凰香港台">
-    <title lang="zh">鳳凰氣象站</title>
-  </programme>
-  <programme start="20261010140000 +0800" stop="20261010143000 +0800" channel="凤凰香港台">
-    <title lang="zh">總編輯時間</title>
-  </programme>
-  <programme start="20261010143000 +0800" stop="20261010150000 +0800" channel="凤凰香港台">
-    <title lang="zh">風雲對話</title>
-  </programme>
-  <programme start="20261010150000 +0800" stop="20261010153000 +0800" channel="凤凰香港台">
-    <title lang="zh">空間觀策</title>
-  </programme>
-  <programme start="20261010153000 +0800" stop="20261010160000 +0800" channel="凤凰香港台">
-    <title lang="zh">時事大破解</title>
-  </programme>
-  <programme start="20261010160000 +0800" stop="20261010163000 +0800" channel="凤凰香港台">
-    <title lang="zh">鳳凰大視野</title>
-  </programme>
-  <programme start="20261010163000 +0800" stop="20261010170000 +0800" channel="凤凰香港台">
-    <title lang="zh">文化大觀園</title>
-  </programme>
-  <programme start="20261010170000 +0800" stop="20261010173000 +0800" channel="凤凰香港台">
-    <title lang="zh">華潤 鳳凰聚焦</title>
-  </programme>
-  <programme start="20261010173000 +0800" stop="20261010180000 +0800" channel="凤凰香港台">
-    <title lang="zh">X +</title>
-  </programme>
-  <programme start="20261010180000 +0800" stop="20261010182700 +0800" channel="凤凰香港台">
-    <title lang="zh">鳳凰焦點新聞 1800</title>
-  </programme>
-  <programme start="20261010182700 +0800" stop="20261010183000 +0800" channel="凤凰香港台">
-    <title lang="zh">鳳凰氣象站</title>
-  </programme>
-  <programme start="20261010183000 +0800" stop="20261010190000 +0800" channel="凤凰香港台">
-    <title lang="zh">以岭葯業 新聞今日談</title>
-  </programme>
-  <programme start="20261010190000 +0800" stop="20261010195700 +0800" channel="凤凰香港台">
-    <title lang="zh">全球新聞報道</title>
-  </programme>
-  <programme start="20261010195700 +0800" stop="20261010200000 +0800" channel="凤凰香港台">
-    <title lang="zh">鳳凰氣象站</title>
-  </programme>
-  <programme start="20261010200000 +0800" stop="20261010203000 +0800" channel="凤凰香港台">
-    <title lang="zh">香港新視點</title>
-  </programme>
-  <programme start="20261010203000 +0800" stop="20261010210000 +0800" channel="凤凰香港台">
-    <title lang="zh">時事三對論</title>
-  </programme>
-  <programme start="20261010210000 +0800" stop="20261010215500 +0800" channel="凤凰香港台">
-    <title lang="zh">時事直通車</title>
-  </programme>
-  <programme start="20261010215500 +0800" stop="20261010220000 +0800" channel="凤凰香港台">
-    <title lang="zh">鳳凰氣象站</title>
-  </programme>
-  <programme start="20261010220000 +0800" stop="20261010230000 +0800" channel="凤凰香港台">
-    <title lang="zh">難忘經典系列:  銀嗓歌后姚莉玫瑰傳奇經典演唱會</title>
-  </programme>
   <programme start="20261010230000 +0800" stop="20261011000000 +0800" channel="凤凰香港台">
     <title lang="zh">皇牌大放送</title>
   </programme>
@@ -14098,6 +15342,156 @@
     <title lang="zh">中國銀行（香港） 亞洲財經透視</title>
   </programme>
   <programme start="20261015000000 +0800" stop="20261015003000 +0800" channel="凤凰香港台">
+    <title lang="zh">華潤 鳳凰聚焦</title>
+  </programme>
+  <programme start="20261015003000 +0800" stop="20261015010000 +0800" channel="凤凰香港台">
+    <title lang="zh">以岭葯業 新聞今日談</title>
+  </programme>
+  <programme start="20261015010000 +0800" stop="20261015013000 +0800" channel="凤凰香港台">
+    <title lang="zh">時事亮亮點</title>
+  </programme>
+  <programme start="20261015013000 +0800" stop="20261015020000 +0800" channel="凤凰香港台">
+    <title lang="zh">時事大破解</title>
+  </programme>
+  <programme start="20261015020000 +0800" stop="20261015023000 +0800" channel="凤凰香港台">
+    <title lang="zh">鳳凰全球連線</title>
+  </programme>
+  <programme start="20261015023000 +0800" stop="20261015030000 +0800" channel="凤凰香港台">
+    <title lang="zh">鳳凰大視野</title>
+  </programme>
+  <programme start="20261015030000 +0800" stop="20261015033000 +0800" channel="凤凰香港台">
+    <title lang="zh">華潤 鳳凰聚焦</title>
+  </programme>
+  <programme start="20261015033000 +0800" stop="20261015040000 +0800" channel="凤凰香港台">
+    <title lang="zh">總編輯時間</title>
+  </programme>
+  <programme start="20261015040000 +0800" stop="20261015043000 +0800" channel="凤凰香港台">
+    <title lang="zh">時事亮亮點</title>
+  </programme>
+  <programme start="20261015043000 +0800" stop="20261015050000 +0800" channel="凤凰香港台">
+    <title lang="zh">近觀中國</title>
+  </programme>
+  <programme start="20261015050000 +0800" stop="20261015053000 +0800" channel="凤凰香港台">
+    <title lang="zh">時事大破解</title>
+  </programme>
+  <programme start="20261015053000 +0800" stop="20261015060000 +0800" channel="凤凰香港台">
+    <title lang="zh">以岭葯業 新聞今日談</title>
+  </programme>
+  <programme start="20261015060000 +0800" stop="20261015063000 +0800" channel="凤凰香港台">
+    <title lang="zh">石評天下</title>
+  </programme>
+  <programme start="20261015063000 +0800" stop="20261015070000 +0800" channel="凤凰香港台">
+    <title lang="zh">鳳凰大視野</title>
+  </programme>
+  <programme start="20261015070000 +0800" stop="20261015075700 +0800" channel="凤凰香港台">
+    <title lang="zh">鳳凰早班車</title>
+  </programme>
+  <programme start="20261015075700 +0800" stop="20261015080000 +0800" channel="凤凰香港台">
+    <title lang="zh">鳳凰氣象站</title>
+  </programme>
+  <programme start="20261015080000 +0800" stop="20261015085700 +0800" channel="凤凰香港台">
+    <title lang="zh">鳳凰早班車</title>
+  </programme>
+  <programme start="20261015085700 +0800" stop="20261015090000 +0800" channel="凤凰香港台">
+    <title lang="zh">鳳凰氣象站</title>
+  </programme>
+  <programme start="20261015090000 +0800" stop="20261015093000 +0800" channel="凤凰香港台">
+    <title lang="zh">總編輯時間</title>
+  </programme>
+  <programme start="20261015093000 +0800" stop="20261015100000 +0800" channel="凤凰香港台">
+    <title lang="zh">時事亮亮點</title>
+  </programme>
+  <programme start="20261015100000 +0800" stop="20261015103000 +0800" channel="凤凰香港台">
+    <title lang="zh">近觀中國</title>
+  </programme>
+  <programme start="20261015103000 +0800" stop="20261015110000 +0800" channel="凤凰香港台">
+    <title lang="zh">鳳凰大視野</title>
+  </programme>
+  <programme start="20261015110000 +0800" stop="20261015113000 +0800" channel="凤凰香港台">
+    <title lang="zh">時事大破解</title>
+  </programme>
+  <programme start="20261015113000 +0800" stop="20261015120000 +0800" channel="凤凰香港台">
+    <title lang="zh">華潤 鳳凰聚焦</title>
+  </programme>
+  <programme start="20261015120000 +0800" stop="20261015125500 +0800" channel="凤凰香港台">
+    <title lang="zh">鳳凰午間專列</title>
+  </programme>
+  <programme start="20261015125500 +0800" stop="20261015130000 +0800" channel="凤凰香港台">
+    <title lang="zh">鳳凰氣象站</title>
+  </programme>
+  <programme start="20261015130000 +0800" stop="20261015135700 +0800" channel="凤凰香港台">
+    <title lang="zh">午間快綫</title>
+  </programme>
+  <programme start="20261015135700 +0800" stop="20261015140000 +0800" channel="凤凰香港台">
+    <title lang="zh">鳳凰氣象站</title>
+  </programme>
+  <programme start="20261015140000 +0800" stop="20261015143000 +0800" channel="凤凰香港台">
+    <title lang="zh">總編輯時間</title>
+  </programme>
+  <programme start="20261015143000 +0800" stop="20261015150000 +0800" channel="凤凰香港台">
+    <title lang="zh">時事亮亮點</title>
+  </programme>
+  <programme start="20261015150000 +0800" stop="20261015153000 +0800" channel="凤凰香港台">
+    <title lang="zh">近觀中國</title>
+  </programme>
+  <programme start="20261015153000 +0800" stop="20261015160000 +0800" channel="凤凰香港台">
+    <title lang="zh">時事大破解</title>
+  </programme>
+  <programme start="20261015160000 +0800" stop="20261015163000 +0800" channel="凤凰香港台">
+    <title lang="zh">鳳凰大視野</title>
+  </programme>
+  <programme start="20261015163000 +0800" stop="20261015170000 +0800" channel="凤凰香港台">
+    <title lang="zh">我們和牠們</title>
+  </programme>
+  <programme start="20261015170000 +0800" stop="20261015173000 +0800" channel="凤凰香港台">
+    <title lang="zh">華潤 鳳凰聚焦</title>
+  </programme>
+  <programme start="20261015173000 +0800" stop="20261015180000 +0800" channel="凤凰香港台">
+    <title lang="zh">香港熱廚房</title>
+  </programme>
+  <programme start="20261015180000 +0800" stop="20261015182700 +0800" channel="凤凰香港台">
+    <title lang="zh">鳳凰焦點新聞 1800</title>
+  </programme>
+  <programme start="20261015182700 +0800" stop="20261015183000 +0800" channel="凤凰香港台">
+    <title lang="zh">鳳凰氣象站</title>
+  </programme>
+  <programme start="20261015183000 +0800" stop="20261015190000 +0800" channel="凤凰香港台">
+    <title lang="zh">以岭葯業 新聞今日談</title>
+  </programme>
+  <programme start="20261015190000 +0800" stop="20261015195700 +0800" channel="凤凰香港台">
+    <title lang="zh">全球新聞報道</title>
+  </programme>
+  <programme start="20261015195700 +0800" stop="20261015200000 +0800" channel="凤凰香港台">
+    <title lang="zh">鳳凰氣象站</title>
+  </programme>
+  <programme start="20261015200000 +0800" stop="20261015202800 +0800" channel="凤凰香港台">
+    <title lang="zh">時事大破解</title>
+  </programme>
+  <programme start="20261015202800 +0800" stop="20261015203000 +0800" channel="凤凰香港台">
+    <title lang="zh">中國銀行（香港）  直達大灣區</title>
+  </programme>
+  <programme start="20261015203000 +0800" stop="20261015210000 +0800" channel="凤凰香港台">
+    <title lang="zh">軍情觀察室</title>
+  </programme>
+  <programme start="20261015210000 +0800" stop="20261015215500 +0800" channel="凤凰香港台">
+    <title lang="zh">時事直通車</title>
+  </programme>
+  <programme start="20261015215500 +0800" stop="20261015220000 +0800" channel="凤凰香港台">
+    <title lang="zh">鳳凰氣象站</title>
+  </programme>
+  <programme start="20261015220000 +0800" stop="20261015223000 +0800" channel="凤凰香港台">
+    <title lang="zh">晚間專綫</title>
+  </programme>
+  <programme start="20261015223000 +0800" stop="20261015230000 +0800" channel="凤凰香港台">
+    <title lang="zh">鳳凰全球連線</title>
+  </programme>
+  <programme start="20261015230000 +0800" stop="20261015233000 +0800" channel="凤凰香港台">
+    <title lang="zh">總編輯時間</title>
+  </programme>
+  <programme start="20261015233000 +0800" stop="20261016000000 +0800" channel="凤凰香港台">
+    <title lang="zh">中國銀行（香港） 亞洲財經透視</title>
+  </programme>
+  <programme start="20261016000000 +0800" stop="20261016003000 +0800" channel="凤凰香港台">
     <title lang="zh">華潤 鳳凰聚焦</title>
   </programme>
   </tv>
