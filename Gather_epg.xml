@@ -873,7 +873,7 @@
   </programme>
   <programme channel="Al Jazeera English HD" start="20261106173000 +0000" stop="20261106180000 +0000">
     <title lang="zh">101 East</title>
-    <desc>02112026: 101 East reports on the people and events shaping the Asia Pacific region. .</desc>
+    <desc>Nepal - After The Flood: 101 East reveals Nepal's efforts to save lives and rebuild communities after a devastating natural disaster.</desc>
     <date>2026-11-06</date>
   </programme>
   <programme channel="Al Jazeera English HD" start="20261106180000 +0000" stop="20261106190000 +0000">
@@ -958,7 +958,7 @@
   </programme>
   <programme channel="Al Jazeera English HD" start="20261107063000 +0000" stop="20261107070000 +0000">
     <title lang="zh">UpFront</title>
-    <desc>02112026: Frank, blunt and UpFront, Marc Lamont Hill cuts through the headlines to get to the heart of the matter with influential guests and newsmakers.</desc>
+    <desc>Ep.24 Marc Lamont Hill discusses what the midterm election results mean for Gen Z with activist Cameron Kasky.</desc>
     <date>2026-11-07</date>
   </programme>
   <programme channel="Al Jazeera English HD" start="20261107070000 +0000" stop="20261107073000 +0000">
@@ -993,7 +993,7 @@
   </programme>
   <programme channel="Al Jazeera English HD" start="20261107113000 +0000" stop="20261107120000 +0000">
     <title lang="zh">101 East</title>
-    <desc>02112026: 101 East reports on the people and events shaping the Asia Pacific region. .</desc>
+    <desc>Nepal - After The Flood: 101 East reveals Nepal's efforts to save lives and rebuild communities after a devastating natural disaster.</desc>
     <date>2026-11-07</date>
   </programme>
   <programme channel="Al Jazeera English HD" start="20261107120000 +0000" stop="20261107123000 +0000">
@@ -1038,7 +1038,7 @@
   </programme>
   <programme channel="Al Jazeera English HD" start="20261107163000 +0000" stop="20261107170000 +0000">
     <title lang="zh">Counting the Cost</title>
-    <desc>Ep.62 Counting the Cost provides background to the economics stories that shape our world and impact the lives of ordinary people.</desc>
+    <desc>Ep.62 Can Russia deliver on its economic promises to Africa?</desc>
     <date>2026-11-07</date>
   </programme>
   <programme channel="Al Jazeera English HD" start="20261107170000 +0000" stop="20261107173000 +0000">
@@ -1048,7 +1048,7 @@
   </programme>
   <programme channel="Al Jazeera English HD" start="20261107173000 +0000" stop="20261107180000 +0000">
     <title lang="zh">UpFront</title>
-    <desc>02112026: Frank, blunt and UpFront, Marc Lamont Hill cuts through the headlines to get to the heart of the matter with influential guests and newsmakers.</desc>
+    <desc>Ep.24 Marc Lamont Hill discusses what the midterm election results mean for Gen Z with activist Cameron Kasky.</desc>
     <date>2026-11-07</date>
   </programme>
   <programme channel="Al Jazeera English HD" start="20261107180000 +0000" stop="20261107190000 +0000">
@@ -1083,7 +1083,7 @@
   </programme>
   <programme channel="Al Jazeera English HD" start="20261107223000 +0000" stop="20261107230000 +0000">
     <title lang="zh">101 East</title>
-    <desc>02112026: 101 East reports on the people and events shaping the Asia Pacific region. .</desc>
+    <desc>Nepal - After The Flood: 101 East reveals Nepal's efforts to save lives and rebuild communities after a devastating natural disaster.</desc>
     <date>2026-11-07</date>
   </programme>
   <programme channel="Al Jazeera English HD" start="20261107230000 +0000" stop="20261108000000 +0000">
@@ -1100,266 +1100,6 @@
     <display-name lang="United Kingdom of Great Britain and Northern Ireland">BBC News</display-name>
     <icon src="" />
   </channel>
-  <programme channel="BBC News" start="20261105000000 +0000" stop="20261105003000 +0000">
-    <title lang="zh">Verified Live</title>
-    <desc>Matthew Amroliwala presents all the latest global and UK news, live from London. [S] [HD]</desc>
-    <date>2026-11-05</date>
-  </programme>
-  <programme channel="BBC News" start="20261105003000 +0000" stop="20261105004500 +0000">
-    <title lang="zh">Business Today</title>
-    <desc>Bringing the latest business news and up-to-date informed analysis from London and around the world. [S] [HD]</desc>
-    <date>2026-11-05</date>
-  </programme>
-  <programme channel="BBC News" start="20261105004500 +0000" stop="20261105010000 +0000">
-    <title lang="zh">Verified Live</title>
-    <desc>Matthew Amroliwala presents all the latest global and UK news, live from London. [S] [HD]</desc>
-    <date>2026-11-05</date>
-  </programme>
-  <programme channel="BBC News" start="20261105010000 +0000" stop="20261105013000 +0000">
-    <title lang="zh">Verified Live</title>
-    <desc>Matthew Amroliwala presents all the latest global and UK news, live from London. [S] [HD]</desc>
-    <date>2026-11-05</date>
-  </programme>
-  <programme channel="BBC News" start="20261105013000 +0000" stop="20261105020000 +0000">
-    <title lang="zh">BBC News</title>
-    <desc>The latest news from the BBC. [S] [HD]</desc>
-    <date>2026-11-05</date>
-  </programme>
-  <programme channel="BBC News" start="20261105020000 +0000" stop="20261105023000 +0000">
-    <title lang="zh">The World Today with Maryam Moshiri</title>
-    <desc>Watch the best of the BBC's journalism from around the world. [S,SL] [HD]</desc>
-    <date>2026-11-05</date>
-  </programme>
-  <programme channel="BBC News" start="20261105023000 +0000" stop="20261105030000 +0000">
-    <title lang="zh">The World Today with Maryam Moshiri</title>
-    <desc>Watch the best of the BBC's journalism from around the world. [S] [HD]</desc>
-    <date>2026-11-05</date>
-  </programme>
-  <programme channel="BBC News" start="20261105030000 +0000" stop="20261105033000 +0000">
-    <title lang="zh">The World Today with Maryam Moshiri</title>
-    <desc>Watch the best of the BBC's journalism from around the world. [S] [HD]</desc>
-    <date>2026-11-05</date>
-  </programme>
-  <programme channel="BBC News" start="20261105033000 +0000" stop="20261105040000 +0000">
-    <title lang="zh">The World Today with Maryam Moshiri</title>
-    <desc>Watch the best of the BBC's journalism from around the world. [S] [HD]</desc>
-    <date>2026-11-05</date>
-  </programme>
-  <programme channel="BBC News" start="20261105040000 +0000" stop="20261105043000 +0000">
-    <title lang="zh">The Context USA</title>
-    <desc>Special coverage from Washington DC and London, focusing on President Trump's second term. [S] [HD]</desc>
-    <date>2026-11-05</date>
-  </programme>
-  <programme channel="BBC News" start="20261105043000 +0000" stop="20261105050000 +0000">
-    <title lang="zh">The Context USA</title>
-    <desc>Special coverage from Washington DC and London, focusing on President Trump's second term. [S] [HD]</desc>
-    <date>2026-11-05</date>
-  </programme>
-  <programme channel="BBC News" start="20261105050000 +0000" stop="20261105053000 +0000">
-    <title lang="zh">The Context</title>
-    <desc>A regular panel of guests from across the political spectrum discuss the biggest international stories of the day. [S] [HD]</desc>
-    <date>2026-11-05</date>
-  </programme>
-  <programme channel="BBC News" start="20261105053000 +0000" stop="20261105060000 +0000">
-    <title lang="zh">The Context</title>
-    <desc>A regular panel of guests from across the political spectrum discuss the biggest international stories of the day. [S] [HD]</desc>
-    <date>2026-11-05</date>
-  </programme>
-  <programme channel="BBC News" start="20261105060000 +0000" stop="20261105063000 +0000">
-    <title lang="zh">BBC News at Ten</title>
-    <desc>The latest national and international news, with reports from BBC correspondents worldwide. [S] [HD]</desc>
-    <date>2026-11-05</date>
-  </programme>
-  <programme channel="BBC News" start="20261105063000 +0000" stop="20261105070000 +0000">
-    <title lang="zh">Newsnight</title>
-    <desc>Insights and global interviews on the news stories of the day. With Victoria Derbyshire. [S] [HD]</desc>
-    <date>2026-11-05</date>
-  </programme>
-  <programme channel="BBC News" start="20261105070000 +0000" stop="20261105080000 +0000">
-    <title lang="zh">BBC World News America</title>
-    <desc>The BBC presents in-depth reports on the major international and US news of the day presented from Washington DC. [S] [HD]</desc>
-    <date>2026-11-05</date>
-  </programme>
-  <programme channel="BBC News" start="20261105080000 +0000" stop="20261105083000 +0000">
-    <title lang="zh">BBC News</title>
-    <desc>The latest news from the BBC. [S] [HD]</desc>
-    <date>2026-11-05</date>
-  </programme>
-  <programme channel="BBC News" start="20261105083000 +0000" stop="20261105090000 +0000">
-    <title lang="zh">Tech Now</title>
-    <desc>Shiona McCallum meets mums and hospital staff trialling a new assisted birth innovation. Paul Carter explores how advanced prosthetics technology is also helping train future humanoid robots. [S] [HD]</desc>
-    <date>2026-11-05</date>
-  </programme>
-  <programme channel="BBC News" start="20261105090000 +0000" stop="20261105093000 +0000">
-    <title lang="zh">BBC News</title>
-    <desc>The latest news from the BBC. [S] [HD]</desc>
-    <date>2026-11-05</date>
-  </programme>
-  <programme channel="BBC News" start="20261105093000 +0000" stop="20261105100000 +0000">
-    <title lang="zh">AI Decoded</title>
-    <desc>An examination of the growing role of artificial intelligence in the US midterm elections. [S] [HD]</desc>
-    <date>2026-11-05</date>
-  </programme>
-  <programme channel="BBC News" start="20261105100000 +0000" stop="20261105103000 +0000">
-    <title lang="zh">Newsday</title>
-    <desc>Live from Singapore, the latest international news from the BBC. [S] [HD]</desc>
-    <date>2026-11-05</date>
-  </programme>
-  <programme channel="BBC News" start="20261105103000 +0000" stop="20261105104500 +0000">
-    <title lang="zh">Business Today</title>
-    <desc>Bringing the latest business news and up-to-date informed analysis from Singapore and around the world. [S] [HD]</desc>
-    <date>2026-11-05</date>
-  </programme>
-  <programme channel="BBC News" start="20261105104500 +0000" stop="20261105110000 +0000">
-    <title lang="zh">BBC Sport</title>
-    <desc>A round-up of the day's sporting action, plus talking points, analysis and original journalism. [S] [HD]</desc>
-    <date>2026-11-05</date>
-  </programme>
-  <programme channel="BBC News" start="20261105110000 +0000" stop="20261105113000 +0000">
-    <title lang="zh">Newsday</title>
-    <desc>Live from Singapore, the latest international news from the BBC. [S] [HD]</desc>
-    <date>2026-11-05</date>
-  </programme>
-  <programme channel="BBC News" start="20261105113000 +0000" stop="20261105114500 +0000">
-    <title lang="zh">Business Today</title>
-    <desc>Bringing the latest business news and up-to-date informed analysis from Singapore and around the world. [S] [HD]</desc>
-    <date>2026-11-05</date>
-  </programme>
-  <programme channel="BBC News" start="20261105114500 +0000" stop="20261105120000 +0000">
-    <title lang="zh">BBC Sport</title>
-    <desc>A round-up of the day's sporting action, plus talking points, analysis and original journalism. [S] [HD]</desc>
-    <date>2026-11-05</date>
-  </programme>
-  <programme channel="BBC News" start="20261105120000 +0000" stop="20261105123000 +0000">
-    <title lang="zh">Newsday</title>
-    <desc>Live from Singapore, the latest international news from the BBC. [S] [HD]</desc>
-    <date>2026-11-05</date>
-  </programme>
-  <programme channel="BBC News" start="20261105123000 +0000" stop="20261105124500 +0000">
-    <title lang="zh">Business Today</title>
-    <desc>Bringing the latest business news and up-to-date informed analysis from Singapore and around the world. [S] [HD]</desc>
-    <date>2026-11-05</date>
-  </programme>
-  <programme channel="BBC News" start="20261105124500 +0000" stop="20261105130000 +0000">
-    <title lang="zh">BBC Sport</title>
-    <desc>A round-up of the day's sporting action, plus talking points, analysis and original journalism. [S] [HD]</desc>
-    <date>2026-11-05</date>
-  </programme>
-  <programme channel="BBC News" start="20261105130000 +0000" stop="20261105133000 +0000">
-    <title lang="zh">BBC News</title>
-    <desc>The latest news from the BBC. [S] [HD]</desc>
-    <date>2026-11-05</date>
-  </programme>
-  <programme channel="BBC News" start="20261105133000 +0000" stop="20261105140000 +0000">
-    <title lang="zh">Business Today</title>
-    <desc>Bringing the latest business news and up-to-date informed analysis from London and around the world. [S] [HD]</desc>
-    <date>2026-11-05</date>
-  </programme>
-  <programme channel="BBC News" start="20261105140000 +0000" stop="20261105143000 +0000">
-    <title lang="zh">BBC News</title>
-    <desc>The latest news from the BBC. [S] [HD]</desc>
-    <date>2026-11-05</date>
-  </programme>
-  <programme channel="BBC News" start="20261105143000 +0000" stop="20261105150000 +0000">
-    <title lang="zh">Business Today</title>
-    <desc>Bringing the latest business news and up-to-date informed analysis from London and around the world. [S] [HD]</desc>
-    <date>2026-11-05</date>
-  </programme>
-  <programme channel="BBC News" start="20261105150000 +0000" stop="20261105153000 +0000">
-    <title lang="zh">BBC News</title>
-    <desc>The latest news from the BBC. [S] [HD]</desc>
-    <date>2026-11-05</date>
-  </programme>
-  <programme channel="BBC News" start="20261105153000 +0000" stop="20261105160000 +0000">
-    <title lang="zh">Business Today</title>
-    <desc>Bringing the latest business news and up-to-date informed analysis from London and around the world. [S] [HD]</desc>
-    <date>2026-11-05</date>
-  </programme>
-  <programme channel="BBC News" start="20261105160000 +0000" stop="20261105163000 +0000">
-    <title lang="zh">Signed: BBC News</title>
-    <desc>The latest news from the BBC. [S,SL] [HD]</desc>
-    <date>2026-11-05</date>
-  </programme>
-  <programme channel="BBC News" start="20261105163000 +0000" stop="20261105170000 +0000">
-    <title lang="zh">BBC News</title>
-    <desc>The latest news from the BBC. [S] [HD]</desc>
-    <date>2026-11-05</date>
-  </programme>
-  <programme channel="BBC News" start="20261105170000 +0000" stop="20261105173000 +0000">
-    <title lang="zh">BBC News</title>
-    <desc>The latest news from the BBC. [S] [HD]</desc>
-    <date>2026-11-05</date>
-  </programme>
-  <programme channel="BBC News" start="20261105173000 +0000" stop="20261105180000 +0000">
-    <title lang="zh">BBC News</title>
-    <desc>The latest news from the BBC. [S] [HD]</desc>
-    <date>2026-11-05</date>
-  </programme>
-  <programme channel="BBC News" start="20261105180000 +0000" stop="20261105183000 +0000">
-    <title lang="zh">BBC News</title>
-    <desc>The latest news from the BBC. [S] [HD]</desc>
-    <date>2026-11-05</date>
-  </programme>
-  <programme channel="BBC News" start="20261105183000 +0000" stop="20261105190000 +0000">
-    <title lang="zh">BBC News</title>
-    <desc>The latest news from the BBC. [S] [HD]</desc>
-    <date>2026-11-05</date>
-  </programme>
-  <programme channel="BBC News" start="20261105190000 +0000" stop="20261105193000 +0000">
-    <title lang="zh">BBC News</title>
-    <desc>The latest news from the BBC. [S] [HD]</desc>
-    <date>2026-11-05</date>
-  </programme>
-  <programme channel="BBC News" start="20261105193000 +0000" stop="20261105194500 +0000">
-    <title lang="zh">Business Today</title>
-    <desc>Bringing the latest business news and up-to-date informed analysis from London and around the world. [S] [HD]</desc>
-    <date>2026-11-05</date>
-  </programme>
-  <programme channel="BBC News" start="20261105194500 +0000" stop="20261105200000 +0000">
-    <title lang="zh">BBC News</title>
-    <desc>The latest news from the BBC. [S] [HD]</desc>
-    <date>2026-11-05</date>
-  </programme>
-  <programme channel="BBC News" start="20261105200000 +0000" stop="20261105203000 +0000">
-    <title lang="zh">BBC News Now</title>
-    <desc>All the big stories, live as they happen, presented by Lucy Hockings. [S] [HD]</desc>
-    <date>2026-11-05</date>
-  </programme>
-  <programme channel="BBC News" start="20261105203000 +0000" stop="20261105210000 +0000">
-    <title lang="zh">BBC News Now</title>
-    <desc>All the big stories, live as they happen, presented by Lucy Hockings. [S] [HD]</desc>
-    <date>2026-11-05</date>
-  </programme>
-  <programme channel="BBC News" start="20261105210000 +0000" stop="20261105220000 +0000">
-    <title lang="zh">Signed: BBC News at One</title>
-    <desc>The latest national and international news from the BBC. [S,SL] [HD]</desc>
-    <date>2026-11-05</date>
-  </programme>
-  <programme channel="BBC News" start="20261105220000 +0000" stop="20261105223000 +0000">
-    <title lang="zh">BBC News Now</title>
-    <desc>All the big stories, live as they happen, presented by Lucy Hockings. [S] [HD]</desc>
-    <date>2026-11-05</date>
-  </programme>
-  <programme channel="BBC News" start="20261105223000 +0000" stop="20261105224500 +0000">
-    <title lang="zh">Business Today - NYSE Opening Bell</title>
-    <desc>Bringing the latest business news and up-to-date informed analysis from New York and around the world. [S] [HD]</desc>
-    <date>2026-11-05</date>
-  </programme>
-  <programme channel="BBC News" start="20261105224500 +0000" stop="20261105230000 +0000">
-    <title lang="zh">BBC News Now</title>
-    <desc>All the big stories, live as they happen, presented by Lucy Hockings. [S] [HD]</desc>
-    <date>2026-11-05</date>
-  </programme>
-  <programme channel="BBC News" start="20261105230000 +0000" stop="20261105233000 +0000">
-    <title lang="zh">Verified Live</title>
-    <desc>Matthew Amroliwala presents all the latest global and UK news, live from London. [S] [HD]</desc>
-    <date>2026-11-05</date>
-  </programme>
-  <programme channel="BBC News" start="20261105233000 +0000" stop="20261106000000 +0000">
-    <title lang="zh">Verified Live</title>
-    <desc>Matthew Amroliwala presents all the latest global and UK news, live from London. [S] [HD]</desc>
-    <date>2026-11-05</date>
-  </programme>
   <programme channel="BBC News" start="20261106000000 +0000" stop="20261106003000 +0000">
     <title lang="zh">Verified Live</title>
     <desc>Matthew Amroliwala presents all the latest global and UK news, live from London. [S] [HD]</desc>
@@ -1427,7 +1167,7 @@
   </programme>
   <programme channel="BBC News" start="20261106063000 +0000" stop="20261106070000 +0000">
     <title lang="zh">Newsnight</title>
-    <desc>Insights and global interviews on the news stories of the day. With Paddy O'Connell. [S] [HD]</desc>
+    <desc>Russell Brand is found guilty of rape. Was the comedian turned actor turned activist 'hiding in plain sight?' And would the red flags masked by his fame back then be spotted now? [S] [HD]</desc>
     <date>2026-11-06</date>
   </programme>
   <programme channel="BBC News" start="20261106070000 +0000" stop="20261106080000 +0000">
@@ -1441,8 +1181,8 @@
     <date>2026-11-06</date>
   </programme>
   <programme channel="BBC News" start="20261106083000 +0000" stop="20261106090000 +0000">
-    <title lang="zh">Newscast</title>
-    <desc>Lighthearted discussion of the day's news. [S] [HD]</desc>
+    <title lang="zh">Talking Movies</title>
+    <desc>Talking Movies looks at the films that made waves at the BFI London Film Festival and the New York Film Festival in October, including Elsinore,  Wild Horse Nine, and La Bola Negra. [S] [HD]</desc>
     <date>2026-11-06</date>
   </programme>
   <programme channel="BBC News" start="20261106090000 +0000" stop="20261106093000 +0000">
@@ -1615,10 +1355,250 @@
     <desc>Matthew Amroliwala presents all the latest global and UK news, live from London. [S] [HD]</desc>
     <date>2026-11-06</date>
   </programme>
-  <programme channel="BBC News" start="20261107000000 +0000" stop="20261108000000 +0000">
+  <programme channel="BBC News" start="20261107000000 +0000" stop="20261107003000 +0000">
     <title lang="zh">Verified Live</title>
     <desc>Matthew Amroliwala presents all the latest global and UK news, live from London. [S] [HD]</desc>
     <date>2026-11-07</date>
+  </programme>
+  <programme channel="BBC News" start="20261107003000 +0000" stop="20261107010000 +0000">
+    <title lang="zh">Verified Live</title>
+    <desc>Matthew Amroliwala presents all the latest global and UK news, live from London. [S] [HD]</desc>
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="BBC News" start="20261107010000 +0000" stop="20261107013000 +0000">
+    <title lang="zh">Verified Live</title>
+    <desc>Matthew Amroliwala presents all the latest global and UK news, live from London. [S] [HD]</desc>
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="BBC News" start="20261107013000 +0000" stop="20261107020000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC. [S] [HD]</desc>
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="BBC News" start="20261107020000 +0000" stop="20261107023000 +0000">
+    <title lang="zh">Signed: BBC News at Six</title>
+    <desc>The latest national and international news from the BBC. [S,SL] [HD]</desc>
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="BBC News" start="20261107023000 +0000" stop="20261107030000 +0000">
+    <title lang="zh">The World Today with Maryam Moshiri</title>
+    <desc>Watch the best of the BBC's journalism from around the world. [S] [HD]</desc>
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="BBC News" start="20261107030000 +0000" stop="20261107033000 +0000">
+    <title lang="zh">The World Today with Maryam Moshiri</title>
+    <desc>Watch the best of the BBC's journalism from around the world. [S] [HD]</desc>
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="BBC News" start="20261107033000 +0000" stop="20261107040000 +0000">
+    <title lang="zh">The World Today with Maryam Moshiri</title>
+    <desc>Watch the best of the BBC's journalism from around the world. [S] [HD]</desc>
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="BBC News" start="20261107040000 +0000" stop="20261107043000 +0000">
+    <title lang="zh">The Context USA</title>
+    <desc>Special coverage from Washington DC and London, focusing on President Trump's second term. [S] [HD]</desc>
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="BBC News" start="20261107043000 +0000" stop="20261107050000 +0000">
+    <title lang="zh">The Context USA</title>
+    <desc>Special coverage from Washington DC and London, focusing on President Trump's second term. [S] [HD]</desc>
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="BBC News" start="20261107050000 +0000" stop="20261107053000 +0000">
+    <title lang="zh">The Context</title>
+    <desc>A regular panel of guests from across the political spectrum discuss the biggest international stories of the day. [S] [HD]</desc>
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="BBC News" start="20261107053000 +0000" stop="20261107060000 +0000">
+    <title lang="zh">The Context</title>
+    <desc>A regular panel of guests from across the political spectrum discuss the biggest international stories of the day. [S] [HD]</desc>
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="BBC News" start="20261107060000 +0000" stop="20261107063000 +0000">
+    <title lang="zh">BBC News at Ten</title>
+    <desc>The latest national and international news, with reports from BBC correspondents worldwide. [S] [HD]</desc>
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="BBC News" start="20261107063000 +0000" stop="20261107070000 +0000">
+    <title lang="zh">Newsnight</title>
+    <desc>President Trump says the 'Dumocrats' only have themselves to blame after a stock market panic over AI. Newsnight interviews a leading Democrat. [S] [HD]</desc>
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="BBC News" start="20261107070000 +0000" stop="20261107073000 +0000">
+    <title lang="zh">BBC World News America</title>
+    <desc>The BBC presents in-depth reports on the major international and US news of the day presented from Washington DC. [S] [HD]</desc>
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="BBC News" start="20261107073000 +0000" stop="20261107080000 +0000">
+    <title lang="zh">The President's Path: Democrats Win Big in US Midterms</title>
+    <desc>Democrats have taken control of Congress. What next for Republicans? [S] [HD]</desc>
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="BBC News" start="20261107080000 +0000" stop="20261107083000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC. [S] [HD]</desc>
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="BBC News" start="20261107083000 +0000" stop="20261107090000 +0000">
+    <title lang="zh">Tech Now</title>
+    <desc>Following recent wildfires, Shiona McCallum visits the Cairngorms National Park to see how cutting-edge tech is being used to monitor damage and help vulnerable landscapes recover. [S] [HD]</desc>
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="BBC News" start="20261107090000 +0000" stop="20261107093000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC. [S] [HD]</desc>
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="BBC News" start="20261107093000 +0000" stop="20261107100000 +0000">
+    <title lang="zh">Clive Myrie's African Adventure</title>
+    <desc>6/10. In Lagos, one of Africa's largest cities, Clive gets a workout in the downtown street market, heads for the studio with local musicians and experiences the vibrancy of Nigerian art. [S] [HD]</desc>
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="BBC News" start="20261107100000 +0000" stop="20261107103000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC. [S] [HD]</desc>
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="BBC News" start="20261107103000 +0000" stop="20261107110000 +0000">
+    <title lang="zh">Africa: From Reparations to Action</title>
+    <desc>African leaders examine the legacy of the transatlantic slave trade,  how governments and the African Union can advance reparative justice whilst strengthening Africa-Caribbean cooperation. [S] [HD]</desc>
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="BBC News" start="20261107110000 +0000" stop="20261107113000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC. [S] [HD]</desc>
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="BBC News" start="20261107113000 +0000" stop="20261107120000 +0000">
+    <title lang="zh">The Media Show</title>
+    <desc>Analysis of social media's role in the protests across Europe, Russian state media narratives, and a new film following a Syrian family's journey for a decade. [S] [HD]</desc>
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="BBC News" start="20261107120000 +0000" stop="20261107123000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC. [S] [HD]</desc>
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="BBC News" start="20261107123000 +0000" stop="20261107130000 +0000">
+    <title lang="zh">The Travel Show</title>
+    <desc>Food enthusiast and baker Briony May Williams travels the length of Italy to ask: are Italians too fussy about their food? [S] [HD]</desc>
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="BBC News" start="20261107130000 +0000" stop="20261107133000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC. [S] [HD]</desc>
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="BBC News" start="20261107133000 +0000" stop="20261107140000 +0000">
+    <title lang="zh">AI Decoded</title>
+    <desc>Would you let AI walk around your home? We explore the growing race to put humanoid robots into our homes and workplaces. [S] [HD]</desc>
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="BBC News" start="20261107140000 +0000" stop="20261107143000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC. [S] [HD]</desc>
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="BBC News" start="20261107143000 +0000" stop="20261107150000 +0000">
+    <title lang="zh">Tech Now</title>
+    <desc>Following recent wildfires, Shiona McCallum visits the Cairngorms National Park to see how cutting-edge tech is being used to monitor damage and help vulnerable landscapes recover. [S] [HD]</desc>
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="BBC News" start="20261107150000 +0000" stop="20261107153000 +0000">
+    <title lang="zh">Signed: BBC News</title>
+    <desc>The latest news from the BBC. [S,SL] [HD]</desc>
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="BBC News" start="20261107153000 +0000" stop="20261107160000 +0000">
+    <title lang="zh">Unspun World with John Simpson</title>
+    <desc>John Simpson explores what the last years of Donald Trump's presidency might look like. [S] [HD]</desc>
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="BBC News" start="20261107160000 +0000" stop="20261107163000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC. [S] [HD]</desc>
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="BBC News" start="20261107163000 +0000" stop="20261107170000 +0000">
+    <title lang="zh">The Media Show</title>
+    <desc>Analysis of social media's role in the protests across Europe, Russian state media narratives, and a new film following a Syrian family's journey for a decade. [S] [HD]</desc>
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="BBC News" start="20261107170000 +0000" stop="20261107180000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC. [S] [HD]</desc>
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="BBC News" start="20261107180000 +0000" stop="20261107183000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC. [S] [HD]</desc>
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="BBC News" start="20261107183000 +0000" stop="20261107190000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC. [S] [HD]</desc>
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="BBC News" start="20261107190000 +0000" stop="20261107193000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC. [S] [HD]</desc>
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="BBC News" start="20261107193000 +0000" stop="20261107200000 +0000">
+    <title lang="zh">Unspun World with John Simpson</title>
+    <desc>John Simpson explores what the last years of Donald Trump's presidency might look like. [S] [HD]</desc>
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="BBC News" start="20261107200000 +0000" stop="20261107203000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC. [S] [HD]</desc>
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="BBC News" start="20261107203000 +0000" stop="20261107210000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC. [S] [HD]</desc>
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="BBC News" start="20261107210000 +0000" stop="20261107213000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC. [S] [HD]</desc>
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="BBC News" start="20261107213000 +0000" stop="20261107220000 +0000">
+    <title lang="zh">AI Decoded</title>
+    <desc>Would you let AI walk around your home? We explore the growing race to put humanoid robots into our homes and workplaces. [S] [HD]</desc>
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="BBC News" start="20261107220000 +0000" stop="20261107223000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC. [S] [HD]</desc>
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="BBC News" start="20261107223000 +0000" stop="20261107230000 +0000">
+    <title lang="zh">The Media Show</title>
+    <desc>Analysis of social media's role in the protests across Europe, Russian state media narratives, and a new film following a Syrian family's journey for a decade. [S] [HD]</desc>
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="BBC News" start="20261107230000 +0000" stop="20261107233000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC. [S] [HD]</desc>
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="BBC News" start="20261107233000 +0000" stop="20261107234500 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC. [S] [HD]</desc>
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="BBC News" start="20261107234500 +0000" stop="20261108000000 +0000">
+    <title lang="zh">Newswatch</title>
+    <desc>Did BBC News devote too much airtime and too many correspondents to the midterm elections in the United States? [S] [HD]</desc>
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="BBC News" start="20261108000000 +0000" stop="20261109000000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC. [S] [HD]</desc>
+    <date>2026-11-08</date>
   </programme>
 <channel id="Bloomberg Originals">
     <display-name lang="Taiwan">Bloomberg Originals</display-name>
@@ -1903,96 +1883,6 @@
     <display-name lang="Taiwan">Bloomberg TV Asia</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612110916647263_66.png" />
   </channel>
-  <programme channel="Bloomberg TV Asia" start="20261105010000 +0000" stop="20261105030000 +0000">
-    <title lang="zh">Bloomberg: The China Show(普)</title>
-    <desc />
-    <date>2026-11-05</date>
-  </programme>
-  <programme channel="Bloomberg TV Asia" start="20261105030000 +0000" stop="20261105040000 +0000">
-    <title lang="zh">Insight with Haslinda Amin(普)</title>
-    <desc />
-    <date>2026-11-05</date>
-  </programme>
-  <programme channel="Bloomberg TV Asia" start="20261105040000 +0000" stop="20261105050000 +0000">
-    <title lang="zh">Bloomberg Horizons Middle East   Africa(普)</title>
-    <desc />
-    <date>2026-11-05</date>
-  </programme>
-  <programme channel="Bloomberg TV Asia" start="20261105050000 +0000" stop="20261105060000 +0000">
-    <title lang="zh">Bloomberg Daybreak: Europe(普)</title>
-    <desc />
-    <date>2026-11-05</date>
-  </programme>
-  <programme channel="Bloomberg TV Asia" start="20261105060000 +0000" stop="20261105080000 +0000">
-    <title lang="zh">Bloomberg: The Opening Trade(普)</title>
-    <desc />
-    <date>2026-11-05</date>
-  </programme>
-  <programme channel="Bloomberg TV Asia" start="20261105080000 +0000" stop="20261105090000 +0000">
-    <title lang="zh">The Pulse with Francine Lacqua(普)</title>
-    <desc />
-    <date>2026-11-05</date>
-  </programme>
-  <programme channel="Bloomberg TV Asia" start="20261105090000 +0000" stop="20261105100000 +0000">
-    <title lang="zh">Bloomberg Brief(普)</title>
-    <desc />
-    <date>2026-11-05</date>
-  </programme>
-  <programme channel="Bloomberg TV Asia" start="20261105100000 +0000" stop="20261105130000 +0000">
-    <title lang="zh">Bloomberg Surveillance(普)</title>
-    <desc />
-    <date>2026-11-05</date>
-  </programme>
-  <programme channel="Bloomberg TV Asia" start="20261105130000 +0000" stop="20261105150000 +0000">
-    <title lang="zh">Bloomberg Open Interest(普)</title>
-    <desc />
-    <date>2026-11-05</date>
-  </programme>
-  <programme channel="Bloomberg TV Asia" start="20261105150000 +0000" stop="20261105160000 +0000">
-    <title lang="zh">Bloomberg Tech(普)</title>
-    <desc />
-    <date>2026-11-05</date>
-  </programme>
-  <programme channel="Bloomberg TV Asia" start="20261105160000 +0000" stop="20261105170000 +0000">
-    <title lang="zh">Bloomberg Real Yield(普)</title>
-    <desc />
-    <date>2026-11-05</date>
-  </programme>
-  <programme channel="Bloomberg TV Asia" start="20261105170000 +0000" stop="20261105180000 +0000">
-    <title lang="zh">Bloomberg: Balance of Power(普)</title>
-    <desc />
-    <date>2026-11-05</date>
-  </programme>
-  <programme channel="Bloomberg TV Asia" start="20261105180000 +0000" stop="20261105190000 +0000">
-    <title lang="zh">Bloomberg Businessweek Daily(普)</title>
-    <desc />
-    <date>2026-11-05</date>
-  </programme>
-  <programme channel="Bloomberg TV Asia" start="20261105190000 +0000" stop="20261105210000 +0000">
-    <title lang="zh">Bloomberg The Close(普)</title>
-    <desc />
-    <date>2026-11-05</date>
-  </programme>
-  <programme channel="Bloomberg TV Asia" start="20261105210000 +0000" stop="20261105220000 +0000">
-    <title lang="zh">Bloomberg: Balance of Power(普)</title>
-    <desc />
-    <date>2026-11-05</date>
-  </programme>
-  <programme channel="Bloomberg TV Asia" start="20261105220000 +0000" stop="20261105223000 +0000">
-    <title lang="zh">Bloomberg Investigates(普)</title>
-    <desc />
-    <date>2026-11-05</date>
-  </programme>
-  <programme channel="Bloomberg TV Asia" start="20261105223000 +0000" stop="20261105230000 +0000">
-    <title lang="zh">Bloomberg Investigates(普)</title>
-    <desc />
-    <date>2026-11-05</date>
-  </programme>
-  <programme channel="Bloomberg TV Asia" start="20261105230000 +0000" stop="20261106000000 +0000">
-    <title lang="zh">Bloomberg The Asia Trade(普)</title>
-    <desc />
-    <date>2026-11-05</date>
-  </programme>
   <programme channel="Bloomberg TV Asia" start="20261106010000 +0000" stop="20261106030000 +0000">
     <title lang="zh">Bloomberg: The China Show(普)</title>
     <desc />
@@ -2083,105 +1973,195 @@
     <desc />
     <date>2026-11-06</date>
   </programme>
-  <programme channel="Bloomberg TV Asia" start="20261107000000 +0000" stop="20261108000000 +0000">
+  <programme channel="Bloomberg TV Asia" start="20261107000000 +0000" stop="20261107003000 +0000">
     <title lang="zh">Leaders with Francine Lacqua: The Podcast(普)</title>
     <desc />
     <date>2026-11-07</date>
+  </programme>
+  <programme channel="Bloomberg TV Asia" start="20261107003000 +0000" stop="20261107010000 +0000">
+    <title lang="zh">The Circuit(普)</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="Bloomberg TV Asia" start="20261107010000 +0000" stop="20261107013000 +0000">
+    <title lang="zh">The David Rubenstein Show(普)</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="Bloomberg TV Asia" start="20261107013000 +0000" stop="20261107020000 +0000">
+    <title lang="zh">Bloomberg Originals(普)</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="Bloomberg TV Asia" start="20261107020000 +0000" stop="20261107030000 +0000">
+    <title lang="zh">Bloomberg Wall Street Week(普)</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="Bloomberg TV Asia" start="20261107030000 +0000" stop="20261107033000 +0000">
+    <title lang="zh">The Circuit(普)</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="Bloomberg TV Asia" start="20261107033000 +0000" stop="20261107040000 +0000">
+    <title lang="zh">Posthuman(普)</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="Bloomberg TV Asia" start="20261107040000 +0000" stop="20261107050000 +0000">
+    <title lang="zh">The Deal with Alex Rodriguez and Jason Kelly(普)</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="Bloomberg TV Asia" start="20261107050000 +0000" stop="20261107053000 +0000">
+    <title lang="zh">Posthuman(普)</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="Bloomberg TV Asia" start="20261107053000 +0000" stop="20261107060000 +0000">
+    <title lang="zh">The Circuit(普)</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="Bloomberg TV Asia" start="20261107060000 +0000" stop="20261107063000 +0000">
+    <title lang="zh">The Mishal Husain Show(普)</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="Bloomberg TV Asia" start="20261107063000 +0000" stop="20261107070000 +0000">
+    <title lang="zh">The Mishal Husain Show(普)</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="Bloomberg TV Asia" start="20261107070000 +0000" stop="20261107080000 +0000">
+    <title lang="zh">Bloomberg Wall Street Week(普)</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="Bloomberg TV Asia" start="20261107080000 +0000" stop="20261107083000 +0000">
+    <title lang="zh">Bloomberg Originals(普)</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="Bloomberg TV Asia" start="20261107083000 +0000" stop="20261107090000 +0000">
+    <title lang="zh">Posthuman(普)</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="Bloomberg TV Asia" start="20261107090000 +0000" stop="20261107093000 +0000">
+    <title lang="zh">Bloomberg New Economy: Thriving in an Age of Extremes(普)</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="Bloomberg TV Asia" start="20261107093000 +0000" stop="20261107100000 +0000">
+    <title lang="zh">The Mishal Husain Show(普)</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="Bloomberg TV Asia" start="20261107100000 +0000" stop="20261107110000 +0000">
+    <title lang="zh">Bloomberg Wall Street Week(普)</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="Bloomberg TV Asia" start="20261107110000 +0000" stop="20261107140000 +0000">
+    <title lang="zh">Bloomberg This Weekend(普)</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="Bloomberg TV Asia" start="20261107140000 +0000" stop="20261107150000 +0000">
+    <title lang="zh">Bloomberg Wall Street Week(普)</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="Bloomberg TV Asia" start="20261107150000 +0000" stop="20261107153000 +0000">
+    <title lang="zh">The Mishal Husain Show(普)</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="Bloomberg TV Asia" start="20261107153000 +0000" stop="20261107160000 +0000">
+    <title lang="zh">The David Rubenstein Show(普)</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="Bloomberg TV Asia" start="20261107160000 +0000" stop="20261107163000 +0000">
+    <title lang="zh">Best of Bloomberg Invest 2026(普)</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="Bloomberg TV Asia" start="20261107163000 +0000" stop="20261107170000 +0000">
+    <title lang="zh">Bloomberg Originals(普)</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="Bloomberg TV Asia" start="20261107170000 +0000" stop="20261107173000 +0000">
+    <title lang="zh">Leaders with Francine Lacqua: The Podcast(普)</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="Bloomberg TV Asia" start="20261107173000 +0000" stop="20261107180000 +0000">
+    <title lang="zh">The David Rubenstein Show(普)</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="Bloomberg TV Asia" start="20261107180000 +0000" stop="20261107183000 +0000">
+    <title lang="zh">Bloomberg Investigates(普)</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="Bloomberg TV Asia" start="20261107183000 +0000" stop="20261107190000 +0000">
+    <title lang="zh">Bloomberg Primer(普)</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="Bloomberg TV Asia" start="20261107190000 +0000" stop="20261107200000 +0000">
+    <title lang="zh">Bloomberg Primer(普)</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="Bloomberg TV Asia" start="20261107200000 +0000" stop="20261107210000 +0000">
+    <title lang="zh">The Deal with Alex Rodriguez and Jason Kelly(普)</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="Bloomberg TV Asia" start="20261107210000 +0000" stop="20261107213000 +0000">
+    <title lang="zh">Leaders with Francine Lacqua: The Podcast(普)</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="Bloomberg TV Asia" start="20261107213000 +0000" stop="20261107220000 +0000">
+    <title lang="zh">The Circuit(普)</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="Bloomberg TV Asia" start="20261107220000 +0000" stop="20261107223000 +0000">
+    <title lang="zh">The Mishal Husain Show(普)</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="Bloomberg TV Asia" start="20261107223000 +0000" stop="20261107230000 +0000">
+    <title lang="zh">The Mishal Husain Show(普)</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="Bloomberg TV Asia" start="20261107230000 +0000" stop="20261107233000 +0000">
+    <title lang="zh">Bloomberg Investigates(普)</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="Bloomberg TV Asia" start="20261107233000 +0000" stop="20261108000000 +0000">
+    <title lang="zh">Bloomberg Originals(普)</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="Bloomberg TV Asia" start="20261108000000 +0000" stop="20261109000000 +0000">
+    <title lang="zh">Best of Bloomberg Invest 2026(普)</title>
+    <desc />
+    <date>2026-11-08</date>
   </programme>
 <channel id="Bloomberg TV Asia Live Event">
     <display-name lang="Taiwan">Bloomberg TV Asia Live Event</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612110916647263_66.png" />
   </channel>
-  <programme channel="Bloomberg TV Asia Live Event" start="20261105010000 +0000" stop="20261105030000 +0000">
-    <title lang="zh">Bloomberg: The China Show(普)</title>
-    <desc />
-    <date>2026-11-05</date>
-  </programme>
-  <programme channel="Bloomberg TV Asia Live Event" start="20261105030000 +0000" stop="20261105040000 +0000">
-    <title lang="zh">Insight with Haslinda Amin(普)</title>
-    <desc />
-    <date>2026-11-05</date>
-  </programme>
-  <programme channel="Bloomberg TV Asia Live Event" start="20261105040000 +0000" stop="20261105050000 +0000">
-    <title lang="zh">Bloomberg Horizons Middle East   Africa(普)</title>
-    <desc />
-    <date>2026-11-05</date>
-  </programme>
-  <programme channel="Bloomberg TV Asia Live Event" start="20261105050000 +0000" stop="20261105060000 +0000">
-    <title lang="zh">Bloomberg Daybreak: Europe(普)</title>
-    <desc />
-    <date>2026-11-05</date>
-  </programme>
-  <programme channel="Bloomberg TV Asia Live Event" start="20261105060000 +0000" stop="20261105080000 +0000">
-    <title lang="zh">Bloomberg: The Opening Trade(普)</title>
-    <desc />
-    <date>2026-11-05</date>
-  </programme>
-  <programme channel="Bloomberg TV Asia Live Event" start="20261105080000 +0000" stop="20261105090000 +0000">
-    <title lang="zh">The Pulse with Francine Lacqua(普)</title>
-    <desc />
-    <date>2026-11-05</date>
-  </programme>
-  <programme channel="Bloomberg TV Asia Live Event" start="20261105090000 +0000" stop="20261105100000 +0000">
-    <title lang="zh">Bloomberg Brief(普)</title>
-    <desc />
-    <date>2026-11-05</date>
-  </programme>
-  <programme channel="Bloomberg TV Asia Live Event" start="20261105100000 +0000" stop="20261105130000 +0000">
-    <title lang="zh">Bloomberg Surveillance(普)</title>
-    <desc />
-    <date>2026-11-05</date>
-  </programme>
-  <programme channel="Bloomberg TV Asia Live Event" start="20261105130000 +0000" stop="20261105150000 +0000">
-    <title lang="zh">Bloomberg Open Interest(普)</title>
-    <desc />
-    <date>2026-11-05</date>
-  </programme>
-  <programme channel="Bloomberg TV Asia Live Event" start="20261105150000 +0000" stop="20261105160000 +0000">
-    <title lang="zh">Bloomberg Tech(普)</title>
-    <desc />
-    <date>2026-11-05</date>
-  </programme>
-  <programme channel="Bloomberg TV Asia Live Event" start="20261105160000 +0000" stop="20261105170000 +0000">
-    <title lang="zh">Bloomberg Real Yield(普)</title>
-    <desc />
-    <date>2026-11-05</date>
-  </programme>
-  <programme channel="Bloomberg TV Asia Live Event" start="20261105170000 +0000" stop="20261105180000 +0000">
-    <title lang="zh">Bloomberg: Balance of Power(普)</title>
-    <desc />
-    <date>2026-11-05</date>
-  </programme>
-  <programme channel="Bloomberg TV Asia Live Event" start="20261105180000 +0000" stop="20261105190000 +0000">
-    <title lang="zh">Bloomberg Businessweek Daily(普)</title>
-    <desc />
-    <date>2026-11-05</date>
-  </programme>
-  <programme channel="Bloomberg TV Asia Live Event" start="20261105190000 +0000" stop="20261105210000 +0000">
-    <title lang="zh">Bloomberg The Close(普)</title>
-    <desc />
-    <date>2026-11-05</date>
-  </programme>
-  <programme channel="Bloomberg TV Asia Live Event" start="20261105210000 +0000" stop="20261105220000 +0000">
-    <title lang="zh">Bloomberg: Balance of Power(普)</title>
-    <desc />
-    <date>2026-11-05</date>
-  </programme>
-  <programme channel="Bloomberg TV Asia Live Event" start="20261105220000 +0000" stop="20261105223000 +0000">
-    <title lang="zh">Bloomberg Investigates(普)</title>
-    <desc />
-    <date>2026-11-05</date>
-  </programme>
-  <programme channel="Bloomberg TV Asia Live Event" start="20261105223000 +0000" stop="20261105230000 +0000">
-    <title lang="zh">Bloomberg Investigates(普)</title>
-    <desc />
-    <date>2026-11-05</date>
-  </programme>
-  <programme channel="Bloomberg TV Asia Live Event" start="20261105230000 +0000" stop="20261106000000 +0000">
-    <title lang="zh">Bloomberg The Asia Trade(普)</title>
-    <desc />
-    <date>2026-11-05</date>
-  </programme>
   <programme channel="Bloomberg TV Asia Live Event" start="20261106010000 +0000" stop="20261106030000 +0000">
     <title lang="zh">Bloomberg: The China Show(普)</title>
     <desc />
@@ -2272,10 +2252,190 @@
     <desc />
     <date>2026-11-06</date>
   </programme>
-  <programme channel="Bloomberg TV Asia Live Event" start="20261107000000 +0000" stop="20261108000000 +0000">
+  <programme channel="Bloomberg TV Asia Live Event" start="20261107000000 +0000" stop="20261107003000 +0000">
     <title lang="zh">Leaders with Francine Lacqua: The Podcast(普)</title>
     <desc />
     <date>2026-11-07</date>
+  </programme>
+  <programme channel="Bloomberg TV Asia Live Event" start="20261107003000 +0000" stop="20261107010000 +0000">
+    <title lang="zh">The Circuit(普)</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="Bloomberg TV Asia Live Event" start="20261107010000 +0000" stop="20261107013000 +0000">
+    <title lang="zh">The David Rubenstein Show(普)</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="Bloomberg TV Asia Live Event" start="20261107013000 +0000" stop="20261107020000 +0000">
+    <title lang="zh">Bloomberg Originals(普)</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="Bloomberg TV Asia Live Event" start="20261107020000 +0000" stop="20261107030000 +0000">
+    <title lang="zh">Bloomberg Wall Street Week(普)</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="Bloomberg TV Asia Live Event" start="20261107030000 +0000" stop="20261107033000 +0000">
+    <title lang="zh">The Circuit(普)</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="Bloomberg TV Asia Live Event" start="20261107033000 +0000" stop="20261107040000 +0000">
+    <title lang="zh">Posthuman(普)</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="Bloomberg TV Asia Live Event" start="20261107040000 +0000" stop="20261107050000 +0000">
+    <title lang="zh">The Deal with Alex Rodriguez and Jason Kelly(普)</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="Bloomberg TV Asia Live Event" start="20261107050000 +0000" stop="20261107053000 +0000">
+    <title lang="zh">Posthuman(普)</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="Bloomberg TV Asia Live Event" start="20261107053000 +0000" stop="20261107060000 +0000">
+    <title lang="zh">The Circuit(普)</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="Bloomberg TV Asia Live Event" start="20261107060000 +0000" stop="20261107063000 +0000">
+    <title lang="zh">The Mishal Husain Show(普)</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="Bloomberg TV Asia Live Event" start="20261107063000 +0000" stop="20261107070000 +0000">
+    <title lang="zh">The Mishal Husain Show(普)</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="Bloomberg TV Asia Live Event" start="20261107070000 +0000" stop="20261107080000 +0000">
+    <title lang="zh">Bloomberg Wall Street Week(普)</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="Bloomberg TV Asia Live Event" start="20261107080000 +0000" stop="20261107083000 +0000">
+    <title lang="zh">Bloomberg Originals(普)</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="Bloomberg TV Asia Live Event" start="20261107083000 +0000" stop="20261107090000 +0000">
+    <title lang="zh">Posthuman(普)</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="Bloomberg TV Asia Live Event" start="20261107090000 +0000" stop="20261107093000 +0000">
+    <title lang="zh">Bloomberg New Economy: Thriving in an Age of Extremes(普)</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="Bloomberg TV Asia Live Event" start="20261107093000 +0000" stop="20261107100000 +0000">
+    <title lang="zh">The Mishal Husain Show(普)</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="Bloomberg TV Asia Live Event" start="20261107100000 +0000" stop="20261107110000 +0000">
+    <title lang="zh">Bloomberg Wall Street Week(普)</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="Bloomberg TV Asia Live Event" start="20261107110000 +0000" stop="20261107140000 +0000">
+    <title lang="zh">Bloomberg This Weekend(普)</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="Bloomberg TV Asia Live Event" start="20261107140000 +0000" stop="20261107150000 +0000">
+    <title lang="zh">Bloomberg Wall Street Week(普)</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="Bloomberg TV Asia Live Event" start="20261107150000 +0000" stop="20261107153000 +0000">
+    <title lang="zh">The Mishal Husain Show(普)</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="Bloomberg TV Asia Live Event" start="20261107153000 +0000" stop="20261107160000 +0000">
+    <title lang="zh">The David Rubenstein Show(普)</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="Bloomberg TV Asia Live Event" start="20261107160000 +0000" stop="20261107163000 +0000">
+    <title lang="zh">Best of Bloomberg Invest 2026(普)</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="Bloomberg TV Asia Live Event" start="20261107163000 +0000" stop="20261107170000 +0000">
+    <title lang="zh">Bloomberg Originals(普)</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="Bloomberg TV Asia Live Event" start="20261107170000 +0000" stop="20261107173000 +0000">
+    <title lang="zh">Leaders with Francine Lacqua: The Podcast(普)</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="Bloomberg TV Asia Live Event" start="20261107173000 +0000" stop="20261107180000 +0000">
+    <title lang="zh">The David Rubenstein Show(普)</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="Bloomberg TV Asia Live Event" start="20261107180000 +0000" stop="20261107183000 +0000">
+    <title lang="zh">Bloomberg Investigates(普)</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="Bloomberg TV Asia Live Event" start="20261107183000 +0000" stop="20261107190000 +0000">
+    <title lang="zh">Bloomberg Primer(普)</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="Bloomberg TV Asia Live Event" start="20261107190000 +0000" stop="20261107200000 +0000">
+    <title lang="zh">Bloomberg Primer(普)</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="Bloomberg TV Asia Live Event" start="20261107200000 +0000" stop="20261107210000 +0000">
+    <title lang="zh">The Deal with Alex Rodriguez and Jason Kelly(普)</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="Bloomberg TV Asia Live Event" start="20261107210000 +0000" stop="20261107213000 +0000">
+    <title lang="zh">Leaders with Francine Lacqua: The Podcast(普)</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="Bloomberg TV Asia Live Event" start="20261107213000 +0000" stop="20261107220000 +0000">
+    <title lang="zh">The Circuit(普)</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="Bloomberg TV Asia Live Event" start="20261107220000 +0000" stop="20261107223000 +0000">
+    <title lang="zh">The Mishal Husain Show(普)</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="Bloomberg TV Asia Live Event" start="20261107223000 +0000" stop="20261107230000 +0000">
+    <title lang="zh">The Mishal Husain Show(普)</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="Bloomberg TV Asia Live Event" start="20261107230000 +0000" stop="20261107233000 +0000">
+    <title lang="zh">Bloomberg Investigates(普)</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="Bloomberg TV Asia Live Event" start="20261107233000 +0000" stop="20261108000000 +0000">
+    <title lang="zh">Bloomberg Originals(普)</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="Bloomberg TV Asia Live Event" start="20261108000000 +0000" stop="20261109000000 +0000">
+    <title lang="zh">Best of Bloomberg Invest 2026(普)</title>
+    <desc />
+    <date>2026-11-08</date>
   </programme>
 <channel id="Bloomberg TV Europe">
     <display-name lang="Germany">Bloomberg TV Europe</display-name>
@@ -3523,6 +3683,11 @@
     <desc>(US TX: 5 Nov 2026).</desc>
     <date>2026-11-07</date>
   </programme>
+  <programme channel="CNBC" start="20261108000000 +0000" stop="20261109000000 +0000">
+    <title lang="zh">Late Night with Seth Meyers</title>
+    <desc>Seth Meyers with guests Rosie O'Donnell and James Norton. (US TX: 23 Jul 2026).</desc>
+    <date>2026-11-08</date>
+  </programme>
 <channel id="CNN Prima News">
     <display-name lang="United Kingdom of Great Britain and Northern Ireland">CNN Prima News</display-name>
     <icon src="" />
@@ -3826,6 +3991,11 @@
     <title lang="zh">CNN Newsroom Saturday</title>
     <desc>Saturday, November 7, 2026 6PM. Updates of the latest news from around the world.</desc>
     <date>2026-11-07</date>
+  </programme>
+  <programme channel="CNN Prima News" start="20261108000000 +0000" stop="20261109000000 +0000">
+    <title lang="zh">CNN Newsroom Saturday</title>
+    <desc>Saturday, November 7, 2026 7PM. Updates of the latest news from around the world.</desc>
+    <date>2026-11-08</date>
   </programme>
 <channel id="LiveNOW from FOX">
     <display-name lang="Singapore">LiveNOW from FOX</display-name>
@@ -12706,10 +12876,175 @@
     <desc />
     <date>2026-11-06</date>
   </programme>
-  <programme channel="北京卫视" start="20261106153500 +0000" stop="20261107000000 +0000">
+  <programme channel="北京卫视" start="20261106153500 +0000" stop="20261106162700 +0000">
     <title lang="zh">红星剧场</title>
     <desc />
     <date>2026-11-06</date>
+  </programme>
+  <programme channel="北京卫视" start="20261106162700 +0000" stop="20261106163500 +0000">
+    <title lang="zh">晚间气象服务</title>
+    <desc />
+    <date>2026-11-06</date>
+  </programme>
+  <programme channel="北京卫视" start="20261106163500 +0000" stop="20261106173000 +0000">
+    <title lang="zh">上新了故宫(重播)</title>
+    <desc />
+    <date>2026-11-06</date>
+  </programme>
+  <programme channel="北京卫视" start="20261106173000 +0000" stop="20261106181500 +0000">
+    <title lang="zh">好梦剧场:鲲鹏击浪</title>
+    <desc />
+    <date>2026-11-06</date>
+  </programme>
+  <programme channel="北京卫视" start="20261106181500 +0000" stop="20261106190100 +0000">
+    <title lang="zh">好梦剧场:鲲鹏击浪</title>
+    <desc />
+    <date>2026-11-06</date>
+  </programme>
+  <programme channel="北京卫视" start="20261106190100 +0000" stop="20261106203200 +0000">
+    <title lang="zh">好梦剧场:鲲鹏击浪</title>
+    <desc />
+    <date>2026-11-06</date>
+  </programme>
+  <programme channel="北京卫视" start="20261106203200 +0000" stop="20261106210000 +0000">
+    <title lang="zh">养心堂</title>
+    <desc />
+    <date>2026-11-06</date>
+  </programme>
+  <programme channel="北京卫视" start="20261106210000 +0000" stop="20261106220100 +0000">
+    <title lang="zh">养生堂(重播)</title>
+    <desc />
+    <date>2026-11-06</date>
+  </programme>
+  <programme channel="北京卫视" start="20261106220100 +0000" stop="20261106222000 +0000">
+    <title lang="zh">法治进行时</title>
+    <desc />
+    <date>2026-11-06</date>
+  </programme>
+  <programme channel="北京卫视" start="20261106222000 +0000" stop="20261106225500 +0000">
+    <title lang="zh">养生堂(重播)</title>
+    <desc />
+    <date>2026-11-06</date>
+  </programme>
+  <programme channel="北京卫视" start="20261106225500 +0000" stop="20261106230000 +0000">
+    <title lang="zh">早间气象服务</title>
+    <desc />
+    <date>2026-11-06</date>
+  </programme>
+  <programme channel="北京卫视" start="20261106230000 +0000" stop="20261107000000 +0000">
+    <title lang="zh">北京您早</title>
+    <desc />
+    <date>2026-11-06</date>
+  </programme>
+  <programme channel="北京卫视" start="20261107003500 +0000" stop="20261107012200 +0000">
+    <title lang="zh">上午剧场:琅琊榜(17)</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="北京卫视" start="20261107012200 +0000" stop="20261107021000 +0000">
+    <title lang="zh">上午剧场:琅琊榜(18)</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="北京卫视" start="20261107021000 +0000" stop="20261107025200 +0000">
+    <title lang="zh">上午剧场:琅琊榜(19)</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="北京卫视" start="20261107025200 +0000" stop="20261107040000 +0000">
+    <title lang="zh">上午剧场:琅琊榜(20)</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="北京卫视" start="20261107040000 +0000" stop="20261107045800 +0000">
+    <title lang="zh">特别关注</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="北京卫视" start="20261107045800 +0000" stop="20261107050600 +0000">
+    <title lang="zh">午间气象服务</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="北京卫视" start="20261107050600 +0000" stop="20261107051800 +0000">
+    <title lang="zh">我的桃花源</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="北京卫视" start="20261107051800 +0000" stop="20261107060500 +0000">
+    <title lang="zh">午茶剧场:知否知否应是绿肥红瘦(44)</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="北京卫视" start="20261107060500 +0000" stop="20261107065100 +0000">
+    <title lang="zh">午茶剧场:知否知否应是绿肥红瘦(45)</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="北京卫视" start="20261107065100 +0000" stop="20261107073900 +0000">
+    <title lang="zh">午茶剧场:知否知否应是绿肥红瘦(46)</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="北京卫视" start="20261107073900 +0000" stop="20261107082600 +0000">
+    <title lang="zh">午茶剧场:知否知否应是绿肥红瘦(47)</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="北京卫视" start="20261107082600 +0000" stop="20261107090800 +0000">
+    <title lang="zh">午茶剧场:知否知否应是绿肥红瘦(48)</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="北京卫视" start="20261107090800 +0000" stop="20261107092500 +0000">
+    <title lang="zh">暖暖的味道精华版</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="北京卫视" start="20261107092500 +0000" stop="20261107103000 +0000">
+    <title lang="zh">养生堂</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="北京卫视" start="20261107103000 +0000" stop="20261107105400 +0000">
+    <title lang="zh">北京新闻</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="北京卫视" start="20261107105400 +0000" stop="20261107110000 +0000">
+    <title lang="zh">北京天气预报</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="北京卫视" start="20261107110000 +0000" stop="20261107113100 +0000">
+    <title lang="zh">转播央视新闻联播</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="北京卫视" start="20261107113100 +0000" stop="20261107122000 +0000">
+    <title lang="zh">品质剧场:小城良方(14)</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="北京卫视" start="20261107122000 +0000" stop="20261107132900 +0000">
+    <title lang="zh">大使的宝藏家宴</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="北京卫视" start="20261107132900 +0000" stop="20261107142500 +0000">
+    <title lang="zh">大使的宝藏家宴</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="北京卫视" start="20261107142500 +0000" stop="20261107154800 +0000">
+    <title lang="zh">红星剧场:好好的时光</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="北京卫视" start="20261107154800 +0000" stop="20261108000000 +0000">
+    <title lang="zh">红星剧场:好好的时光</title>
+    <desc />
+    <date>2026-11-07</date>
   </programme>
 <channel id="东方卫视">
     <display-name lang="China">东方卫视</display-name>
@@ -12840,10 +13175,205 @@
     <desc />
     <date>2026-11-06</date>
   </programme>
-  <programme channel="东方卫视" start="20261106154400 +0000" stop="20261107000000 +0000">
+  <programme channel="东方卫视" start="20261106154400 +0000" stop="20261106162700 +0000">
     <title lang="zh">我是刑警(1)</title>
     <desc />
     <date>2026-11-06</date>
+  </programme>
+  <programme channel="东方卫视" start="20261106162700 +0000" stop="20261106170800 +0000">
+    <title lang="zh">我是刑警(2)</title>
+    <desc />
+    <date>2026-11-06</date>
+  </programme>
+  <programme channel="东方卫视" start="20261106170800 +0000" stop="20261106171100 +0000">
+    <title lang="zh">明日精彩看点</title>
+    <desc />
+    <date>2026-11-06</date>
+  </programme>
+  <programme channel="东方卫视" start="20261106171100 +0000" stop="20261106175400 +0000">
+    <title lang="zh">我是刑警(3)</title>
+    <desc />
+    <date>2026-11-06</date>
+  </programme>
+  <programme channel="东方卫视" start="20261106175400 +0000" stop="20261106183600 +0000">
+    <title lang="zh">我是刑警(4)</title>
+    <desc />
+    <date>2026-11-06</date>
+  </programme>
+  <programme channel="东方卫视" start="20261106183600 +0000" stop="20261106183900 +0000">
+    <title lang="zh">明日精彩看点</title>
+    <desc />
+    <date>2026-11-06</date>
+  </programme>
+  <programme channel="东方卫视" start="20261106183900 +0000" stop="20261106192200 +0000">
+    <title lang="zh">我是刑警(5)</title>
+    <desc />
+    <date>2026-11-06</date>
+  </programme>
+  <programme channel="东方卫视" start="20261106192200 +0000" stop="20261106200500 +0000">
+    <title lang="zh">我是刑警(6)</title>
+    <desc />
+    <date>2026-11-06</date>
+  </programme>
+  <programme channel="东方卫视" start="20261106200500 +0000" stop="20261106204600 +0000">
+    <title lang="zh">我是刑警(7)</title>
+    <desc />
+    <date>2026-11-06</date>
+  </programme>
+  <programme channel="东方卫视" start="20261106204600 +0000" stop="20261106205000 +0000">
+    <title lang="zh">明日精彩看点</title>
+    <desc />
+    <date>2026-11-06</date>
+  </programme>
+  <programme channel="东方卫视" start="20261106205000 +0000" stop="20261106213300 +0000">
+    <title lang="zh">我是刑警(8)</title>
+    <desc />
+    <date>2026-11-06</date>
+  </programme>
+  <programme channel="东方卫视" start="20261106213300 +0000" stop="20261106221500 +0000">
+    <title lang="zh">我是刑警(9)</title>
+    <desc />
+    <date>2026-11-06</date>
+  </programme>
+  <programme channel="东方卫视" start="20261106221500 +0000" stop="20261106230000 +0000">
+    <title lang="zh">我是刑警(10)</title>
+    <desc />
+    <date>2026-11-06</date>
+  </programme>
+  <programme channel="东方卫视" start="20261106230000 +0000" stop="20261106230100 +0000">
+    <title lang="zh">中华人民共和国国歌</title>
+    <desc />
+    <date>2026-11-06</date>
+  </programme>
+  <programme channel="东方卫视" start="20261106230100 +0000" stop="20261107000000 +0000">
+    <title lang="zh">看东方</title>
+    <desc />
+    <date>2026-11-06</date>
+  </programme>
+  <programme channel="东方卫视" start="20261107005900 +0000" stop="20261107010200 +0000">
+    <title lang="zh">天气预报</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="东方卫视" start="20261107010200 +0000" stop="20261107012100 +0000">
+    <title lang="zh">美人余(2)(重播)</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="东方卫视" start="20261107012100 +0000" stop="20261107020100 +0000">
+    <title lang="zh">美人余(3)(重播)</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="东方卫视" start="20261107020100 +0000" stop="20261107023900 +0000">
+    <title lang="zh">美人余(4)(重播)</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="东方卫视" start="20261107023900 +0000" stop="20261107031900 +0000">
+    <title lang="zh">美人余(5)(重播)</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="东方卫视" start="20261107031900 +0000" stop="20261107040000 +0000">
+    <title lang="zh">美人余(6)(重播)</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="东方卫视" start="20261107040000 +0000" stop="20261107050100 +0000">
+    <title lang="zh">第九届进博会全媒体直播特别报道</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="东方卫视" start="20261107050100 +0000" stop="20261107054200 +0000">
+    <title lang="zh">逐玉(10)</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="东方卫视" start="20261107054200 +0000" stop="20261107062600 +0000">
+    <title lang="zh">逐玉(11)</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="东方卫视" start="20261107062600 +0000" stop="20261107071000 +0000">
+    <title lang="zh">逐玉(12)</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="东方卫视" start="20261107071000 +0000" stop="20261107075300 +0000">
+    <title lang="zh">逐玉(13)</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="东方卫视" start="20261107075300 +0000" stop="20261107083500 +0000">
+    <title lang="zh">逐玉(14)</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="东方卫视" start="20261107083500 +0000" stop="20261107091800 +0000">
+    <title lang="zh">逐玉(15)</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="东方卫视" start="20261107091800 +0000" stop="20261107100000 +0000">
+    <title lang="zh">逐玉(16)</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="东方卫视" start="20261107100000 +0000" stop="20261107105700 +0000">
+    <title lang="zh">东方新闻</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="东方卫视" start="20261107105700 +0000" stop="20261107110000 +0000">
+    <title lang="zh">天气预报</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="东方卫视" start="20261107110000 +0000" stop="20261107113100 +0000">
+    <title lang="zh">转播中央台新闻联播</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="东方卫视" start="20261107113100 +0000" stop="20261107121300 +0000">
+    <title lang="zh">小城良方(16)</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="东方卫视" start="20261107121300 +0000" stop="20261107122000 +0000">
+    <title lang="zh">明日精彩看点</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="东方卫视" start="20261107122000 +0000" stop="20261107131100 +0000">
+    <title lang="zh">一路前行第三季(3)</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="东方卫视" start="20261107131100 +0000" stop="20261107134900 +0000">
+    <title lang="zh">暗潮缉凶(7)</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="东方卫视" start="20261107134900 +0000" stop="20261107142500 +0000">
+    <title lang="zh">暗潮缉凶(8)</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="东方卫视" start="20261107142500 +0000" stop="20261107150400 +0000">
+    <title lang="zh">暗潮缉凶(9)</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="东方卫视" start="20261107150400 +0000" stop="20261107154800 +0000">
+    <title lang="zh">我是刑警(11)</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="东方卫视" start="20261107154800 +0000" stop="20261108000000 +0000">
+    <title lang="zh">我是刑警(12)</title>
+    <desc />
+    <date>2026-11-07</date>
   </programme>
 <channel id="广东卫视">
     <display-name lang="China">广东卫视</display-name>
@@ -12954,10 +13484,155 @@
     <desc />
     <date>2026-11-06</date>
   </programme>
-  <programme channel="广东卫视" start="20261106155000 +0000" stop="20261107000000 +0000">
+  <programme channel="广东卫视" start="20261106155000 +0000" stop="20261106174600 +0000">
     <title lang="zh">活力影院</title>
     <desc />
     <date>2026-11-06</date>
+  </programme>
+  <programme channel="广东卫视" start="20261106174600 +0000" stop="20261106181200 +0000">
+    <title lang="zh">南岭物语</title>
+    <desc />
+    <date>2026-11-06</date>
+  </programme>
+  <programme channel="广东卫视" start="20261106181200 +0000" stop="20261106203500 +0000">
+    <title lang="zh">老广的味道</title>
+    <desc />
+    <date>2026-11-06</date>
+  </programme>
+  <programme channel="广东卫视" start="20261106203500 +0000" stop="20261106204700 +0000">
+    <title lang="zh">纪录片</title>
+    <desc />
+    <date>2026-11-06</date>
+  </programme>
+  <programme channel="广东卫视" start="20261106204700 +0000" stop="20261106211800 +0000">
+    <title lang="zh">纪录片</title>
+    <desc />
+    <date>2026-11-06</date>
+  </programme>
+  <programme channel="广东卫视" start="20261106211800 +0000" stop="20261106220400 +0000">
+    <title lang="zh">早间剧场</title>
+    <desc />
+    <date>2026-11-06</date>
+  </programme>
+  <programme channel="广东卫视" start="20261106220400 +0000" stop="20261106230000 +0000">
+    <title lang="zh">粤港澳大湾区</title>
+    <desc />
+    <date>2026-11-06</date>
+  </programme>
+  <programme channel="广东卫视" start="20261106230000 +0000" stop="20261106233000 +0000">
+    <title lang="zh">广东新闻联播</title>
+    <desc />
+    <date>2026-11-06</date>
+  </programme>
+  <programme channel="广东卫视" start="20261106233000 +0000" stop="20261107000000 +0000">
+    <title lang="zh">动画片剧场</title>
+    <desc />
+    <date>2026-11-06</date>
+  </programme>
+  <programme channel="广东卫视" start="20261107002400 +0000" stop="20261107010500 +0000">
+    <title lang="zh">上午剧场:尖刀出鞘(16)</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="广东卫视" start="20261107010500 +0000" stop="20261107014700 +0000">
+    <title lang="zh">上午剧场:尖刀出鞘(17)</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="广东卫视" start="20261107014700 +0000" stop="20261107022900 +0000">
+    <title lang="zh">上午剧场:尖刀出鞘(18)</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="广东卫视" start="20261107022900 +0000" stop="20261107031100 +0000">
+    <title lang="zh">上午剧场:尖刀出鞘(19)</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="广东卫视" start="20261107031100 +0000" stop="20261107035300 +0000">
+    <title lang="zh">上午剧场:尖刀出鞘(20)</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="广东卫视" start="20261107035300 +0000" stop="20261107044000 +0000">
+    <title lang="zh">上午剧场:尖刀出鞘(21)</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="广东卫视" start="20261107044000 +0000" stop="20261107054000 +0000">
+    <title lang="zh">老广的味道</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="广东卫视" start="20261107054000 +0000" stop="20261107062600 +0000">
+    <title lang="zh">下午茶剧场:天狼星行动(11)</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="广东卫视" start="20261107062600 +0000" stop="20261107070300 +0000">
+    <title lang="zh">下午茶剧场:天狼星行动(12)</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="广东卫视" start="20261107070300 +0000" stop="20261107075900 +0000">
+    <title lang="zh">下午茶剧场:天狼星行动(13)</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="广东卫视" start="20261107075900 +0000" stop="20261107085100 +0000">
+    <title lang="zh">下午茶剧场:天狼星行动(14)</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="广东卫视" start="20261107085100 +0000" stop="20261107094500 +0000">
+    <title lang="zh">下午茶剧场:天狼星行动(15)</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="广东卫视" start="20261107094500 +0000" stop="20261107095500 +0000">
+    <title lang="zh">下午茶剧场:天狼星行动(16)</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="广东卫视" start="20261107095500 +0000" stop="20261107103000 +0000">
+    <title lang="zh">生活大数据</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="广东卫视" start="20261107103000 +0000" stop="20261107105600 +0000">
+    <title lang="zh">广东新闻联播</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="广东卫视" start="20261107105600 +0000" stop="20261107110000 +0000">
+    <title lang="zh">广东天气预报</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="广东卫视" start="20261107110000 +0000" stop="20261107113300 +0000">
+    <title lang="zh">转播中央台新闻联播</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="广东卫视" start="20261107113300 +0000" stop="20261107122900 +0000">
+    <title lang="zh">活力剧场:醒来(15)</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="广东卫视" start="20261107122900 +0000" stop="20261107131000 +0000">
+    <title lang="zh">活力剧场:醒来(16)</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="广东卫视" start="20261107131000 +0000" stop="20261107144700 +0000">
+    <title lang="zh">秘境神草第四季</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="广东卫视" start="20261107144700 +0000" stop="20261108000000 +0000">
+    <title lang="zh">活力影院</title>
+    <desc />
+    <date>2026-11-07</date>
   </programme>
 <channel id="浙江卫视">
     <display-name lang="China">浙江卫视</display-name>
@@ -13063,10 +13738,180 @@
     <desc />
     <date>2026-11-06</date>
   </programme>
-  <programme channel="浙江卫视" start="20261106152400 +0000" stop="20261107000000 +0000">
+  <programme channel="浙江卫视" start="20261106152400 +0000" stop="20261106153600 +0000">
     <title lang="zh">重播天赐的声音</title>
     <desc />
     <date>2026-11-06</date>
+  </programme>
+  <programme channel="浙江卫视" start="20261106153600 +0000" stop="20261106163400 +0000">
+    <title lang="zh">奔跑吧14(260619 第14季第9期)03正片下</title>
+    <desc />
+    <date>2026-11-06</date>
+  </programme>
+  <programme channel="浙江卫视" start="20261106163400 +0000" stop="20261106165700 +0000">
+    <title lang="zh">中国好时节</title>
+    <desc />
+    <date>2026-11-06</date>
+  </programme>
+  <programme channel="浙江卫视" start="20261106165700 +0000" stop="20261106182000 +0000">
+    <title lang="zh">还有诗和远方</title>
+    <desc />
+    <date>2026-11-06</date>
+  </programme>
+  <programme channel="浙江卫视" start="20261106182000 +0000" stop="20261106182200 +0000">
+    <title lang="zh">气象</title>
+    <desc />
+    <date>2026-11-06</date>
+  </programme>
+  <programme channel="浙江卫视" start="20261106182200 +0000" stop="20261106184900 +0000">
+    <title lang="zh">新闻深一度</title>
+    <desc />
+    <date>2026-11-06</date>
+  </programme>
+  <programme channel="浙江卫视" start="20261106184900 +0000" stop="20261106193400 +0000">
+    <title lang="zh">南宋</title>
+    <desc />
+    <date>2026-11-06</date>
+  </programme>
+  <programme channel="浙江卫视" start="20261106193400 +0000" stop="20261106195900 +0000">
+    <title lang="zh">中国村落</title>
+    <desc />
+    <date>2026-11-06</date>
+  </programme>
+  <programme channel="浙江卫视" start="20261106195900 +0000" stop="20261106211300 +0000">
+    <title lang="zh">西湖</title>
+    <desc />
+    <date>2026-11-06</date>
+  </programme>
+  <programme channel="浙江卫视" start="20261106211300 +0000" stop="20261106223300 +0000">
+    <title lang="zh">预见2050</title>
+    <desc />
+    <date>2026-11-06</date>
+  </programme>
+  <programme channel="浙江卫视" start="20261106223300 +0000" stop="20261106230000 +0000">
+    <title lang="zh">新闻深一度</title>
+    <desc />
+    <date>2026-11-06</date>
+  </programme>
+  <programme channel="浙江卫视" start="20261106230000 +0000" stop="20261106232600 +0000">
+    <title lang="zh">浙江新闻联播</title>
+    <desc />
+    <date>2026-11-06</date>
+  </programme>
+  <programme channel="浙江卫视" start="20261106232600 +0000" stop="20261107000000 +0000">
+    <title lang="zh">经典剧场:百花杀(29)</title>
+    <desc />
+    <date>2026-11-06</date>
+  </programme>
+  <programme channel="浙江卫视" start="20261107001100 +0000" stop="20261107005600 +0000">
+    <title lang="zh">经典剧场:百花杀(30)</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="浙江卫视" start="20261107005600 +0000" stop="20261107014200 +0000">
+    <title lang="zh">经典剧场:百花杀(31)</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="浙江卫视" start="20261107014200 +0000" stop="20261107022800 +0000">
+    <title lang="zh">经典剧场:百花杀(32)</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="浙江卫视" start="20261107022800 +0000" stop="20261107031100 +0000">
+    <title lang="zh">经典剧场:百花杀(33)</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="浙江卫视" start="20261107031100 +0000" stop="20261107035100 +0000">
+    <title lang="zh">经典剧场:百花杀(34)</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="浙江卫视" start="20261107035100 +0000" stop="20261107043000 +0000">
+    <title lang="zh">经典剧场:百花杀(35)</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="浙江卫视" start="20261107043000 +0000" stop="20261107050200 +0000">
+    <title lang="zh">越看越有戏</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="浙江卫视" start="20261107050200 +0000" stop="20261107060100 +0000">
+    <title lang="zh">百姓剧场:怒江之战(25)</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="浙江卫视" start="20261107060100 +0000" stop="20261107064500 +0000">
+    <title lang="zh">百姓剧场:怒江之战(26)</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="浙江卫视" start="20261107064500 +0000" stop="20261107073000 +0000">
+    <title lang="zh">百姓剧场:怒江之战(27)</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="浙江卫视" start="20261107073000 +0000" stop="20261107080400 +0000">
+    <title lang="zh">百姓剧场:怒江之战(28)</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="浙江卫视" start="20261107080400 +0000" stop="20261107085000 +0000">
+    <title lang="zh">百姓剧场:怒江之战(29)</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="浙江卫视" start="20261107085000 +0000" stop="20261107095800 +0000">
+    <title lang="zh">百姓剧场:怒江之战(30)</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="浙江卫视" start="20261107095800 +0000" stop="20261107100000 +0000">
+    <title lang="zh">天气向导</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="浙江卫视" start="20261107100000 +0000" stop="20261107103000 +0000">
+    <title lang="zh">周末面孔</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="浙江卫视" start="20261107103000 +0000" stop="20261107105000 +0000">
+    <title lang="zh">浙江新闻联播</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="浙江卫视" start="20261107105000 +0000" stop="20261107110000 +0000">
+    <title lang="zh">浙江天气预报</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="浙江卫视" start="20261107110000 +0000" stop="20261107113200 +0000">
+    <title lang="zh">转播中央电视台新闻联播</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="浙江卫视" start="20261107113200 +0000" stop="20261107120000 +0000">
+    <title lang="zh">中国蓝剧场:重器(22)</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="浙江卫视" start="20261107120000 +0000" stop="20261107135000 +0000">
+    <title lang="zh">天声一对</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="浙江卫视" start="20261107135000 +0000" stop="20261107154200 +0000">
+    <title lang="zh">炙热游戏-百厨大战</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="浙江卫视" start="20261107154200 +0000" stop="20261108000000 +0000">
+    <title lang="zh">天声一对</title>
+    <desc />
+    <date>2026-11-07</date>
   </programme>
 <channel id="江苏卫视">
     <display-name lang="China">江苏卫视</display-name>
@@ -13167,10 +14012,145 @@
     <desc />
     <date>2026-11-06</date>
   </programme>
-  <programme channel="江苏卫视" start="20261106151700 +0000" stop="20261107000000 +0000">
+  <programme channel="江苏卫视" start="20261106151700 +0000" stop="20261106164600 +0000">
     <title lang="zh">非来不可</title>
     <desc />
     <date>2026-11-06</date>
+  </programme>
+  <programme channel="江苏卫视" start="20261106164600 +0000" stop="20261106173500 +0000">
+    <title lang="zh">纪录片</title>
+    <desc />
+    <date>2026-11-06</date>
+  </programme>
+  <programme channel="江苏卫视" start="20261106173500 +0000" stop="20261106182300 +0000">
+    <title lang="zh">纪录片</title>
+    <desc />
+    <date>2026-11-06</date>
+  </programme>
+  <programme channel="江苏卫视" start="20261106182300 +0000" stop="20261106191200 +0000">
+    <title lang="zh">纪录片</title>
+    <desc />
+    <date>2026-11-06</date>
+  </programme>
+  <programme channel="江苏卫视" start="20261106191200 +0000" stop="20261106202200 +0000">
+    <title lang="zh">纪录片</title>
+    <desc />
+    <date>2026-11-06</date>
+  </programme>
+  <programme channel="江苏卫视" start="20261106202200 +0000" stop="20261106211300 +0000">
+    <title lang="zh">纪录片</title>
+    <desc />
+    <date>2026-11-06</date>
+  </programme>
+  <programme channel="江苏卫视" start="20261106211300 +0000" stop="20261106214200 +0000">
+    <title lang="zh">纪录片</title>
+    <desc />
+    <date>2026-11-06</date>
+  </programme>
+  <programme channel="江苏卫视" start="20261106214200 +0000" stop="20261106221900 +0000">
+    <title lang="zh">万家灯火</title>
+    <desc />
+    <date>2026-11-06</date>
+  </programme>
+  <programme channel="江苏卫视" start="20261106221900 +0000" stop="20261106230000 +0000">
+    <title lang="zh">纪录片</title>
+    <desc />
+    <date>2026-11-06</date>
+  </programme>
+  <programme channel="江苏卫视" start="20261106230000 +0000" stop="20261106232000 +0000">
+    <title lang="zh">江苏新时空</title>
+    <desc />
+    <date>2026-11-06</date>
+  </programme>
+  <programme channel="江苏卫视" start="20261106232000 +0000" stop="20261106233200 +0000">
+    <title lang="zh">看文化</title>
+    <desc />
+    <date>2026-11-06</date>
+  </programme>
+  <programme channel="江苏卫视" start="20261106233200 +0000" stop="20261107000000 +0000">
+    <title lang="zh">黄金时间</title>
+    <desc />
+    <date>2026-11-06</date>
+  </programme>
+  <programme channel="江苏卫视" start="20261107002100 +0000" stop="20261107010100 +0000">
+    <title lang="zh">上午剧场:冬城猎凶</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="江苏卫视" start="20261107010100 +0000" stop="20261107015900 +0000">
+    <title lang="zh">上午剧场:冬城猎凶</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="江苏卫视" start="20261107015900 +0000" stop="20261107040000 +0000">
+    <title lang="zh">银荔大剧秀</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="江苏卫视" start="20261107040000 +0000" stop="20261107043300 +0000">
+    <title lang="zh">正午江苏</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="江苏卫视" start="20261107043300 +0000" stop="20261107062100 +0000">
+    <title lang="zh">非诚勿扰(重播)</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="江苏卫视" start="20261107062100 +0000" stop="20261107082800 +0000">
+    <title lang="zh">非诚勿扰(重播)</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="江苏卫视" start="20261107082800 +0000" stop="20261107091300 +0000">
+    <title lang="zh">下午剧场:理想之城</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="江苏卫视" start="20261107091300 +0000" stop="20261107100000 +0000">
+    <title lang="zh">下午剧场:理想之城</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="江苏卫视" start="20261107100000 +0000" stop="20261107103000 +0000">
+    <title lang="zh">新闻眼</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="江苏卫视" start="20261107103000 +0000" stop="20261107105200 +0000">
+    <title lang="zh">江苏新时空</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="江苏卫视" start="20261107105200 +0000" stop="20261107110000 +0000">
+    <title lang="zh">时空气象站</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="江苏卫视" start="20261107110000 +0000" stop="20261107113200 +0000">
+    <title lang="zh">转播中央台新闻联播</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="江苏卫视" start="20261107113200 +0000" stop="20261107122400 +0000">
+    <title lang="zh">幸福剧场:折月亮(4)</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="江苏卫视" start="20261107122400 +0000" stop="20261107135300 +0000">
+    <title lang="zh">非诚勿扰</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="江苏卫视" start="20261107135300 +0000" stop="20261107152500 +0000">
+    <title lang="zh">非诚勿扰</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="江苏卫视" start="20261107152500 +0000" stop="20261108000000 +0000">
+    <title lang="zh">林深见鹿</title>
+    <desc />
+    <date>2026-11-07</date>
   </programme>
 <channel id="湖南卫视">
     <display-name lang="China">湖南卫视</display-name>
@@ -13286,10 +14266,170 @@
     <desc />
     <date>2026-11-06</date>
   </programme>
-  <programme channel="湖南卫视" start="20261106155000 +0000" stop="20261107000000 +0000">
+  <programme channel="湖南卫视" start="20261106155000 +0000" stop="20261106173000 +0000">
     <title lang="zh">不想睡的星期五</title>
     <desc />
     <date>2026-11-06</date>
+  </programme>
+  <programme channel="湖南卫视" start="20261106173000 +0000" stop="20261106200000 +0000">
+    <title lang="zh">新闻大求真</title>
+    <desc />
+    <date>2026-11-06</date>
+  </programme>
+  <programme channel="湖南卫视" start="20261106200000 +0000" stop="20261106213000 +0000">
+    <title lang="zh">中国3</title>
+    <desc />
+    <date>2026-11-06</date>
+  </programme>
+  <programme channel="湖南卫视" start="20261106213000 +0000" stop="20261106220000 +0000">
+    <title lang="zh">新闻大求真</title>
+    <desc />
+    <date>2026-11-06</date>
+  </programme>
+  <programme channel="湖南卫视" start="20261106220000 +0000" stop="20261106230000 +0000">
+    <title lang="zh">左宗棠收复新疆</title>
+    <desc />
+    <date>2026-11-06</date>
+  </programme>
+  <programme channel="湖南卫视" start="20261106230000 +0000" stop="20261106230100 +0000">
+    <title lang="zh">中华人民共和国国歌</title>
+    <desc />
+    <date>2026-11-06</date>
+  </programme>
+  <programme channel="湖南卫视" start="20261106230100 +0000" stop="20261106233000 +0000">
+    <title lang="zh">湖南新闻联播</title>
+    <desc />
+    <date>2026-11-06</date>
+  </programme>
+  <programme channel="湖南卫视" start="20261106233000 +0000" stop="20261107000000 +0000">
+    <title lang="zh">梅花儿香(36)</title>
+    <desc />
+    <date>2026-11-06</date>
+  </programme>
+  <programme channel="湖南卫视" start="20261107000000 +0000" stop="20261107000800 +0000">
+    <title lang="zh">安全警长啦咘啦哆2(25)</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="湖南卫视" start="20261107000800 +0000" stop="20261107001600 +0000">
+    <title lang="zh">安全警长啦咘啦哆2(26)</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="湖南卫视" start="20261107001600 +0000" stop="20261107002400 +0000">
+    <title lang="zh">安全警长啦咘啦哆2(27)</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="湖南卫视" start="20261107002400 +0000" stop="20261107003200 +0000">
+    <title lang="zh">安全警长啦咘啦哆2(28)</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="湖南卫视" start="20261107003200 +0000" stop="20261107004000 +0000">
+    <title lang="zh">安全警长啦咘啦哆2(29)</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="湖南卫视" start="20261107004000 +0000" stop="20261107013200 +0000">
+    <title lang="zh">梅花儿香(37)</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="湖南卫视" start="20261107013200 +0000" stop="20261107022500 +0000">
+    <title lang="zh">梅花儿香(38)</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="湖南卫视" start="20261107022500 +0000" stop="20261107031700 +0000">
+    <title lang="zh">梅花儿香(39)</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="湖南卫视" start="20261107031700 +0000" stop="20261107041000 +0000">
+    <title lang="zh">梅花儿香(40)</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="湖南卫视" start="20261107041000 +0000" stop="20261107043000 +0000">
+    <title lang="zh">午间新闻</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="湖南卫视" start="20261107043000 +0000" stop="20261107043500 +0000">
+    <title lang="zh">卫视气象站</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="湖南卫视" start="20261107043500 +0000" stop="20261107053000 +0000">
+    <title lang="zh">背后2(10)</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="湖南卫视" start="20261107053000 +0000" stop="20261107063000 +0000">
+    <title lang="zh">花儿与少年2026(9)(重播)</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="湖南卫视" start="20261107063000 +0000" stop="20261107072200 +0000">
+    <title lang="zh">玉簟秋(25)(重播)</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="湖南卫视" start="20261107072200 +0000" stop="20261107081500 +0000">
+    <title lang="zh">玉簟秋(26)(重播)</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="湖南卫视" start="20261107081500 +0000" stop="20261107090700 +0000">
+    <title lang="zh">玉簟秋(27)(重播)</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="湖南卫视" start="20261107090700 +0000" stop="20261107100000 +0000">
+    <title lang="zh">玉簟秋(28)(重播)</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="湖南卫视" start="20261107100000 +0000" stop="20261107103000 +0000">
+    <title lang="zh">首发</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="湖南卫视" start="20261107103000 +0000" stop="20261107110000 +0000">
+    <title lang="zh">湖南新闻联播</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="湖南卫视" start="20261107110000 +0000" stop="20261107113000 +0000">
+    <title lang="zh">转播中央台新闻联播</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="湖南卫视" start="20261107113000 +0000" stop="20261107121000 +0000">
+    <title lang="zh">后西游记1(10)</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="湖南卫视" start="20261107121000 +0000" stop="20261107140000 +0000">
+    <title lang="zh">你好，星期六(42)</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="湖南卫视" start="20261107140000 +0000" stop="20261107145500 +0000">
+    <title lang="zh">仁心俱乐部(1)</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="湖南卫视" start="20261107145500 +0000" stop="20261107155000 +0000">
+    <title lang="zh">仁心俱乐部(2)</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="湖南卫视" start="20261107155000 +0000" stop="20261108000000 +0000">
+    <title lang="zh">花儿与少年2026(9)(重播)</title>
+    <desc />
+    <date>2026-11-07</date>
   </programme>
 <channel id="四川卫视">
     <display-name lang="China">四川卫视</display-name>
@@ -13415,10 +14555,190 @@
     <desc />
     <date>2026-11-06</date>
   </programme>
-  <programme channel="四川卫视" start="20261106155600 +0000" stop="20261107000000 +0000">
+  <programme channel="四川卫视" start="20261106155600 +0000" stop="20261106160300 +0000">
     <title lang="zh">乌云之上(15)</title>
     <desc />
     <date>2026-11-06</date>
+  </programme>
+  <programme channel="四川卫视" start="20261106160300 +0000" stop="20261106164400 +0000">
+    <title lang="zh">乌云之上(14)</title>
+    <desc />
+    <date>2026-11-06</date>
+  </programme>
+  <programme channel="四川卫视" start="20261106164400 +0000" stop="20261106172500 +0000">
+    <title lang="zh">乌云之上(15)</title>
+    <desc />
+    <date>2026-11-06</date>
+  </programme>
+  <programme channel="四川卫视" start="20261106172500 +0000" stop="20261106180400 +0000">
+    <title lang="zh">乌云之上(16)</title>
+    <desc />
+    <date>2026-11-06</date>
+  </programme>
+  <programme channel="四川卫视" start="20261106180400 +0000" stop="20261106183400 +0000">
+    <title lang="zh">川菜开放日</title>
+    <desc />
+    <date>2026-11-06</date>
+  </programme>
+  <programme channel="四川卫视" start="20261106183400 +0000" stop="20261106210600 +0000">
+    <title lang="zh">厨房里有哲学家</title>
+    <desc />
+    <date>2026-11-06</date>
+  </programme>
+  <programme channel="四川卫视" start="20261106210600 +0000" stop="20261106215900 +0000">
+    <title lang="zh">津门飞鹰(5)</title>
+    <desc />
+    <date>2026-11-06</date>
+  </programme>
+  <programme channel="四川卫视" start="20261106215900 +0000" stop="20261106230000 +0000">
+    <title lang="zh">津门飞鹰(6)</title>
+    <desc />
+    <date>2026-11-06</date>
+  </programme>
+  <programme channel="四川卫视" start="20261106230000 +0000" stop="20261106230100 +0000">
+    <title lang="zh">中华人民共和国国歌</title>
+    <desc />
+    <date>2026-11-06</date>
+  </programme>
+  <programme channel="四川卫视" start="20261106230100 +0000" stop="20261106233000 +0000">
+    <title lang="zh">早安四川</title>
+    <desc />
+    <date>2026-11-06</date>
+  </programme>
+  <programme channel="四川卫视" start="20261106233000 +0000" stop="20261107000000 +0000">
+    <title lang="zh">早间气象</title>
+    <desc />
+    <date>2026-11-06</date>
+  </programme>
+  <programme channel="四川卫视" start="20261107001000 +0000" stop="20261107002000 +0000">
+    <title lang="zh">宇宙护卫队之超甲恐龙队(1)</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="四川卫视" start="20261107002000 +0000" stop="20261107003000 +0000">
+    <title lang="zh">宇宙护卫队之超甲恐龙队(2)</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="四川卫视" start="20261107003000 +0000" stop="20261107004000 +0000">
+    <title lang="zh">宇宙护卫队之超甲恐龙队(3)</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="四川卫视" start="20261107004000 +0000" stop="20261107013200 +0000">
+    <title lang="zh">武松(20)</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="四川卫视" start="20261107013200 +0000" stop="20261107022500 +0000">
+    <title lang="zh">武松(21)</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="四川卫视" start="20261107022500 +0000" stop="20261107031700 +0000">
+    <title lang="zh">武松(22)</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="四川卫视" start="20261107031700 +0000" stop="20261107041000 +0000">
+    <title lang="zh">武松(23)</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="四川卫视" start="20261107041000 +0000" stop="20261107042000 +0000">
+    <title lang="zh">午间气象播报</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="四川卫视" start="20261107042000 +0000" stop="20261107051600 +0000">
+    <title lang="zh">武松(24)</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="四川卫视" start="20261107051600 +0000" stop="20261107061300 +0000">
+    <title lang="zh">武松(25)</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="四川卫视" start="20261107061300 +0000" stop="20261107071000 +0000">
+    <title lang="zh">武松(26)</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="四川卫视" start="20261107071000 +0000" stop="20261107080600 +0000">
+    <title lang="zh">武松(27)</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="四川卫视" start="20261107080600 +0000" stop="20261107090300 +0000">
+    <title lang="zh">武松(28)</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="四川卫视" start="20261107090300 +0000" stop="20261107100000 +0000">
+    <title lang="zh">武松(29)</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="四川卫视" start="20261107100000 +0000" stop="20261107103000 +0000">
+    <title lang="zh">四川超安逸</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="四川卫视" start="20261107103000 +0000" stop="20261107105500 +0000">
+    <title lang="zh">四川新闻联播</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="四川卫视" start="20261107105500 +0000" stop="20261107110000 +0000">
+    <title lang="zh">四川省城市天气预报</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="四川卫视" start="20261107110000 +0000" stop="20261107113500 +0000">
+    <title lang="zh">转播中央台新闻联播</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="四川卫视" start="20261107113500 +0000" stop="20261107122200 +0000">
+    <title lang="zh">刑警之海外行动(33)</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="四川卫视" start="20261107122200 +0000" stop="20261107131000 +0000">
+    <title lang="zh">刑警之海外行动(34)</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="四川卫视" start="20261107131000 +0000" stop="20261107133000 +0000">
+    <title lang="zh">锦绣天府(7)</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="四川卫视" start="20261107133000 +0000" stop="20261107140000 +0000">
+    <title lang="zh">花开天下纯享版</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="四川卫视" start="20261107140000 +0000" stop="20261107143000 +0000">
+    <title lang="zh">四川新闻联播</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="四川卫视" start="20261107143000 +0000" stop="20261107151300 +0000">
+    <title lang="zh">宿敌(1)</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="四川卫视" start="20261107151300 +0000" stop="20261107155600 +0000">
+    <title lang="zh">宿敌(2)</title>
+    <desc />
+    <date>2026-11-07</date>
+  </programme>
+  <programme channel="四川卫视" start="20261107155600 +0000" stop="20261108000000 +0000">
+    <title lang="zh">宿敌(3)</title>
+    <desc />
+    <date>2026-11-07</date>
   </programme>
 <channel id="凤凰中文台">
     <display-name lang="Hong Kong">凤凰中文台</display-name>
@@ -14587,159 +15907,6 @@
     <display-name>凤凰香港台</display-name>
     <icon src="https://iptv.yang-1989.xyz/logo/凤凰香港台.webp" />
   </channel>
-  <programme start="20261103000000 +0800" stop="20261103003000 +0800" channel="凤凰香港台">
-    <title lang="zh">華潤 鳳凰聚焦</title>
-  </programme>
-  <programme start="20261103003000 +0800" stop="20261103010000 +0800" channel="凤凰香港台">
-    <title lang="zh">以岭葯業 新聞今日談</title>
-  </programme>
-  <programme start="20261103010000 +0800" stop="20261103013000 +0800" channel="凤凰香港台">
-    <title lang="zh">冷暖人生</title>
-  </programme>
-  <programme start="20261103013000 +0800" stop="20261103020000 +0800" channel="凤凰香港台">
-    <title lang="zh">時事大破解</title>
-  </programme>
-  <programme start="20261103020000 +0800" stop="20261103023000 +0800" channel="凤凰香港台">
-    <title lang="zh">鳳凰全球連線</title>
-  </programme>
-  <programme start="20261103023000 +0800" stop="20261103030000 +0800" channel="凤凰香港台">
-    <title lang="zh">鳳凰大視野</title>
-  </programme>
-  <programme start="20261103030000 +0800" stop="20261103033000 +0800" channel="凤凰香港台">
-    <title lang="zh">華潤 鳳凰聚焦</title>
-  </programme>
-  <programme start="20261103033000 +0800" stop="20261103040000 +0800" channel="凤凰香港台">
-    <title lang="zh">總編輯時間</title>
-  </programme>
-  <programme start="20261103040000 +0800" stop="20261103043000 +0800" channel="凤凰香港台">
-    <title lang="zh">冷暖人生</title>
-  </programme>
-  <programme start="20261103043000 +0800" stop="20261103050000 +0800" channel="凤凰香港台">
-    <title lang="zh">X +</title>
-  </programme>
-  <programme start="20261103050000 +0800" stop="20261103053000 +0800" channel="凤凰香港台">
-    <title lang="zh">時事大破解</title>
-  </programme>
-  <programme start="20261103053000 +0800" stop="20261103060000 +0800" channel="凤凰香港台">
-    <title lang="zh">以岭葯業 新聞今日談</title>
-  </programme>
-  <programme start="20261103060000 +0800" stop="20261103063000 +0800" channel="凤凰香港台">
-    <title lang="zh">文化大觀園</title>
-  </programme>
-  <programme start="20261103063000 +0800" stop="20261103070000 +0800" channel="凤凰香港台">
-    <title lang="zh">鳳凰大視野</title>
-  </programme>
-  <programme start="20261103070000 +0800" stop="20261103075700 +0800" channel="凤凰香港台">
-    <title lang="zh">鳳凰早班車</title>
-  </programme>
-  <programme start="20261103075700 +0800" stop="20261103080000 +0800" channel="凤凰香港台">
-    <title lang="zh">鳳凰氣象站</title>
-  </programme>
-  <programme start="20261103080000 +0800" stop="20261103085700 +0800" channel="凤凰香港台">
-    <title lang="zh">鳳凰早班車</title>
-  </programme>
-  <programme start="20261103085700 +0800" stop="20261103090000 +0800" channel="凤凰香港台">
-    <title lang="zh">鳳凰氣象站</title>
-  </programme>
-  <programme start="20261103090000 +0800" stop="20261103093000 +0800" channel="凤凰香港台">
-    <title lang="zh">總編輯時間</title>
-  </programme>
-  <programme start="20261103093000 +0800" stop="20261103100000 +0800" channel="凤凰香港台">
-    <title lang="zh">冷暖人生</title>
-  </programme>
-  <programme start="20261103100000 +0800" stop="20261103103000 +0800" channel="凤凰香港台">
-    <title lang="zh">X +</title>
-  </programme>
-  <programme start="20261103103000 +0800" stop="20261103110000 +0800" channel="凤凰香港台">
-    <title lang="zh">鳳凰大視野</title>
-  </programme>
-  <programme start="20261103110000 +0800" stop="20261103113000 +0800" channel="凤凰香港台">
-    <title lang="zh">時事大破解</title>
-  </programme>
-  <programme start="20261103113000 +0800" stop="20261103120000 +0800" channel="凤凰香港台">
-    <title lang="zh">華潤 鳳凰聚焦</title>
-  </programme>
-  <programme start="20261103120000 +0800" stop="20261103125500 +0800" channel="凤凰香港台">
-    <title lang="zh">鳳凰午間專列</title>
-  </programme>
-  <programme start="20261103125500 +0800" stop="20261103130000 +0800" channel="凤凰香港台">
-    <title lang="zh">鳳凰氣象站</title>
-  </programme>
-  <programme start="20261103130000 +0800" stop="20261103135700 +0800" channel="凤凰香港台">
-    <title lang="zh">午間快綫</title>
-  </programme>
-  <programme start="20261103135700 +0800" stop="20261103140000 +0800" channel="凤凰香港台">
-    <title lang="zh">鳳凰氣象站</title>
-  </programme>
-  <programme start="20261103140000 +0800" stop="20261103143000 +0800" channel="凤凰香港台">
-    <title lang="zh">總編輯時間</title>
-  </programme>
-  <programme start="20261103143000 +0800" stop="20261103150000 +0800" channel="凤凰香港台">
-    <title lang="zh">冷暖人生</title>
-  </programme>
-  <programme start="20261103150000 +0800" stop="20261103153000 +0800" channel="凤凰香港台">
-    <title lang="zh">X +</title>
-  </programme>
-  <programme start="20261103153000 +0800" stop="20261103160000 +0800" channel="凤凰香港台">
-    <title lang="zh">時事大破解</title>
-  </programme>
-  <programme start="20261103160000 +0800" stop="20261103163000 +0800" channel="凤凰香港台">
-    <title lang="zh">鳳凰大視野</title>
-  </programme>
-  <programme start="20261103163000 +0800" stop="20261103170000 +0800" channel="凤凰香港台">
-    <title lang="zh">香港新視點</title>
-  </programme>
-  <programme start="20261103170000 +0800" stop="20261103173000 +0800" channel="凤凰香港台">
-    <title lang="zh">華潤 鳳凰聚焦</title>
-  </programme>
-  <programme start="20261103173000 +0800" stop="20261103174500 +0800" channel="凤凰香港台">
-    <title lang="zh">我的香港故事</title>
-  </programme>
-  <programme start="20261103174500 +0800" stop="20261103180000 +0800" channel="凤凰香港台">
-    <title lang="zh">我的香港故事</title>
-  </programme>
-  <programme start="20261103180000 +0800" stop="20261103182700 +0800" channel="凤凰香港台">
-    <title lang="zh">鳳凰焦點新聞 1800</title>
-  </programme>
-  <programme start="20261103182700 +0800" stop="20261103183000 +0800" channel="凤凰香港台">
-    <title lang="zh">鳳凰氣象站</title>
-  </programme>
-  <programme start="20261103183000 +0800" stop="20261103190000 +0800" channel="凤凰香港台">
-    <title lang="zh">以岭葯業 新聞今日談</title>
-  </programme>
-  <programme start="20261103190000 +0800" stop="20261103195700 +0800" channel="凤凰香港台">
-    <title lang="zh">全球新聞報道</title>
-  </programme>
-  <programme start="20261103195700 +0800" stop="20261103200000 +0800" channel="凤凰香港台">
-    <title lang="zh">鳳凰氣象站</title>
-  </programme>
-  <programme start="20261103200000 +0800" stop="20261103202800 +0800" channel="凤凰香港台">
-    <title lang="zh">時事大破解</title>
-  </programme>
-  <programme start="20261103202800 +0800" stop="20261103203000 +0800" channel="凤凰香港台">
-    <title lang="zh">中國銀行（香港）直達大灣區</title>
-  </programme>
-  <programme start="20261103203000 +0800" stop="20261103210000 +0800" channel="凤凰香港台">
-    <title lang="zh">香港熱廚房</title>
-  </programme>
-  <programme start="20261103210000 +0800" stop="20261103215500 +0800" channel="凤凰香港台">
-    <title lang="zh">時事直通車</title>
-  </programme>
-  <programme start="20261103215500 +0800" stop="20261103220000 +0800" channel="凤凰香港台">
-    <title lang="zh">鳳凰氣象站</title>
-  </programme>
-  <programme start="20261103220000 +0800" stop="20261103223000 +0800" channel="凤凰香港台">
-    <title lang="zh">晚間專綫</title>
-  </programme>
-  <programme start="20261103223000 +0800" stop="20261103230000 +0800" channel="凤凰香港台">
-    <title lang="zh">鳳凰全球連線</title>
-  </programme>
-  <programme start="20261103230000 +0800" stop="20261103233000 +0800" channel="凤凰香港台">
-    <title lang="zh">總編輯時間</title>
-  </programme>
-  <programme start="20261103233000 +0800" stop="20261104000000 +0800" channel="凤凰香港台">
-    <title lang="zh">中國銀行（香港）亞洲財經透視</title>
-  </programme>
   <programme start="20261104000000 +0800" stop="20261104003000 +0800" channel="凤凰香港台">
     <title lang="zh">華潤 鳳凰聚焦</title>
   </programme>
@@ -15336,5 +16503,137 @@
   </programme>
   <programme start="20261107233000 +0800" stop="20261108000000 +0800" channel="凤凰香港台">
     <title lang="zh">碳基的幸福生活</title>
+  </programme>
+  <programme start="20261108000000 +0800" stop="20261108003000 +0800" channel="凤凰香港台">
+    <title lang="zh">時事三對論</title>
+  </programme>
+  <programme start="20261108003000 +0800" stop="20261108010000 +0800" channel="凤凰香港台">
+    <title lang="zh">以岭葯業 新聞今日談</title>
+  </programme>
+  <programme start="20261108010000 +0800" stop="20261108013000 +0800" channel="凤凰香港台">
+    <title lang="zh">空間觀策</title>
+  </programme>
+  <programme start="20261108013000 +0800" stop="20261108023000 +0800" channel="凤凰香港台">
+    <title lang="zh">難忘經典系列:  莫旭秋淡淡秋情演唱會</title>
+  </programme>
+  <programme start="20261108023000 +0800" stop="20261108030000 +0800" channel="凤凰香港台">
+    <title lang="zh">碳基的幸福生活</title>
+  </programme>
+  <programme start="20261108030000 +0800" stop="20261108033000 +0800" channel="凤凰香港台">
+    <title lang="zh">碳基的幸福生活</title>
+  </programme>
+  <programme start="20261108033000 +0800" stop="20261108040000 +0800" channel="凤凰香港台">
+    <title lang="zh">發現大灣區</title>
+  </programme>
+  <programme start="20261108040000 +0800" stop="20261108043000 +0800" channel="凤凰香港台">
+    <title lang="zh">香港新視點</title>
+  </programme>
+  <programme start="20261108043000 +0800" stop="20261108053000 +0800" channel="凤凰香港台">
+    <title lang="zh">難忘經典系列:  莫旭秋淡淡秋情演唱會</title>
+  </programme>
+  <programme start="20261108053000 +0800" stop="20261108060000 +0800" channel="凤凰香港台">
+    <title lang="zh">以岭葯業 新聞今日談</title>
+  </programme>
+  <programme start="20261108060000 +0800" stop="20261108063000 +0800" channel="凤凰香港台">
+    <title lang="zh">時事三對論</title>
+  </programme>
+  <programme start="20261108063000 +0800" stop="20261108070000 +0800" channel="凤凰香港台">
+    <title lang="zh">X +</title>
+  </programme>
+  <programme start="20261108070000 +0800" stop="20261108075500 +0800" channel="凤凰香港台">
+    <title lang="zh">鳳凰早班車</title>
+  </programme>
+  <programme start="20261108075500 +0800" stop="20261108080000 +0800" channel="凤凰香港台">
+    <title lang="zh">鳳凰氣象站</title>
+  </programme>
+  <programme start="20261108080000 +0800" stop="20261108085500 +0800" channel="凤凰香港台">
+    <title lang="zh">鳳凰早班車</title>
+  </programme>
+  <programme start="20261108085500 +0800" stop="20261108090000 +0800" channel="凤凰香港台">
+    <title lang="zh">鳳凰氣象站</title>
+  </programme>
+  <programme start="20261108090000 +0800" stop="20261108100000 +0800" channel="凤凰香港台">
+    <title lang="zh">難忘經典系列:  莫旭秋淡淡秋情演唱會</title>
+  </programme>
+  <programme start="20261108100000 +0800" stop="20261108103000 +0800" channel="凤凰香港台">
+    <title lang="zh">碳基的幸福生活</title>
+  </programme>
+  <programme start="20261108103000 +0800" stop="20261108110000 +0800" channel="凤凰香港台">
+    <title lang="zh">碳基的幸福生活</title>
+  </programme>
+  <programme start="20261108110000 +0800" stop="20261108113000 +0800" channel="凤凰香港台">
+    <title lang="zh">香港新視點</title>
+  </programme>
+  <programme start="20261108113000 +0800" stop="20261108120000 +0800" channel="凤凰香港台">
+    <title lang="zh">時事三對論</title>
+  </programme>
+  <programme start="20261108120000 +0800" stop="20261108125700 +0800" channel="凤凰香港台">
+    <title lang="zh">鳳凰午間專列</title>
+  </programme>
+  <programme start="20261108125700 +0800" stop="20261108130000 +0800" channel="凤凰香港台">
+    <title lang="zh">鳳凰氣象站</title>
+  </programme>
+  <programme start="20261108130000 +0800" stop="20261108135700 +0800" channel="凤凰香港台">
+    <title lang="zh">午間快綫</title>
+  </programme>
+  <programme start="20261108135700 +0800" stop="20261108140000 +0800" channel="凤凰香港台">
+    <title lang="zh">鳳凰氣象站</title>
+  </programme>
+  <programme start="20261108140000 +0800" stop="20261108150000 +0800" channel="凤凰香港台">
+    <title lang="zh">難忘經典系列:  莫旭秋淡淡秋情演唱會</title>
+  </programme>
+  <programme start="20261108150000 +0800" stop="20261108153000 +0800" channel="凤凰香港台">
+    <title lang="zh">石評天下</title>
+  </programme>
+  <programme start="20261108153000 +0800" stop="20261108160000 +0800" channel="凤凰香港台">
+    <title lang="zh">時事三對論</title>
+  </programme>
+  <programme start="20261108160000 +0800" stop="20261108163000 +0800" channel="凤凰香港台">
+    <title lang="zh">風雲對話</title>
+  </programme>
+  <programme start="20261108163000 +0800" stop="20261108170000 +0800" channel="凤凰香港台">
+    <title lang="zh">碳基的幸福生活</title>
+  </programme>
+  <programme start="20261108170000 +0800" stop="20261108173000 +0800" channel="凤凰香港台">
+    <title lang="zh">碳基的幸福生活</title>
+  </programme>
+  <programme start="20261108173000 +0800" stop="20261108180000 +0800" channel="凤凰香港台">
+    <title lang="zh">我們和牠們</title>
+  </programme>
+  <programme start="20261108180000 +0800" stop="20261108182700 +0800" channel="凤凰香港台">
+    <title lang="zh">鳳凰焦點新聞 1800</title>
+  </programme>
+  <programme start="20261108182700 +0800" stop="20261108183000 +0800" channel="凤凰香港台">
+    <title lang="zh">鳳凰氣象站</title>
+  </programme>
+  <programme start="20261108183000 +0800" stop="20261108190000 +0800" channel="凤凰香港台">
+    <title lang="zh">以岭葯業 新聞今日談</title>
+  </programme>
+  <programme start="20261108190000 +0800" stop="20261108195700 +0800" channel="凤凰香港台">
+    <title lang="zh">全球新聞報道</title>
+  </programme>
+  <programme start="20261108195700 +0800" stop="20261108200000 +0800" channel="凤凰香港台">
+    <title lang="zh">鳳凰氣象站</title>
+  </programme>
+  <programme start="20261108200000 +0800" stop="20261108203000 +0800" channel="凤凰香港台">
+    <title lang="zh">發現大灣區</title>
+  </programme>
+  <programme start="20261108203000 +0800" stop="20261108210000 +0800" channel="凤凰香港台">
+    <title lang="zh">時事三對論</title>
+  </programme>
+  <programme start="20261108210000 +0800" stop="20261108215500 +0800" channel="凤凰香港台">
+    <title lang="zh">時事直通車</title>
+  </programme>
+  <programme start="20261108215500 +0800" stop="20261108220000 +0800" channel="凤凰香港台">
+    <title lang="zh">鳳凰氣象站</title>
+  </programme>
+  <programme start="20261108220000 +0800" stop="20261108230000 +0800" channel="凤凰香港台">
+    <title lang="zh">難忘經典系列:  莫旭秋淡淡秋情演唱會</title>
+  </programme>
+  <programme start="20261108230000 +0800" stop="20261108234500 +0800" channel="凤凰香港台">
+    <title lang="zh">大新聞大歷史</title>
+  </programme>
+  <programme start="20261108234500 +0800" stop="20261109000000 +0800" channel="凤凰香港台">
+    <title lang="zh">我的香港故事</title>
   </programme>
   </tv>
